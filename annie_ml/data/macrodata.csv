@@ -1,0 +1,4637 @@
+time,county,unemployment rate
+2011-01,"Allegheny County, PA",
+2011-02,"Allegheny County, PA",
+2011-03,"Allegheny County, PA",7.6
+2011-04,"Allegheny County, PA",7.4
+2011-05,"Allegheny County, PA",7.2
+2011-06,"Allegheny County, PA",6.5
+2011-07,"Allegheny County, PA",7.0
+2011-08,"Allegheny County, PA",7.6
+2011-09,"Allegheny County, PA",7.7
+2011-10,"Allegheny County, PA",7.6
+2011-11,"Allegheny County, PA",6.9
+2011-12,"Allegheny County, PA",6.6
+2012-01,"Allegheny County, PA",6.5
+2012-02,"Allegheny County, PA",6.5
+2012-03,"Allegheny County, PA",7.3
+2012-04,"Allegheny County, PA",7.2
+2012-05,"Allegheny County, PA",7.0
+2012-06,"Allegheny County, PA",6.2
+2012-07,"Allegheny County, PA",6.9
+2012-08,"Allegheny County, PA",7.4
+2012-09,"Allegheny County, PA",7.7
+2012-10,"Allegheny County, PA",7.5
+2012-11,"Allegheny County, PA",6.6
+2012-12,"Allegheny County, PA",6.5
+2013-01,"Allegheny County, PA",6.2
+2013-02,"Allegheny County, PA",6.7
+2013-03,"Allegheny County, PA",7.8
+2013-04,"Allegheny County, PA",7.3
+2013-05,"Allegheny County, PA",6.8
+2013-06,"Allegheny County, PA",6.1
+2013-07,"Allegheny County, PA",6.6
+2013-08,"Allegheny County, PA",7.0
+2013-09,"Allegheny County, PA",7.0
+2013-10,"Allegheny County, PA",6.8
+2013-11,"Allegheny County, PA",6.0
+2013-12,"Allegheny County, PA",6.0
+2014-01,"Allegheny County, PA",5.7
+2014-02,"Allegheny County, PA",5.4
+2014-03,"Allegheny County, PA",6.1
+2014-04,"Allegheny County, PA",6.2
+2014-05,"Allegheny County, PA",5.9
+2014-06,"Allegheny County, PA",4.9
+2014-07,"Allegheny County, PA",5.4
+2014-08,"Allegheny County, PA",5.6
+2014-09,"Allegheny County, PA",6.0
+2014-10,"Allegheny County, PA",5.7
+2014-11,"Allegheny County, PA",4.8
+2014-12,"Allegheny County, PA",4.6
+2015-01,"Allegheny County, PA",4.6
+2015-02,"Allegheny County, PA",4.5
+2015-03,"Allegheny County, PA",5.4
+2015-04,"Allegheny County, PA",5.3
+2015-05,"Allegheny County, PA",5.1
+2015-06,"Allegheny County, PA",4.5
+2015-07,"Allegheny County, PA",5.1
+2015-08,"Allegheny County, PA",5.2
+2015-09,"Allegheny County, PA",5.5
+2015-10,"Allegheny County, PA",5.1
+2015-11,"Allegheny County, PA",4.6
+2015-12,"Allegheny County, PA",4.6
+2016-01,"Allegheny County, PA",4.5
+2016-02,"Allegheny County, PA",4.4
+2016-03,"Allegheny County, PA",5.2
+2016-04,"Allegheny County, PA",5.4
+2016-05,"Allegheny County, PA",5.3
+2016-06,"Allegheny County, PA",4.9
+2016-07,"Allegheny County, PA",5.0
+2016-08,"Allegheny County, PA",5.5
+2016-09,"Allegheny County, PA",5.7
+2016-10,"Allegheny County, PA",5.6
+2016-11,"Allegheny County, PA",5.1
+2016-12,"Allegheny County, PA",5.0
+2017-01,"Allegheny County, PA",4.7
+2017-02,"Allegheny County, PA",4.6
+2017-03,"Allegheny County, PA",5.4
+2017-04,"Allegheny County, PA",5.4
+2017-05,"Allegheny County, PA",5.0
+2017-06,"Allegheny County, PA",4.4
+2017-07,"Allegheny County, PA",4.7
+2017-08,"Allegheny County, PA",5.0
+2017-09,"Allegheny County, PA",5.1
+2017-10,"Allegheny County, PA",5.0
+2017-11,"Allegheny County, PA",4.3
+2017-12,"Allegheny County, PA",4.1
+2018-01,"Allegheny County, PA",4.1
+2018-02,"Allegheny County, PA",4.1
+2018-03,"Allegheny County, PA",4.6
+2018-04,"Allegheny County, PA",4.6
+2018-05,"Allegheny County, PA",4.2
+2018-06,"Allegheny County, PA",3.6
+2018-07,"Allegheny County, PA",3.7
+2018-08,"Allegheny County, PA",4.4
+2018-09,"Allegheny County, PA",4.4
+2018-10,"Allegheny County, PA",4.3
+2018-11,"Allegheny County, PA",3.6
+2018-12,"Allegheny County, PA",3.6
+2019-01,"Allegheny County, PA",3.4
+2019-02,"Allegheny County, PA",3.5
+2019-03,"Allegheny County, PA",4.3
+2019-04,"Allegheny County, PA",4.2
+2019-05,"Allegheny County, PA",4.1
+2019-06,"Allegheny County, PA",3.4
+2019-07,"Allegheny County, PA",3.8
+2019-08,"Allegheny County, PA",4.2
+2019-09,"Allegheny County, PA",4.6
+2019-10,"Allegheny County, PA",4.6
+2019-11,"Allegheny County, PA",4.0
+2019-12,"Allegheny County, PA",4.2
+2020-01,"Allegheny County, PA",4.1
+2020-02,"Allegheny County, PA",4.1
+2020-03,"Allegheny County, PA",
+2020-04,"Allegheny County, PA",
+2020-05,"Allegheny County, PA",
+2020-06,"Allegheny County, PA",
+2020-07,"Allegheny County, PA",
+2020-08,"Allegheny County, PA",
+2020-09,"Allegheny County, PA",
+2020-10,"Allegheny County, PA",
+2020-11,"Allegheny County, PA",
+2020-12,"Allegheny County, PA",
+2021-01,"Allegheny County, PA",
+2021-02,"Allegheny County, PA",
+2011-01,"Baltimore city, MD",
+2011-02,"Baltimore city, MD",
+2011-03,"Baltimore city, MD",11.4
+2011-04,"Baltimore city, MD",11.1
+2011-05,"Baltimore city, MD",10.6
+2011-06,"Baltimore city, MD",10.2
+2011-07,"Baltimore city, MD",10.4
+2011-08,"Baltimore city, MD",11.2
+2011-09,"Baltimore city, MD",11.2
+2011-10,"Baltimore city, MD",11.1
+2011-11,"Baltimore city, MD",10.5
+2011-12,"Baltimore city, MD",10.2
+2012-01,"Baltimore city, MD",9.9
+2012-02,"Baltimore city, MD",9.8
+2012-03,"Baltimore city, MD",10.5
+2012-04,"Baltimore city, MD",10.3
+2012-05,"Baltimore city, MD",9.9
+2012-06,"Baltimore city, MD",9.4
+2012-07,"Baltimore city, MD",9.9
+2012-08,"Baltimore city, MD",10.7
+2012-09,"Baltimore city, MD",10.9
+2012-10,"Baltimore city, MD",10.7
+2012-11,"Baltimore city, MD",10.0
+2012-12,"Baltimore city, MD",10.0
+2013-01,"Baltimore city, MD",9.8
+2013-02,"Baltimore city, MD",9.9
+2013-03,"Baltimore city, MD",10.8
+2013-04,"Baltimore city, MD",10.3
+2013-05,"Baltimore city, MD",9.8
+2013-06,"Baltimore city, MD",9.3
+2013-07,"Baltimore city, MD",9.5
+2013-08,"Baltimore city, MD",10.1
+2013-09,"Baltimore city, MD",10.1
+2013-10,"Baltimore city, MD",9.8
+2013-11,"Baltimore city, MD",9.2
+2013-12,"Baltimore city, MD",9.4
+2014-01,"Baltimore city, MD",9.1
+2014-02,"Baltimore city, MD",8.8
+2014-03,"Baltimore city, MD",9.5
+2014-04,"Baltimore city, MD",9.3
+2014-05,"Baltimore city, MD",8.9
+2014-06,"Baltimore city, MD",8.0
+2014-07,"Baltimore city, MD",8.4
+2014-08,"Baltimore city, MD",8.8
+2014-09,"Baltimore city, MD",9.0
+2014-10,"Baltimore city, MD",8.9
+2014-11,"Baltimore city, MD",8.0
+2014-12,"Baltimore city, MD",8.0
+2015-01,"Baltimore city, MD",8.0
+2015-02,"Baltimore city, MD",7.8
+2015-03,"Baltimore city, MD",8.7
+2015-04,"Baltimore city, MD",8.4
+2015-05,"Baltimore city, MD",7.9
+2015-06,"Baltimore city, MD",7.2
+2015-07,"Baltimore city, MD",7.5
+2015-08,"Baltimore city, MD",7.8
+2015-09,"Baltimore city, MD",8.0
+2015-10,"Baltimore city, MD",7.7
+2015-11,"Baltimore city, MD",6.9
+2015-12,"Baltimore city, MD",6.9
+2016-01,"Baltimore city, MD",6.8
+2016-02,"Baltimore city, MD",6.6
+2016-03,"Baltimore city, MD",7.3
+2016-04,"Baltimore city, MD",7.1
+2016-05,"Baltimore city, MD",6.8
+2016-06,"Baltimore city, MD",6.3
+2016-07,"Baltimore city, MD",6.1
+2016-08,"Baltimore city, MD",6.8
+2016-09,"Baltimore city, MD",6.9
+2016-10,"Baltimore city, MD",7.1
+2016-11,"Baltimore city, MD",6.3
+2016-12,"Baltimore city, MD",6.4
+2017-01,"Baltimore city, MD",6.2
+2017-02,"Baltimore city, MD",6.2
+2017-03,"Baltimore city, MD",7.0
+2017-04,"Baltimore city, MD",6.7
+2017-05,"Baltimore city, MD",6.4
+2017-06,"Baltimore city, MD",6.1
+2017-07,"Baltimore city, MD",5.8
+2017-08,"Baltimore city, MD",6.5
+2017-09,"Baltimore city, MD",6.5
+2017-10,"Baltimore city, MD",6.8
+2017-11,"Baltimore city, MD",5.9
+2017-12,"Baltimore city, MD",5.8
+2018-01,"Baltimore city, MD",5.9
+2018-02,"Baltimore city, MD",6.0
+2018-03,"Baltimore city, MD",6.6
+2018-04,"Baltimore city, MD",6.3
+2018-05,"Baltimore city, MD",5.9
+2018-06,"Baltimore city, MD",5.5
+2018-07,"Baltimore city, MD",5.4
+2018-08,"Baltimore city, MD",6.1
+2018-09,"Baltimore city, MD",6.1
+2018-10,"Baltimore city, MD",6.4
+2018-11,"Baltimore city, MD",5.2
+2018-12,"Baltimore city, MD",5.2
+2019-01,"Baltimore city, MD",5.0
+2019-02,"Baltimore city, MD",5.2
+2019-03,"Baltimore city, MD",5.8
+2019-04,"Baltimore city, MD",5.4
+2019-05,"Baltimore city, MD",5.2
+2019-06,"Baltimore city, MD",4.7
+2019-07,"Baltimore city, MD",4.9
+2019-08,"Baltimore city, MD",5.5
+2019-09,"Baltimore city, MD",5.5
+2019-10,"Baltimore city, MD",5.7
+2019-11,"Baltimore city, MD",4.8
+2019-12,"Baltimore city, MD",4.8
+2020-01,"Baltimore city, MD",4.6
+2020-02,"Baltimore city, MD",4.2
+2020-03,"Baltimore city, MD",
+2020-04,"Baltimore city, MD",
+2020-05,"Baltimore city, MD",
+2020-06,"Baltimore city, MD",
+2020-07,"Baltimore city, MD",
+2020-08,"Baltimore city, MD",
+2020-09,"Baltimore city, MD",
+2020-10,"Baltimore city, MD",
+2020-11,"Baltimore city, MD",
+2020-12,"Baltimore city, MD",
+2021-01,"Baltimore city, MD",
+2021-02,"Baltimore city, MD",
+2011-01,"Bergen County, NJ",
+2011-02,"Bergen County, NJ",
+2011-03,"Bergen County, NJ",8.0
+2011-04,"Bergen County, NJ",8.0
+2011-05,"Bergen County, NJ",7.8
+2011-06,"Bergen County, NJ",7.6
+2011-07,"Bergen County, NJ",7.6
+2011-08,"Bergen County, NJ",8.0
+2011-09,"Bergen County, NJ",8.3
+2011-10,"Bergen County, NJ",7.8
+2011-11,"Bergen County, NJ",7.7
+2011-12,"Bergen County, NJ",7.5
+2012-01,"Bergen County, NJ",7.2
+2012-02,"Bergen County, NJ",7.1
+2012-03,"Bergen County, NJ",7.6
+2012-04,"Bergen County, NJ",7.9
+2012-05,"Bergen County, NJ",7.7
+2012-06,"Bergen County, NJ",7.6
+2012-07,"Bergen County, NJ",7.7
+2012-08,"Bergen County, NJ",8.2
+2012-09,"Bergen County, NJ",8.5
+2012-10,"Bergen County, NJ",7.9
+2012-11,"Bergen County, NJ",7.5
+2012-12,"Bergen County, NJ",7.4
+2013-01,"Bergen County, NJ",7.2
+2013-02,"Bergen County, NJ",7.0
+2013-03,"Bergen County, NJ",7.7
+2013-04,"Bergen County, NJ",7.4
+2013-05,"Bergen County, NJ",7.0
+2013-06,"Bergen County, NJ",6.7
+2013-07,"Bergen County, NJ",7.0
+2013-08,"Bergen County, NJ",7.4
+2013-09,"Bergen County, NJ",7.3
+2013-10,"Bergen County, NJ",6.7
+2013-11,"Bergen County, NJ",6.4
+2013-12,"Bergen County, NJ",6.3
+2014-01,"Bergen County, NJ",5.5
+2014-02,"Bergen County, NJ",5.2
+2014-03,"Bergen County, NJ",5.8
+2014-04,"Bergen County, NJ",6.0
+2014-05,"Bergen County, NJ",5.8
+2014-06,"Bergen County, NJ",4.9
+2014-07,"Bergen County, NJ",5.4
+2014-08,"Bergen County, NJ",5.5
+2014-09,"Bergen County, NJ",6.1
+2014-10,"Bergen County, NJ",5.8
+2014-11,"Bergen County, NJ",5.3
+2014-12,"Bergen County, NJ",5.1
+2015-01,"Bergen County, NJ",4.9
+2015-02,"Bergen County, NJ",4.6
+2015-03,"Bergen County, NJ",5.4
+2015-04,"Bergen County, NJ",5.3
+2015-05,"Bergen County, NJ",5.1
+2015-06,"Bergen County, NJ",4.6
+2015-07,"Bergen County, NJ",5.0
+2015-08,"Bergen County, NJ",4.9
+2015-09,"Bergen County, NJ",5.3
+2015-10,"Bergen County, NJ",4.7
+2015-11,"Bergen County, NJ",4.4
+2015-12,"Bergen County, NJ",4.1
+2016-01,"Bergen County, NJ",3.8
+2016-02,"Bergen County, NJ",3.6
+2016-03,"Bergen County, NJ",4.2
+2016-04,"Bergen County, NJ",4.3
+2016-05,"Bergen County, NJ",4.4
+2016-06,"Bergen County, NJ",4.2
+2016-07,"Bergen County, NJ",4.2
+2016-08,"Bergen County, NJ",4.4
+2016-09,"Bergen County, NJ",4.8
+2016-10,"Bergen County, NJ",4.5
+2016-11,"Bergen County, NJ",4.3
+2016-12,"Bergen County, NJ",4.0
+2017-01,"Bergen County, NJ",3.5
+2017-02,"Bergen County, NJ",3.5
+2017-03,"Bergen County, NJ",4.1
+2017-04,"Bergen County, NJ",4.1
+2017-05,"Bergen County, NJ",3.7
+2017-06,"Bergen County, NJ",3.6
+2017-07,"Bergen County, NJ",3.8
+2017-08,"Bergen County, NJ",3.9
+2017-09,"Bergen County, NJ",4.5
+2017-10,"Bergen County, NJ",4.4
+2017-11,"Bergen County, NJ",4.0
+2017-12,"Bergen County, NJ",3.7
+2018-01,"Bergen County, NJ",3.5
+2018-02,"Bergen County, NJ",3.3
+2018-03,"Bergen County, NJ",3.9
+2018-04,"Bergen County, NJ",3.9
+2018-05,"Bergen County, NJ",3.6
+2018-06,"Bergen County, NJ",3.2
+2018-07,"Bergen County, NJ",3.2
+2018-08,"Bergen County, NJ",3.7
+2018-09,"Bergen County, NJ",4.0
+2018-10,"Bergen County, NJ",3.6
+2018-11,"Bergen County, NJ",3.2
+2018-12,"Bergen County, NJ",2.9
+2019-01,"Bergen County, NJ",2.6
+2019-02,"Bergen County, NJ",2.8
+2019-03,"Bergen County, NJ",3.4
+2019-04,"Bergen County, NJ",3.3
+2019-05,"Bergen County, NJ",3.0
+2019-06,"Bergen County, NJ",2.3
+2019-07,"Bergen County, NJ",2.5
+2019-08,"Bergen County, NJ",2.7
+2019-09,"Bergen County, NJ",3.3
+2019-10,"Bergen County, NJ",3.2
+2019-11,"Bergen County, NJ",2.9
+2019-12,"Bergen County, NJ",2.9
+2020-01,"Bergen County, NJ",2.8
+2020-02,"Bergen County, NJ",2.8
+2020-03,"Bergen County, NJ",
+2020-04,"Bergen County, NJ",
+2020-05,"Bergen County, NJ",
+2020-06,"Bergen County, NJ",
+2020-07,"Bergen County, NJ",
+2020-08,"Bergen County, NJ",
+2020-09,"Bergen County, NJ",
+2020-10,"Bergen County, NJ",
+2020-11,"Bergen County, NJ",
+2020-12,"Bergen County, NJ",
+2021-01,"Bergen County, NJ",
+2021-02,"Bergen County, NJ",
+2011-01,"Berkshire County, MA",
+2011-02,"Berkshire County, MA",
+2011-03,"Berkshire County, MA",9.7
+2011-04,"Berkshire County, MA",9.2
+2011-05,"Berkshire County, MA",8.9
+2011-06,"Berkshire County, MA",8.1
+2011-07,"Berkshire County, MA",7.7
+2011-08,"Berkshire County, MA",7.8
+2011-09,"Berkshire County, MA",7.4
+2011-10,"Berkshire County, MA",7.0
+2011-11,"Berkshire County, MA",7.4
+2011-12,"Berkshire County, MA",6.8
+2012-01,"Berkshire County, MA",7.0
+2012-02,"Berkshire County, MA",7.3
+2012-03,"Berkshire County, MA",8.5
+2012-04,"Berkshire County, MA",8.2
+2012-05,"Berkshire County, MA",7.9
+2012-06,"Berkshire County, MA",7.0
+2012-07,"Berkshire County, MA",6.9
+2012-08,"Berkshire County, MA",7.2
+2012-09,"Berkshire County, MA",7.1
+2012-10,"Berkshire County, MA",6.7
+2012-11,"Berkshire County, MA",7.2
+2012-12,"Berkshire County, MA",6.8
+2013-01,"Berkshire County, MA",7.0
+2013-02,"Berkshire County, MA",7.6
+2013-03,"Berkshire County, MA",8.9
+2013-04,"Berkshire County, MA",8.3
+2013-05,"Berkshire County, MA",8.2
+2013-06,"Berkshire County, MA",7.4
+2013-07,"Berkshire County, MA",7.3
+2013-08,"Berkshire County, MA",7.5
+2013-09,"Berkshire County, MA",7.2
+2013-10,"Berkshire County, MA",6.8
+2013-11,"Berkshire County, MA",7.1
+2013-12,"Berkshire County, MA",6.7
+2014-01,"Berkshire County, MA",6.9
+2014-02,"Berkshire County, MA",6.9
+2014-03,"Berkshire County, MA",8.0
+2014-04,"Berkshire County, MA",7.9
+2014-05,"Berkshire County, MA",7.6
+2014-06,"Berkshire County, MA",6.9
+2014-07,"Berkshire County, MA",6.6
+2014-08,"Berkshire County, MA",6.5
+2014-09,"Berkshire County, MA",6.5
+2014-10,"Berkshire County, MA",6.0
+2014-11,"Berkshire County, MA",6.0
+2014-12,"Berkshire County, MA",5.5
+2015-01,"Berkshire County, MA",5.7
+2015-02,"Berkshire County, MA",5.8
+2015-03,"Berkshire County, MA",6.8
+2015-04,"Berkshire County, MA",6.5
+2015-05,"Berkshire County, MA",6.2
+2015-06,"Berkshire County, MA",5.5
+2015-07,"Berkshire County, MA",5.4
+2015-08,"Berkshire County, MA",5.3
+2015-09,"Berkshire County, MA",5.2
+2015-10,"Berkshire County, MA",4.7
+2015-11,"Berkshire County, MA",4.8
+2015-12,"Berkshire County, MA",4.6
+2016-01,"Berkshire County, MA",4.8
+2016-02,"Berkshire County, MA",5.0
+2016-03,"Berkshire County, MA",5.9
+2016-04,"Berkshire County, MA",5.7
+2016-05,"Berkshire County, MA",5.4
+2016-06,"Berkshire County, MA",4.7
+2016-07,"Berkshire County, MA",4.4
+2016-08,"Berkshire County, MA",4.4
+2016-09,"Berkshire County, MA",4.2
+2016-10,"Berkshire County, MA",3.8
+2016-11,"Berkshire County, MA",4.0
+2016-12,"Berkshire County, MA",3.6
+2017-01,"Berkshire County, MA",3.8
+2017-02,"Berkshire County, MA",4.3
+2017-03,"Berkshire County, MA",5.5
+2017-04,"Berkshire County, MA",5.6
+2017-05,"Berkshire County, MA",5.2
+2017-06,"Berkshire County, MA",4.5
+2017-07,"Berkshire County, MA",4.4
+2017-08,"Berkshire County, MA",4.3
+2017-09,"Berkshire County, MA",4.1
+2017-10,"Berkshire County, MA",3.9
+2017-11,"Berkshire County, MA",4.1
+2017-12,"Berkshire County, MA",3.6
+2018-01,"Berkshire County, MA",3.7
+2018-02,"Berkshire County, MA",4.1
+2018-03,"Berkshire County, MA",5.3
+2018-04,"Berkshire County, MA",5.3
+2018-05,"Berkshire County, MA",5.0
+2018-06,"Berkshire County, MA",4.3
+2018-07,"Berkshire County, MA",4.0
+2018-08,"Berkshire County, MA",4.1
+2018-09,"Berkshire County, MA",3.8
+2018-10,"Berkshire County, MA",3.4
+2018-11,"Berkshire County, MA",3.5
+2018-12,"Berkshire County, MA",3.1
+2019-01,"Berkshire County, MA",3.4
+2019-02,"Berkshire County, MA",3.9
+2019-03,"Berkshire County, MA",4.8
+2019-04,"Berkshire County, MA",4.6
+2019-05,"Berkshire County, MA",4.3
+2019-06,"Berkshire County, MA",3.5
+2019-07,"Berkshire County, MA",3.4
+2019-08,"Berkshire County, MA",3.5
+2019-09,"Berkshire County, MA",3.3
+2019-10,"Berkshire County, MA",3.1
+2019-11,"Berkshire County, MA",3.0
+2019-12,"Berkshire County, MA",2.6
+2020-01,"Berkshire County, MA",2.8
+2020-02,"Berkshire County, MA",3.1
+2020-03,"Berkshire County, MA",
+2020-04,"Berkshire County, MA",
+2020-05,"Berkshire County, MA",
+2020-06,"Berkshire County, MA",
+2020-07,"Berkshire County, MA",
+2020-08,"Berkshire County, MA",
+2020-09,"Berkshire County, MA",
+2020-10,"Berkshire County, MA",
+2020-11,"Berkshire County, MA",
+2020-12,"Berkshire County, MA",
+2021-01,"Berkshire County, MA",
+2021-02,"Berkshire County, MA",
+2011-01,"Broward County, FL",
+2011-02,"Broward County, FL",
+2011-03,"Broward County, FL",10.1
+2011-04,"Broward County, FL",9.8
+2011-05,"Broward County, FL",9.5
+2011-06,"Broward County, FL",9.2
+2011-07,"Broward County, FL",9.4
+2011-08,"Broward County, FL",10.0
+2011-09,"Broward County, FL",10.1
+2011-10,"Broward County, FL",9.7
+2011-11,"Broward County, FL",9.4
+2011-12,"Broward County, FL",9.0
+2012-01,"Broward County, FL",8.6
+2012-02,"Broward County, FL",8.4
+2012-03,"Broward County, FL",8.5
+2012-04,"Broward County, FL",8.3
+2012-05,"Broward County, FL",8.0
+2012-06,"Broward County, FL",7.7
+2012-07,"Broward County, FL",7.9
+2012-08,"Broward County, FL",8.4
+2012-09,"Broward County, FL",8.6
+2012-10,"Broward County, FL",8.3
+2012-11,"Broward County, FL",7.7
+2012-12,"Broward County, FL",7.6
+2013-01,"Broward County, FL",7.3
+2013-02,"Broward County, FL",7.3
+2013-03,"Broward County, FL",7.8
+2013-04,"Broward County, FL",7.2
+2013-05,"Broward County, FL",6.8
+2013-06,"Broward County, FL",6.7
+2013-07,"Broward County, FL",6.8
+2013-08,"Broward County, FL",7.2
+2013-09,"Broward County, FL",7.0
+2013-10,"Broward County, FL",6.8
+2013-11,"Broward County, FL",6.6
+2013-12,"Broward County, FL",6.4
+2014-01,"Broward County, FL",6.1
+2014-02,"Broward County, FL",5.8
+2014-03,"Broward County, FL",6.3
+2014-04,"Broward County, FL",6.2
+2014-05,"Broward County, FL",6.1
+2014-06,"Broward County, FL",5.8
+2014-07,"Broward County, FL",6.0
+2014-08,"Broward County, FL",6.1
+2014-09,"Broward County, FL",6.3
+2014-10,"Broward County, FL",6.2
+2014-11,"Broward County, FL",5.8
+2014-12,"Broward County, FL",5.6
+2015-01,"Broward County, FL",5.6
+2015-02,"Broward County, FL",5.3
+2015-03,"Broward County, FL",5.6
+2015-04,"Broward County, FL",5.3
+2015-05,"Broward County, FL",5.1
+2015-06,"Broward County, FL",5.0
+2015-07,"Broward County, FL",5.2
+2015-08,"Broward County, FL",5.3
+2015-09,"Broward County, FL",5.4
+2015-10,"Broward County, FL",5.2
+2015-11,"Broward County, FL",5.0
+2015-12,"Broward County, FL",4.9
+2016-01,"Broward County, FL",4.8
+2016-02,"Broward County, FL",4.6
+2016-03,"Broward County, FL",4.7
+2016-04,"Broward County, FL",4.4
+2016-05,"Broward County, FL",4.4
+2016-06,"Broward County, FL",4.3
+2016-07,"Broward County, FL",4.3
+2016-08,"Broward County, FL",4.7
+2016-09,"Broward County, FL",4.7
+2016-10,"Broward County, FL",4.7
+2016-11,"Broward County, FL",4.6
+2016-12,"Broward County, FL",4.5
+2017-01,"Broward County, FL",4.3
+2017-02,"Broward County, FL",4.2
+2017-03,"Broward County, FL",4.5
+2017-04,"Broward County, FL",4.2
+2017-05,"Broward County, FL",3.9
+2017-06,"Broward County, FL",3.8
+2017-07,"Broward County, FL",3.9
+2017-08,"Broward County, FL",4.1
+2017-09,"Broward County, FL",4.2
+2017-10,"Broward County, FL",4.1
+2017-11,"Broward County, FL",3.9
+2017-12,"Broward County, FL",3.8
+2018-01,"Broward County, FL",3.8
+2018-02,"Broward County, FL",3.6
+2018-03,"Broward County, FL",3.9
+2018-04,"Broward County, FL",3.6
+2018-05,"Broward County, FL",3.5
+2018-06,"Broward County, FL",3.3
+2018-07,"Broward County, FL",3.3
+2018-08,"Broward County, FL",3.7
+2018-09,"Broward County, FL",3.6
+2018-10,"Broward County, FL",3.5
+2018-11,"Broward County, FL",3.2
+2018-12,"Broward County, FL",3.2
+2019-01,"Broward County, FL",3.2
+2019-02,"Broward County, FL",3.2
+2019-03,"Broward County, FL",3.7
+2019-04,"Broward County, FL",3.3
+2019-05,"Broward County, FL",3.1
+2019-06,"Broward County, FL",2.8
+2019-07,"Broward County, FL",3.0
+2019-08,"Broward County, FL",3.2
+2019-09,"Broward County, FL",3.3
+2019-10,"Broward County, FL",3.2
+2019-11,"Broward County, FL",2.8
+2019-12,"Broward County, FL",2.8
+2020-01,"Broward County, FL",2.7
+2020-02,"Broward County, FL",2.6
+2020-03,"Broward County, FL",
+2020-04,"Broward County, FL",
+2020-05,"Broward County, FL",
+2020-06,"Broward County, FL",
+2020-07,"Broward County, FL",
+2020-08,"Broward County, FL",
+2020-09,"Broward County, FL",
+2020-10,"Broward County, FL",
+2020-11,"Broward County, FL",
+2020-12,"Broward County, FL",
+2021-01,"Broward County, FL",
+2021-02,"Broward County, FL",
+2011-01,"Contra Costa County, CA",
+2011-02,"Contra Costa County, CA",
+2011-03,"Contra Costa County, CA",11.1
+2011-04,"Contra Costa County, CA",10.8
+2011-05,"Contra Costa County, CA",10.7
+2011-06,"Contra Costa County, CA",10.1
+2011-07,"Contra Costa County, CA",10.0
+2011-08,"Contra Costa County, CA",10.7
+2011-09,"Contra Costa County, CA",10.7
+2011-10,"Contra Costa County, CA",10.5
+2011-11,"Contra Costa County, CA",10.1
+2011-12,"Contra Costa County, CA",9.9
+2012-01,"Contra Costa County, CA",9.6
+2012-02,"Contra Costa County, CA",9.3
+2012-03,"Contra Costa County, CA",9.7
+2012-04,"Contra Costa County, CA",9.6
+2012-05,"Contra Costa County, CA",9.5
+2012-06,"Contra Costa County, CA",8.9
+2012-07,"Contra Costa County, CA",8.8
+2012-08,"Contra Costa County, CA",9.4
+2012-09,"Contra Costa County, CA",9.5
+2012-10,"Contra Costa County, CA",9.1
+2012-11,"Contra Costa County, CA",8.3
+2012-12,"Contra Costa County, CA",8.4
+2013-01,"Contra Costa County, CA",8.1
+2013-02,"Contra Costa County, CA",8.0
+2013-03,"Contra Costa County, CA",8.6
+2013-04,"Contra Costa County, CA",8.1
+2013-05,"Contra Costa County, CA",7.8
+2013-06,"Contra Costa County, CA",7.3
+2013-07,"Contra Costa County, CA",7.2
+2013-08,"Contra Costa County, CA",7.9
+2013-09,"Contra Costa County, CA",7.9
+2013-10,"Contra Costa County, CA",7.6
+2013-11,"Contra Costa County, CA",7.2
+2013-12,"Contra Costa County, CA",7.2
+2014-01,"Contra Costa County, CA",6.8
+2014-02,"Contra Costa County, CA",6.5
+2014-03,"Contra Costa County, CA",6.8
+2014-04,"Contra Costa County, CA",6.9
+2014-05,"Contra Costa County, CA",6.8
+2014-06,"Contra Costa County, CA",5.9
+2014-07,"Contra Costa County, CA",5.9
+2014-08,"Contra Costa County, CA",6.2
+2014-09,"Contra Costa County, CA",6.6
+2014-10,"Contra Costa County, CA",6.4
+2014-11,"Contra Costa County, CA",5.9
+2014-12,"Contra Costa County, CA",5.7
+2015-01,"Contra Costa County, CA",5.6
+2015-02,"Contra Costa County, CA",5.2
+2015-03,"Contra Costa County, CA",5.7
+2015-04,"Contra Costa County, CA",5.5
+2015-05,"Contra Costa County, CA",5.3
+2015-06,"Contra Costa County, CA",4.9
+2015-07,"Contra Costa County, CA",4.9
+2015-08,"Contra Costa County, CA",5.2
+2015-09,"Contra Costa County, CA",5.4
+2015-10,"Contra Costa County, CA",5.0
+2015-11,"Contra Costa County, CA",4.6
+2015-12,"Contra Costa County, CA",4.7
+2016-01,"Contra Costa County, CA",4.6
+2016-02,"Contra Costa County, CA",4.4
+2016-03,"Contra Costa County, CA",4.7
+2016-04,"Contra Costa County, CA",4.6
+2016-05,"Contra Costa County, CA",4.7
+2016-06,"Contra Costa County, CA",4.4
+2016-07,"Contra Costa County, CA",4.1
+2016-08,"Contra Costa County, CA",4.7
+2016-09,"Contra Costa County, CA",4.8
+2016-10,"Contra Costa County, CA",4.7
+2016-11,"Contra Costa County, CA",4.4
+2016-12,"Contra Costa County, CA",4.4
+2017-01,"Contra Costa County, CA",4.1
+2017-02,"Contra Costa County, CA",4.0
+2017-03,"Contra Costa County, CA",4.5
+2017-04,"Contra Costa County, CA",4.2
+2017-05,"Contra Costa County, CA",4.0
+2017-06,"Contra Costa County, CA",3.7
+2017-07,"Contra Costa County, CA",3.5
+2017-08,"Contra Costa County, CA",4.0
+2017-09,"Contra Costa County, CA",4.2
+2017-10,"Contra Costa County, CA",4.1
+2017-11,"Contra Costa County, CA",3.6
+2017-12,"Contra Costa County, CA",3.5
+2018-01,"Contra Costa County, CA",3.4
+2018-02,"Contra Costa County, CA",3.2
+2018-03,"Contra Costa County, CA",3.6
+2018-04,"Contra Costa County, CA",3.4
+2018-05,"Contra Costa County, CA",3.3
+2018-06,"Contra Costa County, CA",3.0
+2018-07,"Contra Costa County, CA",2.8
+2018-08,"Contra Costa County, CA",3.5
+2018-09,"Contra Costa County, CA",3.5
+2018-10,"Contra Costa County, CA",3.4
+2018-11,"Contra Costa County, CA",3.0
+2018-12,"Contra Costa County, CA",3.1
+2019-01,"Contra Costa County, CA",3.1
+2019-02,"Contra Costa County, CA",3.1
+2019-03,"Contra Costa County, CA",3.7
+2019-04,"Contra Costa County, CA",3.3
+2019-05,"Contra Costa County, CA",3.4
+2019-06,"Contra Costa County, CA",2.8
+2019-07,"Contra Costa County, CA",2.7
+2019-08,"Contra Costa County, CA",3.2
+2019-09,"Contra Costa County, CA",3.4
+2019-10,"Contra Costa County, CA",3.2
+2019-11,"Contra Costa County, CA",2.7
+2019-12,"Contra Costa County, CA",2.9
+2020-01,"Contra Costa County, CA",2.8
+2020-02,"Contra Costa County, CA",2.7
+2020-03,"Contra Costa County, CA",
+2020-04,"Contra Costa County, CA",
+2020-05,"Contra Costa County, CA",
+2020-06,"Contra Costa County, CA",
+2020-07,"Contra Costa County, CA",
+2020-08,"Contra Costa County, CA",
+2020-09,"Contra Costa County, CA",
+2020-10,"Contra Costa County, CA",
+2020-11,"Contra Costa County, CA",
+2020-12,"Contra Costa County, CA",
+2021-01,"Contra Costa County, CA",
+2021-02,"Contra Costa County, CA",
+2011-01,"Cook County, IL",
+2011-02,"Cook County, IL",
+2011-03,"Cook County, IL",10.6
+2011-04,"Cook County, IL",10.3
+2011-05,"Cook County, IL",10.0
+2011-06,"Cook County, IL",10.0
+2011-07,"Cook County, IL",10.3
+2011-08,"Cook County, IL",11.3
+2011-09,"Cook County, IL",11.3
+2011-10,"Cook County, IL",11.1
+2011-11,"Cook County, IL",10.6
+2011-12,"Cook County, IL",10.4
+2012-01,"Cook County, IL",9.7
+2012-02,"Cook County, IL",9.7
+2012-03,"Cook County, IL",10.2
+2012-04,"Cook County, IL",10.0
+2012-05,"Cook County, IL",9.5
+2012-06,"Cook County, IL",9.2
+2012-07,"Cook County, IL",9.4
+2012-08,"Cook County, IL",10.2
+2012-09,"Cook County, IL",10.3
+2012-10,"Cook County, IL",9.9
+2012-11,"Cook County, IL",9.0
+2012-12,"Cook County, IL",9.3
+2013-01,"Cook County, IL",8.9
+2013-02,"Cook County, IL",9.6
+2013-03,"Cook County, IL",10.6
+2013-04,"Cook County, IL",10.2
+2013-05,"Cook County, IL",9.6
+2013-06,"Cook County, IL",9.4
+2013-07,"Cook County, IL",9.5
+2013-08,"Cook County, IL",10.4
+2013-09,"Cook County, IL",10.0
+2013-10,"Cook County, IL",9.8
+2013-11,"Cook County, IL",9.2
+2013-12,"Cook County, IL",9.4
+2014-01,"Cook County, IL",8.8
+2014-02,"Cook County, IL",8.6
+2014-03,"Cook County, IL",9.1
+2014-04,"Cook County, IL",9.1
+2014-05,"Cook County, IL",8.4
+2014-06,"Cook County, IL",7.5
+2014-07,"Cook County, IL",7.4
+2014-08,"Cook County, IL",7.7
+2014-09,"Cook County, IL",7.8
+2014-10,"Cook County, IL",7.4
+2014-11,"Cook County, IL",6.7
+2014-12,"Cook County, IL",6.6
+2015-01,"Cook County, IL",6.4
+2015-02,"Cook County, IL",6.0
+2015-03,"Cook County, IL",7.0
+2015-04,"Cook County, IL",6.7
+2015-05,"Cook County, IL",6.2
+2015-06,"Cook County, IL",6.0
+2015-07,"Cook County, IL",6.3
+2015-08,"Cook County, IL",6.6
+2015-09,"Cook County, IL",6.5
+2015-10,"Cook County, IL",6.1
+2015-11,"Cook County, IL",5.7
+2015-12,"Cook County, IL",5.9
+2016-01,"Cook County, IL",5.9
+2016-02,"Cook County, IL",6.0
+2016-03,"Cook County, IL",6.6
+2016-04,"Cook County, IL",6.6
+2016-05,"Cook County, IL",6.3
+2016-06,"Cook County, IL",6.2
+2016-07,"Cook County, IL",5.6
+2016-08,"Cook County, IL",6.5
+2016-09,"Cook County, IL",6.2
+2016-10,"Cook County, IL",6.2
+2016-11,"Cook County, IL",5.9
+2016-12,"Cook County, IL",5.9
+2017-01,"Cook County, IL",5.3
+2017-02,"Cook County, IL",5.2
+2017-03,"Cook County, IL",5.9
+2017-04,"Cook County, IL",5.4
+2017-05,"Cook County, IL",4.7
+2017-06,"Cook County, IL",4.7
+2017-07,"Cook County, IL",4.7
+2017-08,"Cook County, IL",5.5
+2017-09,"Cook County, IL",5.5
+2017-10,"Cook County, IL",5.8
+2017-11,"Cook County, IL",5.0
+2017-12,"Cook County, IL",4.9
+2018-01,"Cook County, IL",4.7
+2018-02,"Cook County, IL",4.5
+2018-03,"Cook County, IL",5.1
+2018-04,"Cook County, IL",4.8
+2018-05,"Cook County, IL",4.0
+2018-06,"Cook County, IL",3.8
+2018-07,"Cook County, IL",3.6
+2018-08,"Cook County, IL",4.7
+2018-09,"Cook County, IL",4.4
+2018-10,"Cook County, IL",4.2
+2018-11,"Cook County, IL",3.8
+2018-12,"Cook County, IL",4.0
+2019-01,"Cook County, IL",3.6
+2019-02,"Cook County, IL",3.8
+2019-03,"Cook County, IL",4.8
+2019-04,"Cook County, IL",4.3
+2019-05,"Cook County, IL",4.0
+2019-06,"Cook County, IL",3.7
+2019-07,"Cook County, IL",3.5
+2019-08,"Cook County, IL",4.2
+2019-09,"Cook County, IL",4.2
+2019-10,"Cook County, IL",4.0
+2019-11,"Cook County, IL",3.3
+2019-12,"Cook County, IL",3.4
+2020-01,"Cook County, IL",3.1
+2020-02,"Cook County, IL",2.9
+2020-03,"Cook County, IL",
+2020-04,"Cook County, IL",
+2020-05,"Cook County, IL",
+2020-06,"Cook County, IL",
+2020-07,"Cook County, IL",
+2020-08,"Cook County, IL",
+2020-09,"Cook County, IL",
+2020-10,"Cook County, IL",
+2020-11,"Cook County, IL",
+2020-12,"Cook County, IL",
+2021-01,"Cook County, IL",
+2021-02,"Cook County, IL",
+2011-01,"Cuyahoga County, OH",
+2011-02,"Cuyahoga County, OH",
+2011-03,"Cuyahoga County, OH",8.2
+2011-04,"Cuyahoga County, OH",8.4
+2011-05,"Cuyahoga County, OH",7.6
+2011-06,"Cuyahoga County, OH",7.1
+2011-07,"Cuyahoga County, OH",7.5
+2011-08,"Cuyahoga County, OH",8.5
+2011-09,"Cuyahoga County, OH",8.2
+2011-10,"Cuyahoga County, OH",7.6
+2011-11,"Cuyahoga County, OH",7.5
+2011-12,"Cuyahoga County, OH",7.1
+2012-01,"Cuyahoga County, OH",6.6
+2012-02,"Cuyahoga County, OH",6.7
+2012-03,"Cuyahoga County, OH",7.3
+2012-04,"Cuyahoga County, OH",7.7
+2012-05,"Cuyahoga County, OH",7.0
+2012-06,"Cuyahoga County, OH",6.3
+2012-07,"Cuyahoga County, OH",6.7
+2012-08,"Cuyahoga County, OH",7.5
+2012-09,"Cuyahoga County, OH",7.4
+2012-10,"Cuyahoga County, OH",6.8
+2012-11,"Cuyahoga County, OH",6.3
+2012-12,"Cuyahoga County, OH",6.2
+2013-01,"Cuyahoga County, OH",5.9
+2013-02,"Cuyahoga County, OH",6.4
+2013-03,"Cuyahoga County, OH",7.5
+2013-04,"Cuyahoga County, OH",7.8
+2013-05,"Cuyahoga County, OH",6.8
+2013-06,"Cuyahoga County, OH",6.2
+2013-07,"Cuyahoga County, OH",6.8
+2013-08,"Cuyahoga County, OH",7.7
+2013-09,"Cuyahoga County, OH",7.4
+2013-10,"Cuyahoga County, OH",7.0
+2013-11,"Cuyahoga County, OH",6.7
+2013-12,"Cuyahoga County, OH",6.8
+2014-01,"Cuyahoga County, OH",6.3
+2014-02,"Cuyahoga County, OH",6.3
+2014-03,"Cuyahoga County, OH",7.2
+2014-04,"Cuyahoga County, OH",7.6
+2014-05,"Cuyahoga County, OH",6.8
+2014-06,"Cuyahoga County, OH",5.7
+2014-07,"Cuyahoga County, OH",6.3
+2014-08,"Cuyahoga County, OH",6.8
+2014-09,"Cuyahoga County, OH",6.8
+2014-10,"Cuyahoga County, OH",6.3
+2014-11,"Cuyahoga County, OH",5.5
+2014-12,"Cuyahoga County, OH",5.3
+2015-01,"Cuyahoga County, OH",5.1
+2015-02,"Cuyahoga County, OH",5.1
+2015-03,"Cuyahoga County, OH",5.9
+2015-04,"Cuyahoga County, OH",6.1
+2015-05,"Cuyahoga County, OH",5.4
+2015-06,"Cuyahoga County, OH",5.0
+2015-07,"Cuyahoga County, OH",5.6
+2015-08,"Cuyahoga County, OH",5.7
+2015-09,"Cuyahoga County, OH",5.5
+2015-10,"Cuyahoga County, OH",4.8
+2015-11,"Cuyahoga County, OH",4.5
+2015-12,"Cuyahoga County, OH",4.3
+2016-01,"Cuyahoga County, OH",4.3
+2016-02,"Cuyahoga County, OH",4.4
+2016-03,"Cuyahoga County, OH",5.1
+2016-04,"Cuyahoga County, OH",5.7
+2016-05,"Cuyahoga County, OH",5.5
+2016-06,"Cuyahoga County, OH",5.1
+2016-07,"Cuyahoga County, OH",5.1
+2016-08,"Cuyahoga County, OH",5.9
+2016-09,"Cuyahoga County, OH",5.8
+2016-10,"Cuyahoga County, OH",5.6
+2016-11,"Cuyahoga County, OH",5.5
+2016-12,"Cuyahoga County, OH",5.4
+2017-01,"Cuyahoga County, OH",5.1
+2017-02,"Cuyahoga County, OH",5.5
+2017-03,"Cuyahoga County, OH",6.4
+2017-04,"Cuyahoga County, OH",6.8
+2017-05,"Cuyahoga County, OH",5.9
+2017-06,"Cuyahoga County, OH",5.4
+2017-07,"Cuyahoga County, OH",5.6
+2017-08,"Cuyahoga County, OH",6.1
+2017-09,"Cuyahoga County, OH",6.0
+2017-10,"Cuyahoga County, OH",5.8
+2017-11,"Cuyahoga County, OH",5.2
+2017-12,"Cuyahoga County, OH",4.6
+2018-01,"Cuyahoga County, OH",4.5
+2018-02,"Cuyahoga County, OH",4.5
+2018-03,"Cuyahoga County, OH",5.1
+2018-04,"Cuyahoga County, OH",5.6
+2018-05,"Cuyahoga County, OH",5.0
+2018-06,"Cuyahoga County, OH",4.6
+2018-07,"Cuyahoga County, OH",4.7
+2018-08,"Cuyahoga County, OH",5.6
+2018-09,"Cuyahoga County, OH",5.2
+2018-10,"Cuyahoga County, OH",4.7
+2018-11,"Cuyahoga County, OH",4.3
+2018-12,"Cuyahoga County, OH",4.1
+2019-01,"Cuyahoga County, OH",3.9
+2019-02,"Cuyahoga County, OH",4.2
+2019-03,"Cuyahoga County, OH",4.8
+2019-04,"Cuyahoga County, OH",4.8
+2019-05,"Cuyahoga County, OH",4.4
+2019-06,"Cuyahoga County, OH",3.8
+2019-07,"Cuyahoga County, OH",4.0
+2019-08,"Cuyahoga County, OH",4.7
+2019-09,"Cuyahoga County, OH",4.8
+2019-10,"Cuyahoga County, OH",4.2
+2019-11,"Cuyahoga County, OH",3.9
+2019-12,"Cuyahoga County, OH",3.5
+2020-01,"Cuyahoga County, OH",3.5
+2020-02,"Cuyahoga County, OH",3.6
+2020-03,"Cuyahoga County, OH",
+2020-04,"Cuyahoga County, OH",
+2020-05,"Cuyahoga County, OH",
+2020-06,"Cuyahoga County, OH",
+2020-07,"Cuyahoga County, OH",
+2020-08,"Cuyahoga County, OH",
+2020-09,"Cuyahoga County, OH",
+2020-10,"Cuyahoga County, OH",
+2020-11,"Cuyahoga County, OH",
+2020-12,"Cuyahoga County, OH",
+2021-01,"Cuyahoga County, OH",
+2021-02,"Cuyahoga County, OH",
+2011-01,"Dallas County, TX",
+2011-02,"Dallas County, TX",
+2011-03,"Dallas County, TX",8.6
+2011-04,"Dallas County, TX",8.4
+2011-05,"Dallas County, TX",8.2
+2011-06,"Dallas County, TX",7.8
+2011-07,"Dallas County, TX",8.0
+2011-08,"Dallas County, TX",8.7
+2011-09,"Dallas County, TX",8.6
+2011-10,"Dallas County, TX",8.4
+2011-11,"Dallas County, TX",8.2
+2011-12,"Dallas County, TX",7.9
+2012-01,"Dallas County, TX",7.5
+2012-02,"Dallas County, TX",7.3
+2012-03,"Dallas County, TX",7.7
+2012-04,"Dallas County, TX",7.6
+2012-05,"Dallas County, TX",7.3
+2012-06,"Dallas County, TX",6.8
+2012-07,"Dallas County, TX",7.1
+2012-08,"Dallas County, TX",7.6
+2012-09,"Dallas County, TX",7.6
+2012-10,"Dallas County, TX",7.3
+2012-11,"Dallas County, TX",6.8
+2012-12,"Dallas County, TX",6.7
+2013-01,"Dallas County, TX",6.4
+2013-02,"Dallas County, TX",6.5
+2013-03,"Dallas County, TX",7.4
+2013-04,"Dallas County, TX",7.0
+2013-05,"Dallas County, TX",6.7
+2013-06,"Dallas County, TX",6.4
+2013-07,"Dallas County, TX",6.6
+2013-08,"Dallas County, TX",7.1
+2013-09,"Dallas County, TX",6.9
+2013-10,"Dallas County, TX",6.6
+2013-11,"Dallas County, TX",6.5
+2013-12,"Dallas County, TX",6.4
+2014-01,"Dallas County, TX",5.9
+2014-02,"Dallas County, TX",5.6
+2014-03,"Dallas County, TX",6.0
+2014-04,"Dallas County, TX",6.0
+2014-05,"Dallas County, TX",5.8
+2014-06,"Dallas County, TX",5.1
+2014-07,"Dallas County, TX",5.5
+2014-08,"Dallas County, TX",5.7
+2014-09,"Dallas County, TX",5.9
+2014-10,"Dallas County, TX",5.7
+2014-11,"Dallas County, TX",5.3
+2014-12,"Dallas County, TX",4.9
+2015-01,"Dallas County, TX",4.8
+2015-02,"Dallas County, TX",4.4
+2015-03,"Dallas County, TX",4.9
+2015-04,"Dallas County, TX",4.5
+2015-05,"Dallas County, TX",4.3
+2015-06,"Dallas County, TX",4.0
+2015-07,"Dallas County, TX",4.2
+2015-08,"Dallas County, TX",4.4
+2015-09,"Dallas County, TX",4.5
+2015-10,"Dallas County, TX",4.3
+2015-11,"Dallas County, TX",4.2
+2015-12,"Dallas County, TX",4.1
+2016-01,"Dallas County, TX",4.0
+2016-02,"Dallas County, TX",3.8
+2016-03,"Dallas County, TX",4.0
+2016-04,"Dallas County, TX",3.9
+2016-05,"Dallas County, TX",4.0
+2016-06,"Dallas County, TX",3.7
+2016-07,"Dallas County, TX",3.7
+2016-08,"Dallas County, TX",4.2
+2016-09,"Dallas County, TX",4.3
+2016-10,"Dallas County, TX",4.2
+2016-11,"Dallas County, TX",4.3
+2016-12,"Dallas County, TX",4.0
+2017-01,"Dallas County, TX",3.9
+2017-02,"Dallas County, TX",3.9
+2017-03,"Dallas County, TX",4.3
+2017-04,"Dallas County, TX",4.3
+2017-05,"Dallas County, TX",4.1
+2017-06,"Dallas County, TX",3.8
+2017-07,"Dallas County, TX",3.8
+2017-08,"Dallas County, TX",4.1
+2017-09,"Dallas County, TX",4.1
+2017-10,"Dallas County, TX",4.1
+2017-11,"Dallas County, TX",3.7
+2017-12,"Dallas County, TX",3.5
+2018-01,"Dallas County, TX",3.6
+2018-02,"Dallas County, TX",3.5
+2018-03,"Dallas County, TX",4.0
+2018-04,"Dallas County, TX",4.0
+2018-05,"Dallas County, TX",3.9
+2018-06,"Dallas County, TX",3.6
+2018-07,"Dallas County, TX",3.5
+2018-08,"Dallas County, TX",4.1
+2018-09,"Dallas County, TX",4.0
+2018-10,"Dallas County, TX",3.9
+2018-11,"Dallas County, TX",3.7
+2018-12,"Dallas County, TX",3.5
+2019-01,"Dallas County, TX",3.5
+2019-02,"Dallas County, TX",3.5
+2019-03,"Dallas County, TX",4.1
+2019-04,"Dallas County, TX",3.7
+2019-05,"Dallas County, TX",3.5
+2019-06,"Dallas County, TX",3.1
+2019-07,"Dallas County, TX",3.1
+2019-08,"Dallas County, TX",3.6
+2019-09,"Dallas County, TX",3.7
+2019-10,"Dallas County, TX",3.7
+2019-11,"Dallas County, TX",3.3
+2019-12,"Dallas County, TX",3.3
+2020-01,"Dallas County, TX",3.3
+2020-02,"Dallas County, TX",3.1
+2020-03,"Dallas County, TX",
+2020-04,"Dallas County, TX",
+2020-05,"Dallas County, TX",
+2020-06,"Dallas County, TX",
+2020-07,"Dallas County, TX",
+2020-08,"Dallas County, TX",
+2020-09,"Dallas County, TX",
+2020-10,"Dallas County, TX",
+2020-11,"Dallas County, TX",
+2020-12,"Dallas County, TX",
+2021-01,"Dallas County, TX",
+2021-02,"Dallas County, TX",
+2011-01,"Dane County, WI",
+2011-02,"Dane County, WI",
+2011-03,"Dane County, WI",5.8
+2011-04,"Dane County, WI",6.0
+2011-05,"Dane County, WI",5.8
+2011-06,"Dane County, WI",5.3
+2011-07,"Dane County, WI",5.3
+2011-08,"Dane County, WI",5.9
+2011-09,"Dane County, WI",5.5
+2011-10,"Dane County, WI",5.2
+2011-11,"Dane County, WI",5.0
+2011-12,"Dane County, WI",4.8
+2012-01,"Dane County, WI",4.5
+2012-02,"Dane County, WI",4.6
+2012-03,"Dane County, WI",5.2
+2012-04,"Dane County, WI",5.5
+2012-05,"Dane County, WI",5.3
+2012-06,"Dane County, WI",4.7
+2012-07,"Dane County, WI",4.9
+2012-08,"Dane County, WI",5.4
+2012-09,"Dane County, WI",5.3
+2012-10,"Dane County, WI",4.9
+2012-11,"Dane County, WI",4.4
+2012-12,"Dane County, WI",4.2
+2013-01,"Dane County, WI",4.2
+2013-02,"Dane County, WI",4.5
+2013-03,"Dane County, WI",5.4
+2013-04,"Dane County, WI",5.4
+2013-05,"Dane County, WI",5.0
+2013-06,"Dane County, WI",4.8
+2013-07,"Dane County, WI",4.7
+2013-08,"Dane County, WI",5.1
+2013-09,"Dane County, WI",4.8
+2013-10,"Dane County, WI",4.6
+2013-11,"Dane County, WI",4.2
+2013-12,"Dane County, WI",4.1
+2014-01,"Dane County, WI",4.0
+2014-02,"Dane County, WI",3.9
+2014-03,"Dane County, WI",4.3
+2014-04,"Dane County, WI",4.6
+2014-05,"Dane County, WI",4.4
+2014-06,"Dane County, WI",3.6
+2014-07,"Dane County, WI",3.8
+2014-08,"Dane County, WI",4.1
+2014-09,"Dane County, WI",3.8
+2014-10,"Dane County, WI",3.5
+2014-11,"Dane County, WI",3.2
+2014-12,"Dane County, WI",3.0
+2015-01,"Dane County, WI",3.1
+2015-02,"Dane County, WI",3.0
+2015-03,"Dane County, WI",3.6
+2015-04,"Dane County, WI",3.7
+2015-05,"Dane County, WI",3.6
+2015-06,"Dane County, WI",3.2
+2015-07,"Dane County, WI",3.4
+2015-08,"Dane County, WI",3.6
+2015-09,"Dane County, WI",3.2
+2015-10,"Dane County, WI",2.9
+2015-11,"Dane County, WI",2.7
+2015-12,"Dane County, WI",2.7
+2016-01,"Dane County, WI",2.9
+2016-02,"Dane County, WI",2.8
+2016-03,"Dane County, WI",3.2
+2016-04,"Dane County, WI",3.3
+2016-05,"Dane County, WI",3.3
+2016-06,"Dane County, WI",2.8
+2016-07,"Dane County, WI",2.8
+2016-08,"Dane County, WI",3.3
+2016-09,"Dane County, WI",2.9
+2016-10,"Dane County, WI",2.6
+2016-11,"Dane County, WI",2.5
+2016-12,"Dane County, WI",2.6
+2017-01,"Dane County, WI",2.5
+2017-02,"Dane County, WI",2.4
+2017-03,"Dane County, WI",2.9
+2017-04,"Dane County, WI",3.0
+2017-05,"Dane County, WI",2.6
+2017-06,"Dane County, WI",2.3
+2017-07,"Dane County, WI",2.3
+2017-08,"Dane County, WI",2.8
+2017-09,"Dane County, WI",2.5
+2017-10,"Dane County, WI",2.3
+2017-11,"Dane County, WI",2.1
+2017-12,"Dane County, WI",2.0
+2018-01,"Dane County, WI",2.0
+2018-02,"Dane County, WI",1.9
+2018-03,"Dane County, WI",2.4
+2018-04,"Dane County, WI",2.6
+2018-05,"Dane County, WI",2.5
+2018-06,"Dane County, WI",2.1
+2018-07,"Dane County, WI",2.2
+2018-08,"Dane County, WI",2.9
+2018-09,"Dane County, WI",2.4
+2018-10,"Dane County, WI",2.2
+2018-11,"Dane County, WI",1.8
+2018-12,"Dane County, WI",1.9
+2019-01,"Dane County, WI",1.9
+2019-02,"Dane County, WI",2.0
+2019-03,"Dane County, WI",2.6
+2019-04,"Dane County, WI",2.5
+2019-05,"Dane County, WI",2.6
+2019-06,"Dane County, WI",2.3
+2019-07,"Dane County, WI",2.5
+2019-08,"Dane County, WI",3.0
+2019-09,"Dane County, WI",2.7
+2019-10,"Dane County, WI",2.5
+2019-11,"Dane County, WI",2.2
+2019-12,"Dane County, WI",2.1
+2020-01,"Dane County, WI",2.2
+2020-02,"Dane County, WI",2.1
+2020-03,"Dane County, WI",
+2020-04,"Dane County, WI",
+2020-05,"Dane County, WI",
+2020-06,"Dane County, WI",
+2020-07,"Dane County, WI",
+2020-08,"Dane County, WI",
+2020-09,"Dane County, WI",
+2020-10,"Dane County, WI",
+2020-11,"Dane County, WI",
+2020-12,"Dane County, WI",
+2021-01,"Dane County, WI",
+2021-02,"Dane County, WI",
+2011-01,"Delaware County, OH",
+2011-02,"Delaware County, OH",
+2011-03,"Delaware County, OH",7.0
+2011-04,"Delaware County, OH",6.6
+2011-05,"Delaware County, OH",6.4
+2011-06,"Delaware County, OH",6.0
+2011-07,"Delaware County, OH",6.1
+2011-08,"Delaware County, OH",6.9
+2011-09,"Delaware County, OH",6.8
+2011-10,"Delaware County, OH",6.4
+2011-11,"Delaware County, OH",6.3
+2011-12,"Delaware County, OH",6.0
+2012-01,"Delaware County, OH",5.3
+2012-02,"Delaware County, OH",5.2
+2012-03,"Delaware County, OH",5.9
+2012-04,"Delaware County, OH",5.7
+2012-05,"Delaware County, OH",5.4
+2012-06,"Delaware County, OH",4.9
+2012-07,"Delaware County, OH",4.9
+2012-08,"Delaware County, OH",5.4
+2012-09,"Delaware County, OH",5.6
+2012-10,"Delaware County, OH",5.2
+2012-11,"Delaware County, OH",4.9
+2012-12,"Delaware County, OH",4.9
+2013-01,"Delaware County, OH",4.7
+2013-02,"Delaware County, OH",4.9
+2013-03,"Delaware County, OH",6.2
+2013-04,"Delaware County, OH",5.6
+2013-05,"Delaware County, OH",5.3
+2013-06,"Delaware County, OH",4.8
+2013-07,"Delaware County, OH",5.2
+2013-08,"Delaware County, OH",5.8
+2013-09,"Delaware County, OH",5.6
+2013-10,"Delaware County, OH",5.5
+2013-11,"Delaware County, OH",5.4
+2013-12,"Delaware County, OH",5.3
+2014-01,"Delaware County, OH",4.9
+2014-02,"Delaware County, OH",4.5
+2014-03,"Delaware County, OH",5.0
+2014-04,"Delaware County, OH",4.8
+2014-05,"Delaware County, OH",4.4
+2014-06,"Delaware County, OH",3.7
+2014-07,"Delaware County, OH",3.9
+2014-08,"Delaware County, OH",4.4
+2014-09,"Delaware County, OH",4.5
+2014-10,"Delaware County, OH",4.2
+2014-11,"Delaware County, OH",3.9
+2014-12,"Delaware County, OH",3.7
+2015-01,"Delaware County, OH",3.7
+2015-02,"Delaware County, OH",3.4
+2015-03,"Delaware County, OH",4.3
+2015-04,"Delaware County, OH",3.7
+2015-05,"Delaware County, OH",3.6
+2015-06,"Delaware County, OH",3.2
+2015-07,"Delaware County, OH",3.5
+2015-08,"Delaware County, OH",3.8
+2015-09,"Delaware County, OH",3.6
+2015-10,"Delaware County, OH",3.3
+2015-11,"Delaware County, OH",3.3
+2015-12,"Delaware County, OH",3.3
+2016-01,"Delaware County, OH",3.4
+2016-02,"Delaware County, OH",3.4
+2016-03,"Delaware County, OH",3.9
+2016-04,"Delaware County, OH",3.7
+2016-05,"Delaware County, OH",3.7
+2016-06,"Delaware County, OH",3.4
+2016-07,"Delaware County, OH",3.2
+2016-08,"Delaware County, OH",3.8
+2016-09,"Delaware County, OH",3.7
+2016-10,"Delaware County, OH",3.7
+2016-11,"Delaware County, OH",3.8
+2016-12,"Delaware County, OH",3.7
+2017-01,"Delaware County, OH",3.4
+2017-02,"Delaware County, OH",3.6
+2017-03,"Delaware County, OH",4.3
+2017-04,"Delaware County, OH",3.9
+2017-05,"Delaware County, OH",3.5
+2017-06,"Delaware County, OH",3.1
+2017-07,"Delaware County, OH",3.3
+2017-08,"Delaware County, OH",3.9
+2017-09,"Delaware County, OH",3.9
+2017-10,"Delaware County, OH",3.9
+2017-11,"Delaware County, OH",3.5
+2017-12,"Delaware County, OH",3.3
+2018-01,"Delaware County, OH",3.2
+2018-02,"Delaware County, OH",3.1
+2018-03,"Delaware County, OH",3.5
+2018-04,"Delaware County, OH",3.5
+2018-05,"Delaware County, OH",3.3
+2018-06,"Delaware County, OH",3.1
+2018-07,"Delaware County, OH",3.1
+2018-08,"Delaware County, OH",4.0
+2018-09,"Delaware County, OH",3.6
+2018-10,"Delaware County, OH",3.5
+2018-11,"Delaware County, OH",3.3
+2018-12,"Delaware County, OH",3.3
+2019-01,"Delaware County, OH",3.0
+2019-02,"Delaware County, OH",3.3
+2019-03,"Delaware County, OH",3.7
+2019-04,"Delaware County, OH",3.2
+2019-05,"Delaware County, OH",3.0
+2019-06,"Delaware County, OH",2.6
+2019-07,"Delaware County, OH",2.8
+2019-08,"Delaware County, OH",3.5
+2019-09,"Delaware County, OH",3.6
+2019-10,"Delaware County, OH",3.4
+2019-11,"Delaware County, OH",3.2
+2019-12,"Delaware County, OH",3.1
+2020-01,"Delaware County, OH",2.9
+2020-02,"Delaware County, OH",2.8
+2020-03,"Delaware County, OH",
+2020-04,"Delaware County, OH",
+2020-05,"Delaware County, OH",
+2020-06,"Delaware County, OH",
+2020-07,"Delaware County, OH",
+2020-08,"Delaware County, OH",
+2020-09,"Delaware County, OH",
+2020-10,"Delaware County, OH",
+2020-11,"Delaware County, OH",
+2020-12,"Delaware County, OH",
+2021-01,"Delaware County, OH",
+2021-02,"Delaware County, OH",
+2011-01,"Denver County/city, CO",
+2011-02,"Denver County/city, CO",
+2011-03,"Denver County/city, CO",9.5
+2011-04,"Denver County/city, CO",9.3
+2011-05,"Denver County/city, CO",9.2
+2011-06,"Denver County/city, CO",8.5
+2011-07,"Denver County/city, CO",8.6
+2011-08,"Denver County/city, CO",8.3
+2011-09,"Denver County/city, CO",8.2
+2011-10,"Denver County/city, CO",8.4
+2011-11,"Denver County/city, CO",8.3
+2011-12,"Denver County/city, CO",8.1
+2012-01,"Denver County/city, CO",8.3
+2012-02,"Denver County/city, CO",8.5
+2012-03,"Denver County/city, CO",8.7
+2012-04,"Denver County/city, CO",8.7
+2012-05,"Denver County/city, CO",8.6
+2012-06,"Denver County/city, CO",8.0
+2012-07,"Denver County/city, CO",7.8
+2012-08,"Denver County/city, CO",8.1
+2012-09,"Denver County/city, CO",7.7
+2012-10,"Denver County/city, CO",7.7
+2012-11,"Denver County/city, CO",7.2
+2012-12,"Denver County/city, CO",7.1
+2013-01,"Denver County/city, CO",7.2
+2013-02,"Denver County/city, CO",7.3
+2013-03,"Denver County/city, CO",7.9
+2013-04,"Denver County/city, CO",7.7
+2013-05,"Denver County/city, CO",7.4
+2013-06,"Denver County/city, CO",6.9
+2013-07,"Denver County/city, CO",6.7
+2013-08,"Denver County/city, CO",6.9
+2013-09,"Denver County/city, CO",6.6
+2013-10,"Denver County/city, CO",6.3
+2013-11,"Denver County/city, CO",6.1
+2013-12,"Denver County/city, CO",5.9
+2014-01,"Denver County/city, CO",5.7
+2014-02,"Denver County/city, CO",5.7
+2014-03,"Denver County/city, CO",6.1
+2014-04,"Denver County/city, CO",6.1
+2014-05,"Denver County/city, CO",5.8
+2014-06,"Denver County/city, CO",5.2
+2014-07,"Denver County/city, CO",4.8
+2014-08,"Denver County/city, CO",4.8
+2014-09,"Denver County/city, CO",4.6
+2014-10,"Denver County/city, CO",4.4
+2014-11,"Denver County/city, CO",4.1
+2014-12,"Denver County/city, CO",3.9
+2015-01,"Denver County/city, CO",4.0
+2015-02,"Denver County/city, CO",4.0
+2015-03,"Denver County/city, CO",4.7
+2015-04,"Denver County/city, CO",4.4
+2015-05,"Denver County/city, CO",4.4
+2015-06,"Denver County/city, CO",3.8
+2015-07,"Denver County/city, CO",3.8
+2015-08,"Denver County/city, CO",3.9
+2015-09,"Denver County/city, CO",3.6
+2015-10,"Denver County/city, CO",3.3
+2015-11,"Denver County/city, CO",3.2
+2015-12,"Denver County/city, CO",3.1
+2016-01,"Denver County/city, CO",3.2
+2016-02,"Denver County/city, CO",3.2
+2016-03,"Denver County/city, CO",3.5
+2016-04,"Denver County/city, CO",3.5
+2016-05,"Denver County/city, CO",3.5
+2016-06,"Denver County/city, CO",3.2
+2016-07,"Denver County/city, CO",3.0
+2016-08,"Denver County/city, CO",3.4
+2016-09,"Denver County/city, CO",3.1
+2016-10,"Denver County/city, CO",3.0
+2016-11,"Denver County/city, CO",2.9
+2016-12,"Denver County/city, CO",2.8
+2017-01,"Denver County/city, CO",2.6
+2017-02,"Denver County/city, CO",2.7
+2017-03,"Denver County/city, CO",3.2
+2017-04,"Denver County/city, CO",3.0
+2017-05,"Denver County/city, CO",2.7
+2017-06,"Denver County/city, CO",2.5
+2017-07,"Denver County/city, CO",2.4
+2017-08,"Denver County/city, CO",2.8
+2017-09,"Denver County/city, CO",2.7
+2017-10,"Denver County/city, CO",2.7
+2017-11,"Denver County/city, CO",2.7
+2017-12,"Denver County/city, CO",2.6
+2018-01,"Denver County/city, CO",2.7
+2018-02,"Denver County/city, CO",2.8
+2018-03,"Denver County/city, CO",3.2
+2018-04,"Denver County/city, CO",3.2
+2018-05,"Denver County/city, CO",3.0
+2018-06,"Denver County/city, CO",2.9
+2018-07,"Denver County/city, CO",2.7
+2018-08,"Denver County/city, CO",3.3
+2018-09,"Denver County/city, CO",3.1
+2018-10,"Denver County/city, CO",3.1
+2018-11,"Denver County/city, CO",3.0
+2018-12,"Denver County/city, CO",3.0
+2019-01,"Denver County/city, CO",3.0
+2019-02,"Denver County/city, CO",3.1
+2019-03,"Denver County/city, CO",3.5
+2019-04,"Denver County/city, CO",3.2
+2019-05,"Denver County/city, CO",3.0
+2019-06,"Denver County/city, CO",2.7
+2019-07,"Denver County/city, CO",2.5
+2019-08,"Denver County/city, CO",2.8
+2019-09,"Denver County/city, CO",2.6
+2019-10,"Denver County/city, CO",2.6
+2019-11,"Denver County/city, CO",2.3
+2019-12,"Denver County/city, CO",2.3
+2020-01,"Denver County/city, CO",2.3
+2020-02,"Denver County/city, CO",2.3
+2020-03,"Denver County/city, CO",
+2020-04,"Denver County/city, CO",
+2020-05,"Denver County/city, CO",
+2020-06,"Denver County/city, CO",
+2020-07,"Denver County/city, CO",
+2020-08,"Denver County/city, CO",
+2020-09,"Denver County/city, CO",
+2020-10,"Denver County/city, CO",
+2020-11,"Denver County/city, CO",
+2020-12,"Denver County/city, CO",
+2021-01,"Denver County/city, CO",
+2021-02,"Denver County/city, CO",
+2011-01,"Erie County, NY",
+2011-02,"Erie County, NY",
+2011-03,"Erie County, NY",8.9
+2011-04,"Erie County, NY",8.7
+2011-05,"Erie County, NY",8.2
+2011-06,"Erie County, NY",7.6
+2011-07,"Erie County, NY",7.6
+2011-08,"Erie County, NY",7.9
+2011-09,"Erie County, NY",8.1
+2011-10,"Erie County, NY",7.8
+2011-11,"Erie County, NY",7.8
+2011-12,"Erie County, NY",7.6
+2012-01,"Erie County, NY",7.6
+2012-02,"Erie County, NY",8.1
+2012-03,"Erie County, NY",9.0
+2012-04,"Erie County, NY",9.2
+2012-05,"Erie County, NY",8.7
+2012-06,"Erie County, NY",8.1
+2012-07,"Erie County, NY",8.2
+2012-08,"Erie County, NY",8.5
+2012-09,"Erie County, NY",8.7
+2012-10,"Erie County, NY",8.2
+2012-11,"Erie County, NY",8.0
+2012-12,"Erie County, NY",7.7
+2013-01,"Erie County, NY",7.4
+2013-02,"Erie County, NY",7.9
+2013-03,"Erie County, NY",8.9
+2013-04,"Erie County, NY",8.6
+2013-05,"Erie County, NY",7.9
+2013-06,"Erie County, NY",7.4
+2013-07,"Erie County, NY",7.2
+2013-08,"Erie County, NY",7.5
+2013-09,"Erie County, NY",7.5
+2013-10,"Erie County, NY",7.1
+2013-11,"Erie County, NY",6.9
+2013-12,"Erie County, NY",6.8
+2014-01,"Erie County, NY",6.5
+2014-02,"Erie County, NY",6.4
+2014-03,"Erie County, NY",7.2
+2014-04,"Erie County, NY",7.3
+2014-05,"Erie County, NY",6.8
+2014-06,"Erie County, NY",5.8
+2014-07,"Erie County, NY",5.8
+2014-08,"Erie County, NY",5.9
+2014-09,"Erie County, NY",6.3
+2014-10,"Erie County, NY",6.1
+2014-11,"Erie County, NY",5.7
+2014-12,"Erie County, NY",5.3
+2015-01,"Erie County, NY",5.6
+2015-02,"Erie County, NY",5.5
+2015-03,"Erie County, NY",6.4
+2015-04,"Erie County, NY",6.3
+2015-05,"Erie County, NY",5.7
+2015-06,"Erie County, NY",5.3
+2015-07,"Erie County, NY",5.3
+2015-08,"Erie County, NY",5.3
+2015-09,"Erie County, NY",5.5
+2015-10,"Erie County, NY",5.2
+2015-11,"Erie County, NY",4.8
+2015-12,"Erie County, NY",4.6
+2016-01,"Erie County, NY",4.6
+2016-02,"Erie County, NY",4.8
+2016-03,"Erie County, NY",5.3
+2016-04,"Erie County, NY",5.4
+2016-05,"Erie County, NY",5.1
+2016-06,"Erie County, NY",4.7
+2016-07,"Erie County, NY",4.3
+2016-08,"Erie County, NY",4.6
+2016-09,"Erie County, NY",5.0
+2016-10,"Erie County, NY",5.0
+2016-11,"Erie County, NY",4.9
+2016-12,"Erie County, NY",4.8
+2017-01,"Erie County, NY",4.7
+2017-02,"Erie County, NY",5.1
+2017-03,"Erie County, NY",5.8
+2017-04,"Erie County, NY",5.9
+2017-05,"Erie County, NY",5.2
+2017-06,"Erie County, NY",4.9
+2017-07,"Erie County, NY",4.9
+2017-08,"Erie County, NY",5.0
+2017-09,"Erie County, NY",5.3
+2017-10,"Erie County, NY",5.3
+2017-11,"Erie County, NY",4.8
+2017-12,"Erie County, NY",4.7
+2018-01,"Erie County, NY",4.9
+2018-02,"Erie County, NY",5.1
+2018-03,"Erie County, NY",5.7
+2018-04,"Erie County, NY",5.8
+2018-05,"Erie County, NY",5.2
+2018-06,"Erie County, NY",4.5
+2018-07,"Erie County, NY",4.0
+2018-08,"Erie County, NY",4.3
+2018-09,"Erie County, NY",4.3
+2018-10,"Erie County, NY",4.1
+2018-11,"Erie County, NY",3.7
+2018-12,"Erie County, NY",3.6
+2019-01,"Erie County, NY",3.6
+2019-02,"Erie County, NY",4.2
+2019-03,"Erie County, NY",5.0
+2019-04,"Erie County, NY",4.8
+2019-05,"Erie County, NY",4.4
+2019-06,"Erie County, NY",3.8
+2019-07,"Erie County, NY",3.7
+2019-08,"Erie County, NY",4.0
+2019-09,"Erie County, NY",4.5
+2019-10,"Erie County, NY",4.4
+2019-11,"Erie County, NY",3.9
+2019-12,"Erie County, NY",4.0
+2020-01,"Erie County, NY",4.1
+2020-02,"Erie County, NY",4.6
+2020-03,"Erie County, NY",
+2020-04,"Erie County, NY",
+2020-05,"Erie County, NY",
+2020-06,"Erie County, NY",
+2020-07,"Erie County, NY",
+2020-08,"Erie County, NY",
+2020-09,"Erie County, NY",
+2020-10,"Erie County, NY",
+2020-11,"Erie County, NY",
+2020-12,"Erie County, NY",
+2021-01,"Erie County, NY",
+2021-02,"Erie County, NY",
+2011-01,"Essex County, MA",
+2011-02,"Essex County, MA",
+2011-03,"Essex County, MA",8.8
+2011-04,"Essex County, MA",8.5
+2011-05,"Essex County, MA",8.1
+2011-06,"Essex County, MA",7.5
+2011-07,"Essex County, MA",7.5
+2011-08,"Essex County, MA",7.9
+2011-09,"Essex County, MA",7.7
+2011-10,"Essex County, MA",7.3
+2011-11,"Essex County, MA",7.6
+2011-12,"Essex County, MA",7.0
+2012-01,"Essex County, MA",6.8
+2012-02,"Essex County, MA",7.0
+2012-03,"Essex County, MA",7.8
+2012-04,"Essex County, MA",7.6
+2012-05,"Essex County, MA",7.3
+2012-06,"Essex County, MA",6.7
+2012-07,"Essex County, MA",6.7
+2012-08,"Essex County, MA",7.2
+2012-09,"Essex County, MA",7.2
+2012-10,"Essex County, MA",7.0
+2012-11,"Essex County, MA",7.0
+2012-12,"Essex County, MA",6.7
+2013-01,"Essex County, MA",6.7
+2013-02,"Essex County, MA",6.9
+2013-03,"Essex County, MA",7.9
+2013-04,"Essex County, MA",7.5
+2013-05,"Essex County, MA",7.3
+2013-06,"Essex County, MA",6.9
+2013-07,"Essex County, MA",7.0
+2013-08,"Essex County, MA",7.6
+2013-09,"Essex County, MA",7.3
+2013-10,"Essex County, MA",6.9
+2013-11,"Essex County, MA",7.0
+2013-12,"Essex County, MA",6.6
+2014-01,"Essex County, MA",6.3
+2014-02,"Essex County, MA",6.2
+2014-03,"Essex County, MA",7.0
+2014-04,"Essex County, MA",6.8
+2014-05,"Essex County, MA",6.6
+2014-06,"Essex County, MA",5.8
+2014-07,"Essex County, MA",5.9
+2014-08,"Essex County, MA",6.2
+2014-09,"Essex County, MA",6.3
+2014-10,"Essex County, MA",6.1
+2014-11,"Essex County, MA",5.8
+2014-12,"Essex County, MA",5.2
+2015-01,"Essex County, MA",5.2
+2015-02,"Essex County, MA",5.1
+2015-03,"Essex County, MA",5.9
+2015-04,"Essex County, MA",5.6
+2015-05,"Essex County, MA",5.3
+2015-06,"Essex County, MA",4.8
+2015-07,"Essex County, MA",5.1
+2015-08,"Essex County, MA",5.2
+2015-09,"Essex County, MA",5.2
+2015-10,"Essex County, MA",4.8
+2015-11,"Essex County, MA",4.9
+2015-12,"Essex County, MA",4.4
+2016-01,"Essex County, MA",4.4
+2016-02,"Essex County, MA",4.3
+2016-03,"Essex County, MA",5.0
+2016-04,"Essex County, MA",4.7
+2016-05,"Essex County, MA",4.4
+2016-06,"Essex County, MA",3.9
+2016-07,"Essex County, MA",3.9
+2016-08,"Essex County, MA",4.1
+2016-09,"Essex County, MA",4.0
+2016-10,"Essex County, MA",3.7
+2016-11,"Essex County, MA",3.8
+2016-12,"Essex County, MA",3.4
+2017-01,"Essex County, MA",3.4
+2017-02,"Essex County, MA",3.5
+2017-03,"Essex County, MA",4.4
+2017-04,"Essex County, MA",4.3
+2017-05,"Essex County, MA",4.1
+2017-06,"Essex County, MA",3.6
+2017-07,"Essex County, MA",3.8
+2017-08,"Essex County, MA",4.1
+2017-09,"Essex County, MA",4.0
+2017-10,"Essex County, MA",3.8
+2017-11,"Essex County, MA",3.7
+2017-12,"Essex County, MA",3.3
+2018-01,"Essex County, MA",3.3
+2018-02,"Essex County, MA",3.4
+2018-03,"Essex County, MA",4.1
+2018-04,"Essex County, MA",4.0
+2018-05,"Essex County, MA",3.8
+2018-06,"Essex County, MA",3.4
+2018-07,"Essex County, MA",3.4
+2018-08,"Essex County, MA",3.8
+2018-09,"Essex County, MA",3.7
+2018-10,"Essex County, MA",3.3
+2018-11,"Essex County, MA",3.3
+2018-12,"Essex County, MA",2.9
+2019-01,"Essex County, MA",2.8
+2019-02,"Essex County, MA",2.9
+2019-03,"Essex County, MA",3.8
+2019-04,"Essex County, MA",3.5
+2019-05,"Essex County, MA",3.3
+2019-06,"Essex County, MA",2.8
+2019-07,"Essex County, MA",3.0
+2019-08,"Essex County, MA",3.2
+2019-09,"Essex County, MA",3.2
+2019-10,"Essex County, MA",2.9
+2019-11,"Essex County, MA",2.8
+2019-12,"Essex County, MA",2.5
+2020-01,"Essex County, MA",2.4
+2020-02,"Essex County, MA",2.4
+2020-03,"Essex County, MA",
+2020-04,"Essex County, MA",
+2020-05,"Essex County, MA",
+2020-06,"Essex County, MA",
+2020-07,"Essex County, MA",
+2020-08,"Essex County, MA",
+2020-09,"Essex County, MA",
+2020-10,"Essex County, MA",
+2020-11,"Essex County, MA",
+2020-12,"Essex County, MA",
+2021-01,"Essex County, MA",
+2021-02,"Essex County, MA",
+2011-01,"Essex County, NJ",
+2011-02,"Essex County, NJ",
+2011-03,"Essex County, NJ",11.3
+2011-04,"Essex County, NJ",11.2
+2011-05,"Essex County, NJ",11.1
+2011-06,"Essex County, NJ",10.6
+2011-07,"Essex County, NJ",10.8
+2011-08,"Essex County, NJ",11.1
+2011-09,"Essex County, NJ",11.3
+2011-10,"Essex County, NJ",10.9
+2011-11,"Essex County, NJ",10.8
+2011-12,"Essex County, NJ",10.4
+2012-01,"Essex County, NJ",10.1
+2012-02,"Essex County, NJ",10.2
+2012-03,"Essex County, NJ",10.9
+2012-04,"Essex County, NJ",10.9
+2012-05,"Essex County, NJ",10.8
+2012-06,"Essex County, NJ",10.4
+2012-07,"Essex County, NJ",10.7
+2012-08,"Essex County, NJ",11.1
+2012-09,"Essex County, NJ",11.5
+2012-10,"Essex County, NJ",11.0
+2012-11,"Essex County, NJ",10.6
+2012-12,"Essex County, NJ",10.5
+2013-01,"Essex County, NJ",10.3
+2013-02,"Essex County, NJ",10.2
+2013-03,"Essex County, NJ",11.2
+2013-04,"Essex County, NJ",10.6
+2013-05,"Essex County, NJ",10.1
+2013-06,"Essex County, NJ",9.5
+2013-07,"Essex County, NJ",9.9
+2013-08,"Essex County, NJ",10.3
+2013-09,"Essex County, NJ",10.3
+2013-10,"Essex County, NJ",9.8
+2013-11,"Essex County, NJ",9.4
+2013-12,"Essex County, NJ",9.1
+2014-01,"Essex County, NJ",8.2
+2014-02,"Essex County, NJ",7.9
+2014-03,"Essex County, NJ",8.8
+2014-04,"Essex County, NJ",8.9
+2014-05,"Essex County, NJ",8.6
+2014-06,"Essex County, NJ",7.4
+2014-07,"Essex County, NJ",7.8
+2014-08,"Essex County, NJ",7.8
+2014-09,"Essex County, NJ",8.7
+2014-10,"Essex County, NJ",8.4
+2014-11,"Essex County, NJ",7.9
+2014-12,"Essex County, NJ",7.5
+2015-01,"Essex County, NJ",7.4
+2015-02,"Essex County, NJ",7.1
+2015-03,"Essex County, NJ",8.1
+2015-04,"Essex County, NJ",7.9
+2015-05,"Essex County, NJ",7.5
+2015-06,"Essex County, NJ",6.9
+2015-07,"Essex County, NJ",7.3
+2015-08,"Essex County, NJ",7.3
+2015-09,"Essex County, NJ",7.6
+2015-10,"Essex County, NJ",6.8
+2015-11,"Essex County, NJ",6.4
+2015-12,"Essex County, NJ",6.0
+2016-01,"Essex County, NJ",5.7
+2016-02,"Essex County, NJ",5.5
+2016-03,"Essex County, NJ",6.1
+2016-04,"Essex County, NJ",6.3
+2016-05,"Essex County, NJ",6.3
+2016-06,"Essex County, NJ",6.0
+2016-07,"Essex County, NJ",5.9
+2016-08,"Essex County, NJ",6.3
+2016-09,"Essex County, NJ",6.7
+2016-10,"Essex County, NJ",6.4
+2016-11,"Essex County, NJ",6.2
+2016-12,"Essex County, NJ",5.7
+2017-01,"Essex County, NJ",5.1
+2017-02,"Essex County, NJ",5.1
+2017-03,"Essex County, NJ",5.9
+2017-04,"Essex County, NJ",5.9
+2017-05,"Essex County, NJ",5.4
+2017-06,"Essex County, NJ",5.2
+2017-07,"Essex County, NJ",5.4
+2017-08,"Essex County, NJ",5.7
+2017-09,"Essex County, NJ",6.3
+2017-10,"Essex County, NJ",6.2
+2017-11,"Essex County, NJ",5.9
+2017-12,"Essex County, NJ",5.5
+2018-01,"Essex County, NJ",5.3
+2018-02,"Essex County, NJ",5.1
+2018-03,"Essex County, NJ",5.9
+2018-04,"Essex County, NJ",5.9
+2018-05,"Essex County, NJ",5.6
+2018-06,"Essex County, NJ",4.9
+2018-07,"Essex County, NJ",4.9
+2018-08,"Essex County, NJ",5.6
+2018-09,"Essex County, NJ",5.7
+2018-10,"Essex County, NJ",5.3
+2018-11,"Essex County, NJ",4.8
+2018-12,"Essex County, NJ",4.4
+2019-01,"Essex County, NJ",4.1
+2019-02,"Essex County, NJ",4.3
+2019-03,"Essex County, NJ",5.2
+2019-04,"Essex County, NJ",4.8
+2019-05,"Essex County, NJ",4.5
+2019-06,"Essex County, NJ",3.6
+2019-07,"Essex County, NJ",3.8
+2019-08,"Essex County, NJ",4.3
+2019-09,"Essex County, NJ",4.9
+2019-10,"Essex County, NJ",4.7
+2019-11,"Essex County, NJ",4.4
+2019-12,"Essex County, NJ",4.4
+2020-01,"Essex County, NJ",4.4
+2020-02,"Essex County, NJ",4.5
+2020-03,"Essex County, NJ",
+2020-04,"Essex County, NJ",
+2020-05,"Essex County, NJ",
+2020-06,"Essex County, NJ",
+2020-07,"Essex County, NJ",
+2020-08,"Essex County, NJ",
+2020-09,"Essex County, NJ",
+2020-10,"Essex County, NJ",
+2020-11,"Essex County, NJ",
+2020-12,"Essex County, NJ",
+2021-01,"Essex County, NJ",
+2021-02,"Essex County, NJ",
+2011-01,"Fulton County, GA",
+2011-02,"Fulton County, GA",
+2011-03,"Fulton County, GA",10.7
+2011-04,"Fulton County, GA",10.3
+2011-05,"Fulton County, GA",10.0
+2011-06,"Fulton County, GA",9.8
+2011-07,"Fulton County, GA",10.0
+2011-08,"Fulton County, GA",10.8
+2011-09,"Fulton County, GA",10.7
+2011-10,"Fulton County, GA",10.7
+2011-11,"Fulton County, GA",10.4
+2011-12,"Fulton County, GA",10.1
+2012-01,"Fulton County, GA",9.4
+2012-02,"Fulton County, GA",9.6
+2012-03,"Fulton County, GA",9.7
+2012-04,"Fulton County, GA",9.6
+2012-05,"Fulton County, GA",9.2
+2012-06,"Fulton County, GA",8.8
+2012-07,"Fulton County, GA",9.0
+2012-08,"Fulton County, GA",9.6
+2012-09,"Fulton County, GA",9.7
+2012-10,"Fulton County, GA",9.4
+2012-11,"Fulton County, GA",8.7
+2012-12,"Fulton County, GA",8.7
+2013-01,"Fulton County, GA",8.3
+2013-02,"Fulton County, GA",8.6
+2013-03,"Fulton County, GA",8.9
+2013-04,"Fulton County, GA",8.5
+2013-05,"Fulton County, GA",8.1
+2013-06,"Fulton County, GA",7.8
+2013-07,"Fulton County, GA",8.0
+2013-08,"Fulton County, GA",8.7
+2013-09,"Fulton County, GA",8.5
+2013-10,"Fulton County, GA",8.2
+2013-11,"Fulton County, GA",7.8
+2013-12,"Fulton County, GA",7.9
+2014-01,"Fulton County, GA",7.3
+2014-02,"Fulton County, GA",7.2
+2014-03,"Fulton County, GA",7.3
+2014-04,"Fulton County, GA",7.4
+2014-05,"Fulton County, GA",7.3
+2014-06,"Fulton County, GA",6.6
+2014-07,"Fulton County, GA",7.0
+2014-08,"Fulton County, GA",7.4
+2014-09,"Fulton County, GA",7.7
+2014-10,"Fulton County, GA",7.4
+2014-11,"Fulton County, GA",6.8
+2014-12,"Fulton County, GA",6.7
+2015-01,"Fulton County, GA",6.4
+2015-02,"Fulton County, GA",6.2
+2015-03,"Fulton County, GA",6.6
+2015-04,"Fulton County, GA",6.4
+2015-05,"Fulton County, GA",6.1
+2015-06,"Fulton County, GA",5.8
+2015-07,"Fulton County, GA",6.2
+2015-08,"Fulton County, GA",6.4
+2015-09,"Fulton County, GA",6.3
+2015-10,"Fulton County, GA",6.0
+2015-11,"Fulton County, GA",5.7
+2015-12,"Fulton County, GA",5.7
+2016-01,"Fulton County, GA",5.5
+2016-02,"Fulton County, GA",5.4
+2016-03,"Fulton County, GA",5.6
+2016-04,"Fulton County, GA",5.4
+2016-05,"Fulton County, GA",5.4
+2016-06,"Fulton County, GA",5.1
+2016-07,"Fulton County, GA",5.1
+2016-08,"Fulton County, GA",5.6
+2016-09,"Fulton County, GA",5.6
+2016-10,"Fulton County, GA",5.6
+2016-11,"Fulton County, GA",5.4
+2016-12,"Fulton County, GA",5.4
+2017-01,"Fulton County, GA",5.1
+2017-02,"Fulton County, GA",5.2
+2017-03,"Fulton County, GA",5.5
+2017-04,"Fulton County, GA",5.3
+2017-05,"Fulton County, GA",4.9
+2017-06,"Fulton County, GA",4.7
+2017-07,"Fulton County, GA",4.8
+2017-08,"Fulton County, GA",5.1
+2017-09,"Fulton County, GA",5.0
+2017-10,"Fulton County, GA",5.0
+2017-11,"Fulton County, GA",4.4
+2017-12,"Fulton County, GA",4.4
+2018-01,"Fulton County, GA",4.2
+2018-02,"Fulton County, GA",4.3
+2018-03,"Fulton County, GA",4.6
+2018-04,"Fulton County, GA",4.5
+2018-05,"Fulton County, GA",4.2
+2018-06,"Fulton County, GA",3.8
+2018-07,"Fulton County, GA",3.8
+2018-08,"Fulton County, GA",4.4
+2018-09,"Fulton County, GA",4.2
+2018-10,"Fulton County, GA",4.2
+2018-11,"Fulton County, GA",3.7
+2018-12,"Fulton County, GA",3.8
+2019-01,"Fulton County, GA",3.5
+2019-02,"Fulton County, GA",3.9
+2019-03,"Fulton County, GA",4.2
+2019-04,"Fulton County, GA",3.8
+2019-05,"Fulton County, GA",3.7
+2019-06,"Fulton County, GA",3.2
+2019-07,"Fulton County, GA",3.4
+2019-08,"Fulton County, GA",3.9
+2019-09,"Fulton County, GA",3.8
+2019-10,"Fulton County, GA",3.8
+2019-11,"Fulton County, GA",3.1
+2019-12,"Fulton County, GA",3.1
+2020-01,"Fulton County, GA",2.8
+2020-02,"Fulton County, GA",2.8
+2020-03,"Fulton County, GA",
+2020-04,"Fulton County, GA",
+2020-05,"Fulton County, GA",
+2020-06,"Fulton County, GA",
+2020-07,"Fulton County, GA",
+2020-08,"Fulton County, GA",
+2020-09,"Fulton County, GA",
+2020-10,"Fulton County, GA",
+2020-11,"Fulton County, GA",
+2020-12,"Fulton County, GA",
+2021-01,"Fulton County, GA",
+2021-02,"Fulton County, GA",
+2011-01,"Hampden County, MA",
+2011-02,"Hampden County, MA",
+2011-03,"Hampden County, MA",11.0
+2011-04,"Hampden County, MA",10.5
+2011-05,"Hampden County, MA",10.0
+2011-06,"Hampden County, MA",9.1
+2011-07,"Hampden County, MA",9.0
+2011-08,"Hampden County, MA",9.6
+2011-09,"Hampden County, MA",9.5
+2011-10,"Hampden County, MA",9.1
+2011-11,"Hampden County, MA",9.1
+2011-12,"Hampden County, MA",8.2
+2012-01,"Hampden County, MA",8.2
+2012-02,"Hampden County, MA",8.5
+2012-03,"Hampden County, MA",9.7
+2012-04,"Hampden County, MA",9.2
+2012-05,"Hampden County, MA",8.7
+2012-06,"Hampden County, MA",7.8
+2012-07,"Hampden County, MA",8.1
+2012-08,"Hampden County, MA",8.8
+2012-09,"Hampden County, MA",9.0
+2012-10,"Hampden County, MA",8.7
+2012-11,"Hampden County, MA",8.4
+2012-12,"Hampden County, MA",7.9
+2013-01,"Hampden County, MA",8.1
+2013-02,"Hampden County, MA",8.4
+2013-03,"Hampden County, MA",9.9
+2013-04,"Hampden County, MA",9.2
+2013-05,"Hampden County, MA",9.0
+2013-06,"Hampden County, MA",8.3
+2013-07,"Hampden County, MA",8.6
+2013-08,"Hampden County, MA",9.3
+2013-09,"Hampden County, MA",9.2
+2013-10,"Hampden County, MA",8.8
+2013-11,"Hampden County, MA",8.5
+2013-12,"Hampden County, MA",7.9
+2014-01,"Hampden County, MA",7.8
+2014-02,"Hampden County, MA",7.7
+2014-03,"Hampden County, MA",8.8
+2014-04,"Hampden County, MA",8.6
+2014-05,"Hampden County, MA",8.2
+2014-06,"Hampden County, MA",7.1
+2014-07,"Hampden County, MA",7.4
+2014-08,"Hampden County, MA",7.8
+2014-09,"Hampden County, MA",8.2
+2014-10,"Hampden County, MA",7.7
+2014-11,"Hampden County, MA",7.4
+2014-12,"Hampden County, MA",6.6
+2015-01,"Hampden County, MA",6.7
+2015-02,"Hampden County, MA",6.6
+2015-03,"Hampden County, MA",7.7
+2015-04,"Hampden County, MA",7.1
+2015-05,"Hampden County, MA",6.8
+2015-06,"Hampden County, MA",6.0
+2015-07,"Hampden County, MA",6.5
+2015-08,"Hampden County, MA",6.6
+2015-09,"Hampden County, MA",7.0
+2015-10,"Hampden County, MA",6.4
+2015-11,"Hampden County, MA",6.0
+2015-12,"Hampden County, MA",5.5
+2016-01,"Hampden County, MA",5.4
+2016-02,"Hampden County, MA",5.6
+2016-03,"Hampden County, MA",6.5
+2016-04,"Hampden County, MA",6.1
+2016-05,"Hampden County, MA",5.8
+2016-06,"Hampden County, MA",5.0
+2016-07,"Hampden County, MA",5.0
+2016-08,"Hampden County, MA",5.4
+2016-09,"Hampden County, MA",5.6
+2016-10,"Hampden County, MA",5.1
+2016-11,"Hampden County, MA",5.0
+2016-12,"Hampden County, MA",4.4
+2017-01,"Hampden County, MA",4.4
+2017-02,"Hampden County, MA",4.7
+2017-03,"Hampden County, MA",6.0
+2017-04,"Hampden County, MA",5.8
+2017-05,"Hampden County, MA",5.4
+2017-06,"Hampden County, MA",4.7
+2017-07,"Hampden County, MA",5.0
+2017-08,"Hampden County, MA",5.5
+2017-09,"Hampden County, MA",5.7
+2017-10,"Hampden County, MA",5.2
+2017-11,"Hampden County, MA",4.9
+2017-12,"Hampden County, MA",4.3
+2018-01,"Hampden County, MA",4.3
+2018-02,"Hampden County, MA",4.4
+2018-03,"Hampden County, MA",5.6
+2018-04,"Hampden County, MA",5.3
+2018-05,"Hampden County, MA",5.1
+2018-06,"Hampden County, MA",4.4
+2018-07,"Hampden County, MA",4.6
+2018-08,"Hampden County, MA",5.1
+2018-09,"Hampden County, MA",5.1
+2018-10,"Hampden County, MA",4.6
+2018-11,"Hampden County, MA",4.3
+2018-12,"Hampden County, MA",3.8
+2019-01,"Hampden County, MA",3.7
+2019-02,"Hampden County, MA",4.0
+2019-03,"Hampden County, MA",5.1
+2019-04,"Hampden County, MA",4.7
+2019-05,"Hampden County, MA",4.5
+2019-06,"Hampden County, MA",3.8
+2019-07,"Hampden County, MA",4.0
+2019-08,"Hampden County, MA",4.5
+2019-09,"Hampden County, MA",4.6
+2019-10,"Hampden County, MA",4.3
+2019-11,"Hampden County, MA",3.7
+2019-12,"Hampden County, MA",3.3
+2020-01,"Hampden County, MA",3.2
+2020-02,"Hampden County, MA",3.4
+2020-03,"Hampden County, MA",
+2020-04,"Hampden County, MA",
+2020-05,"Hampden County, MA",
+2020-06,"Hampden County, MA",
+2020-07,"Hampden County, MA",
+2020-08,"Hampden County, MA",
+2020-09,"Hampden County, MA",
+2020-10,"Hampden County, MA",
+2020-11,"Hampden County, MA",
+2020-12,"Hampden County, MA",
+2021-01,"Hampden County, MA",
+2021-02,"Hampden County, MA",
+2011-01,"Hennepin County, MN",
+2011-02,"Hennepin County, MN",
+2011-03,"Hennepin County, MN",6.7
+2011-04,"Hennepin County, MN",6.4
+2011-05,"Hennepin County, MN",6.4
+2011-06,"Hennepin County, MN",6.0
+2011-07,"Hennepin County, MN",6.1
+2011-08,"Hennepin County, MN",6.6
+2011-09,"Hennepin County, MN",6.7
+2011-10,"Hennepin County, MN",6.1
+2011-11,"Hennepin County, MN",5.8
+2011-12,"Hennepin County, MN",5.4
+2012-01,"Hennepin County, MN",5.1
+2012-02,"Hennepin County, MN",5.2
+2012-03,"Hennepin County, MN",5.6
+2012-04,"Hennepin County, MN",5.6
+2012-05,"Hennepin County, MN",5.6
+2012-06,"Hennepin County, MN",5.0
+2012-07,"Hennepin County, MN",5.1
+2012-08,"Hennepin County, MN",5.6
+2012-09,"Hennepin County, MN",5.6
+2012-10,"Hennepin County, MN",5.4
+2012-11,"Hennepin County, MN",5.0
+2012-12,"Hennepin County, MN",4.8
+2013-01,"Hennepin County, MN",4.6
+2013-02,"Hennepin County, MN",4.8
+2013-03,"Hennepin County, MN",5.4
+2013-04,"Hennepin County, MN",5.0
+2013-05,"Hennepin County, MN",4.9
+2013-06,"Hennepin County, MN",4.4
+2013-07,"Hennepin County, MN",4.5
+2013-08,"Hennepin County, MN",5.0
+2013-09,"Hennepin County, MN",4.8
+2013-10,"Hennepin County, MN",4.7
+2013-11,"Hennepin County, MN",4.3
+2013-12,"Hennepin County, MN",4.1
+2014-01,"Hennepin County, MN",3.8
+2014-02,"Hennepin County, MN",4.0
+2014-03,"Hennepin County, MN",4.6
+2014-04,"Hennepin County, MN",4.5
+2014-05,"Hennepin County, MN",4.5
+2014-06,"Hennepin County, MN",3.7
+2014-07,"Hennepin County, MN",3.6
+2014-08,"Hennepin County, MN",4.0
+2014-09,"Hennepin County, MN",3.9
+2014-10,"Hennepin County, MN",3.8
+2014-11,"Hennepin County, MN",3.4
+2014-12,"Hennepin County, MN",3.1
+2015-01,"Hennepin County, MN",3.0
+2015-02,"Hennepin County, MN",3.2
+2015-03,"Hennepin County, MN",3.8
+2015-04,"Hennepin County, MN",3.6
+2015-05,"Hennepin County, MN",3.6
+2015-06,"Hennepin County, MN",3.2
+2015-07,"Hennepin County, MN",3.3
+2015-08,"Hennepin County, MN",3.6
+2015-09,"Hennepin County, MN",3.5
+2015-10,"Hennepin County, MN",3.2
+2015-11,"Hennepin County, MN",3.0
+2015-12,"Hennepin County, MN",2.9
+2016-01,"Hennepin County, MN",2.7
+2016-02,"Hennepin County, MN",2.9
+2016-03,"Hennepin County, MN",3.5
+2016-04,"Hennepin County, MN",3.4
+2016-05,"Hennepin County, MN",3.5
+2016-06,"Hennepin County, MN",3.1
+2016-07,"Hennepin County, MN",2.9
+2016-08,"Hennepin County, MN",3.6
+2016-09,"Hennepin County, MN",3.5
+2016-10,"Hennepin County, MN",3.5
+2016-11,"Hennepin County, MN",3.4
+2016-12,"Hennepin County, MN",3.3
+2017-01,"Hennepin County, MN",3.0
+2017-02,"Hennepin County, MN",3.2
+2017-03,"Hennepin County, MN",3.5
+2017-04,"Hennepin County, MN",3.4
+2017-05,"Hennepin County, MN",3.2
+2017-06,"Hennepin County, MN",2.9
+2017-07,"Hennepin County, MN",2.9
+2017-08,"Hennepin County, MN",3.3
+2017-09,"Hennepin County, MN",3.2
+2017-10,"Hennepin County, MN",3.2
+2017-11,"Hennepin County, MN",2.8
+2017-12,"Hennepin County, MN",2.3
+2018-01,"Hennepin County, MN",2.4
+2018-02,"Hennepin County, MN",2.6
+2018-03,"Hennepin County, MN",2.9
+2018-04,"Hennepin County, MN",2.8
+2018-05,"Hennepin County, MN",2.8
+2018-06,"Hennepin County, MN",2.4
+2018-07,"Hennepin County, MN",2.1
+2018-08,"Hennepin County, MN",2.8
+2018-09,"Hennepin County, MN",2.6
+2018-10,"Hennepin County, MN",2.6
+2018-11,"Hennepin County, MN",2.3
+2018-12,"Hennepin County, MN",2.2
+2019-01,"Hennepin County, MN",2.1
+2019-02,"Hennepin County, MN",2.6
+2019-03,"Hennepin County, MN",3.1
+2019-04,"Hennepin County, MN",2.9
+2019-05,"Hennepin County, MN",3.0
+2019-06,"Hennepin County, MN",2.4
+2019-07,"Hennepin County, MN",2.5
+2019-08,"Hennepin County, MN",3.1
+2019-09,"Hennepin County, MN",3.0
+2019-10,"Hennepin County, MN",2.9
+2019-11,"Hennepin County, MN",2.5
+2019-12,"Hennepin County, MN",2.6
+2020-01,"Hennepin County, MN",2.5
+2020-02,"Hennepin County, MN",2.6
+2020-03,"Hennepin County, MN",
+2020-04,"Hennepin County, MN",
+2020-05,"Hennepin County, MN",
+2020-06,"Hennepin County, MN",
+2020-07,"Hennepin County, MN",
+2020-08,"Hennepin County, MN",
+2020-09,"Hennepin County, MN",
+2020-10,"Hennepin County, MN",
+2020-11,"Hennepin County, MN",
+2020-12,"Hennepin County, MN",
+2021-01,"Hennepin County, MN",
+2021-02,"Hennepin County, MN",
+2011-01,"King County, WA",
+2011-02,"King County, WA",
+2011-03,"King County, WA",8.7
+2011-04,"King County, WA",8.6
+2011-05,"King County, WA",8.4
+2011-06,"King County, WA",7.6
+2011-07,"King County, WA",7.7
+2011-08,"King County, WA",8.4
+2011-09,"King County, WA",8.2
+2011-10,"King County, WA",7.8
+2011-11,"King County, WA",7.7
+2011-12,"King County, WA",7.5
+2012-01,"King County, WA",7.4
+2012-02,"King County, WA",7.0
+2012-03,"King County, WA",7.3
+2012-04,"King County, WA",7.2
+2012-05,"King County, WA",6.9
+2012-06,"King County, WA",6.0
+2012-07,"King County, WA",6.4
+2012-08,"King County, WA",6.7
+2012-09,"King County, WA",6.8
+2012-10,"King County, WA",6.3
+2012-11,"King County, WA",5.9
+2012-12,"King County, WA",5.7
+2013-01,"King County, WA",5.6
+2013-02,"King County, WA",5.3
+2013-03,"King County, WA",5.6
+2013-04,"King County, WA",5.3
+2013-05,"King County, WA",5.0
+2013-06,"King County, WA",4.4
+2013-07,"King County, WA",4.7
+2013-08,"King County, WA",5.3
+2013-09,"King County, WA",5.2
+2013-10,"King County, WA",5.2
+2013-11,"King County, WA",5.2
+2013-12,"King County, WA",5.2
+2014-01,"King County, WA",5.1
+2014-02,"King County, WA",4.6
+2014-03,"King County, WA",5.1
+2014-04,"King County, WA",5.0
+2014-05,"King County, WA",4.9
+2014-06,"King County, WA",4.1
+2014-07,"King County, WA",4.6
+2014-08,"King County, WA",4.9
+2014-09,"King County, WA",5.0
+2014-10,"King County, WA",4.8
+2014-11,"King County, WA",4.7
+2014-12,"King County, WA",4.4
+2015-01,"King County, WA",4.6
+2015-02,"King County, WA",4.0
+2015-03,"King County, WA",4.5
+2015-04,"King County, WA",4.3
+2015-05,"King County, WA",4.2
+2015-06,"King County, WA",3.6
+2015-07,"King County, WA",4.2
+2015-08,"King County, WA",4.2
+2015-09,"King County, WA",4.3
+2015-10,"King County, WA",4.0
+2015-11,"King County, WA",4.3
+2015-12,"King County, WA",4.2
+2016-01,"King County, WA",4.2
+2016-02,"King County, WA",4.0
+2016-03,"King County, WA",4.3
+2016-04,"King County, WA",4.1
+2016-05,"King County, WA",4.0
+2016-06,"King County, WA",3.5
+2016-07,"King County, WA",3.7
+2016-08,"King County, WA",3.9
+2016-09,"King County, WA",4.0
+2016-10,"King County, WA",3.7
+2016-11,"King County, WA",4.0
+2016-12,"King County, WA",3.8
+2017-01,"King County, WA",3.6
+2017-02,"King County, WA",3.5
+2017-03,"King County, WA",3.7
+2017-04,"King County, WA",3.6
+2017-05,"King County, WA",3.5
+2017-06,"King County, WA",3.0
+2017-07,"King County, WA",3.3
+2017-08,"King County, WA",3.5
+2017-09,"King County, WA",3.7
+2017-10,"King County, WA",3.5
+2017-11,"King County, WA",3.7
+2017-12,"King County, WA",3.4
+2018-01,"King County, WA",3.4
+2018-02,"King County, WA",3.4
+2018-03,"King County, WA",3.6
+2018-04,"King County, WA",3.4
+2018-05,"King County, WA",3.2
+2018-06,"King County, WA",2.7
+2018-07,"King County, WA",3.0
+2018-08,"King County, WA",3.2
+2018-09,"King County, WA",3.3
+2018-10,"King County, WA",3.1
+2018-11,"King County, WA",3.2
+2018-12,"King County, WA",3.1
+2019-01,"King County, WA",3.1
+2019-02,"King County, WA",3.1
+2019-03,"King County, WA",3.4
+2019-04,"King County, WA",3.0
+2019-05,"King County, WA",3.0
+2019-06,"King County, WA",2.3
+2019-07,"King County, WA",2.7
+2019-08,"King County, WA",2.8
+2019-09,"King County, WA",3.0
+2019-10,"King County, WA",2.7
+2019-11,"King County, WA",2.8
+2019-12,"King County, WA",2.6
+2020-01,"King County, WA",2.5
+2020-02,"King County, WA",2.5
+2020-03,"King County, WA",
+2020-04,"King County, WA",
+2020-05,"King County, WA",
+2020-06,"King County, WA",
+2020-07,"King County, WA",
+2020-08,"King County, WA",
+2020-09,"King County, WA",
+2020-10,"King County, WA",
+2020-11,"King County, WA",
+2020-12,"King County, WA",
+2021-01,"King County, WA",
+2021-02,"King County, WA",
+2011-01,"Los Angeles County, CA",
+2011-02,"Los Angeles County, CA",
+2011-03,"Los Angeles County, CA",12.7
+2011-04,"Los Angeles County, CA",12.3
+2011-05,"Los Angeles County, CA",12.0
+2011-06,"Los Angeles County, CA",11.7
+2011-07,"Los Angeles County, CA",11.8
+2011-08,"Los Angeles County, CA",12.4
+2011-09,"Los Angeles County, CA",13.0
+2011-10,"Los Angeles County, CA",12.8
+2011-11,"Los Angeles County, CA",12.4
+2011-12,"Los Angeles County, CA",12.0
+2012-01,"Los Angeles County, CA",11.6
+2012-02,"Los Angeles County, CA",11.5
+2012-03,"Los Angeles County, CA",11.9
+2012-04,"Los Angeles County, CA",11.6
+2012-05,"Los Angeles County, CA",11.2
+2012-06,"Los Angeles County, CA",10.5
+2012-07,"Los Angeles County, CA",10.7
+2012-08,"Los Angeles County, CA",11.1
+2012-09,"Los Angeles County, CA",11.8
+2012-10,"Los Angeles County, CA",11.2
+2012-11,"Los Angeles County, CA",10.4
+2012-12,"Los Angeles County, CA",10.4
+2013-01,"Los Angeles County, CA",10.1
+2013-02,"Los Angeles County, CA",10.1
+2013-03,"Los Angeles County, CA",10.9
+2013-04,"Los Angeles County, CA",10.2
+2013-05,"Los Angeles County, CA",9.8
+2013-06,"Los Angeles County, CA",9.4
+2013-07,"Los Angeles County, CA",9.6
+2013-08,"Los Angeles County, CA",10.2
+2013-09,"Los Angeles County, CA",10.5
+2013-10,"Los Angeles County, CA",10.0
+2013-11,"Los Angeles County, CA",9.5
+2013-12,"Los Angeles County, CA",9.4
+2014-01,"Los Angeles County, CA",9.0
+2014-02,"Los Angeles County, CA",8.6
+2014-03,"Los Angeles County, CA",9.0
+2014-04,"Los Angeles County, CA",8.8
+2014-05,"Los Angeles County, CA",8.6
+2014-06,"Los Angeles County, CA",7.8
+2014-07,"Los Angeles County, CA",8.1
+2014-08,"Los Angeles County, CA",8.3
+2014-09,"Los Angeles County, CA",9.0
+2014-10,"Los Angeles County, CA",8.7
+2014-11,"Los Angeles County, CA",8.1
+2014-12,"Los Angeles County, CA",7.8
+2015-01,"Los Angeles County, CA",7.7
+2015-02,"Los Angeles County, CA",7.2
+2015-03,"Los Angeles County, CA",7.8
+2015-04,"Los Angeles County, CA",7.3
+2015-05,"Los Angeles County, CA",7.0
+2015-06,"Los Angeles County, CA",6.6
+2015-07,"Los Angeles County, CA",6.8
+2015-08,"Los Angeles County, CA",6.8
+2015-09,"Los Angeles County, CA",7.2
+2015-10,"Los Angeles County, CA",6.6
+2015-11,"Los Angeles County, CA",6.2
+2015-12,"Los Angeles County, CA",5.9
+2016-01,"Los Angeles County, CA",5.7
+2016-02,"Los Angeles County, CA",5.5
+2016-03,"Los Angeles County, CA",5.7
+2016-04,"Los Angeles County, CA",5.4
+2016-05,"Los Angeles County, CA",5.2
+2016-06,"Los Angeles County, CA",5.0
+2016-07,"Los Angeles County, CA",4.8
+2016-08,"Los Angeles County, CA",5.4
+2016-09,"Los Angeles County, CA",5.8
+2016-10,"Los Angeles County, CA",5.6
+2016-11,"Los Angeles County, CA",5.4
+2016-12,"Los Angeles County, CA",5.2
+2017-01,"Los Angeles County, CA",4.8
+2017-02,"Los Angeles County, CA",4.7
+2017-03,"Los Angeles County, CA",5.2
+2017-04,"Los Angeles County, CA",4.9
+2017-05,"Los Angeles County, CA",4.7
+2017-06,"Los Angeles County, CA",4.4
+2017-07,"Los Angeles County, CA",4.4
+2017-08,"Los Angeles County, CA",4.8
+2017-09,"Los Angeles County, CA",5.4
+2017-10,"Los Angeles County, CA",5.2
+2017-11,"Los Angeles County, CA",4.8
+2017-12,"Los Angeles County, CA",4.5
+2018-01,"Los Angeles County, CA",4.5
+2018-02,"Los Angeles County, CA",4.3
+2018-03,"Los Angeles County, CA",4.9
+2018-04,"Los Angeles County, CA",4.7
+2018-05,"Los Angeles County, CA",4.5
+2018-06,"Los Angeles County, CA",4.2
+2018-07,"Los Angeles County, CA",4.2
+2018-08,"Los Angeles County, CA",4.8
+2018-09,"Los Angeles County, CA",5.1
+2018-10,"Los Angeles County, CA",5.0
+2018-11,"Los Angeles County, CA",4.6
+2018-12,"Los Angeles County, CA",4.6
+2019-01,"Los Angeles County, CA",4.4
+2019-02,"Los Angeles County, CA",4.5
+2019-03,"Los Angeles County, CA",5.0
+2019-04,"Los Angeles County, CA",4.6
+2019-05,"Los Angeles County, CA",4.5
+2019-06,"Los Angeles County, CA",4.1
+2019-07,"Los Angeles County, CA",4.1
+2019-08,"Los Angeles County, CA",4.5
+2019-09,"Los Angeles County, CA",5.0
+2019-10,"Los Angeles County, CA",4.8
+2019-11,"Los Angeles County, CA",4.3
+2019-12,"Los Angeles County, CA",4.3
+2020-01,"Los Angeles County, CA",4.1
+2020-02,"Los Angeles County, CA",4.0
+2020-03,"Los Angeles County, CA",
+2020-04,"Los Angeles County, CA",
+2020-05,"Los Angeles County, CA",
+2020-06,"Los Angeles County, CA",
+2020-07,"Los Angeles County, CA",
+2020-08,"Los Angeles County, CA",
+2020-09,"Los Angeles County, CA",
+2020-10,"Los Angeles County, CA",
+2020-11,"Los Angeles County, CA",
+2020-12,"Los Angeles County, CA",
+2021-01,"Los Angeles County, CA",
+2021-02,"Los Angeles County, CA",
+2011-01,"Lucas County, OH",
+2011-02,"Lucas County, OH",
+2011-03,"Lucas County, OH",11.4
+2011-04,"Lucas County, OH",10.7
+2011-05,"Lucas County, OH",10.3
+2011-06,"Lucas County, OH",9.5
+2011-07,"Lucas County, OH",9.6
+2011-08,"Lucas County, OH",10.5
+2011-09,"Lucas County, OH",10.5
+2011-10,"Lucas County, OH",10.1
+2011-11,"Lucas County, OH",9.6
+2011-12,"Lucas County, OH",9.2
+2012-01,"Lucas County, OH",8.6
+2012-02,"Lucas County, OH",8.7
+2012-03,"Lucas County, OH",9.6
+2012-04,"Lucas County, OH",9.2
+2012-05,"Lucas County, OH",8.7
+2012-06,"Lucas County, OH",7.9
+2012-07,"Lucas County, OH",7.7
+2012-08,"Lucas County, OH",8.4
+2012-09,"Lucas County, OH",8.8
+2012-10,"Lucas County, OH",8.0
+2012-11,"Lucas County, OH",7.7
+2012-12,"Lucas County, OH",7.7
+2013-01,"Lucas County, OH",7.8
+2013-02,"Lucas County, OH",8.6
+2013-03,"Lucas County, OH",10.5
+2013-04,"Lucas County, OH",9.7
+2013-05,"Lucas County, OH",9.0
+2013-06,"Lucas County, OH",8.2
+2013-07,"Lucas County, OH",8.4
+2013-08,"Lucas County, OH",9.2
+2013-09,"Lucas County, OH",9.1
+2013-10,"Lucas County, OH",8.5
+2013-11,"Lucas County, OH",8.2
+2013-12,"Lucas County, OH",8.3
+2014-01,"Lucas County, OH",7.7
+2014-02,"Lucas County, OH",7.3
+2014-03,"Lucas County, OH",8.3
+2014-04,"Lucas County, OH",7.8
+2014-05,"Lucas County, OH",7.2
+2014-06,"Lucas County, OH",5.9
+2014-07,"Lucas County, OH",6.0
+2014-08,"Lucas County, OH",6.6
+2014-09,"Lucas County, OH",6.8
+2014-10,"Lucas County, OH",6.4
+2014-11,"Lucas County, OH",5.8
+2014-12,"Lucas County, OH",5.4
+2015-01,"Lucas County, OH",5.5
+2015-02,"Lucas County, OH",5.6
+2015-03,"Lucas County, OH",6.7
+2015-04,"Lucas County, OH",6.2
+2015-05,"Lucas County, OH",5.8
+2015-06,"Lucas County, OH",5.1
+2015-07,"Lucas County, OH",5.2
+2015-08,"Lucas County, OH",5.5
+2015-09,"Lucas County, OH",5.3
+2015-10,"Lucas County, OH",4.8
+2015-11,"Lucas County, OH",4.7
+2015-12,"Lucas County, OH",4.7
+2016-01,"Lucas County, OH",4.9
+2016-02,"Lucas County, OH",5.1
+2016-03,"Lucas County, OH",5.9
+2016-04,"Lucas County, OH",5.6
+2016-05,"Lucas County, OH",5.6
+2016-06,"Lucas County, OH",4.8
+2016-07,"Lucas County, OH",4.4
+2016-08,"Lucas County, OH",5.0
+2016-09,"Lucas County, OH",5.1
+2016-10,"Lucas County, OH",5.3
+2016-11,"Lucas County, OH",5.3
+2016-12,"Lucas County, OH",5.3
+2017-01,"Lucas County, OH",5.0
+2017-02,"Lucas County, OH",5.2
+2017-03,"Lucas County, OH",6.3
+2017-04,"Lucas County, OH",6.1
+2017-05,"Lucas County, OH",5.6
+2017-06,"Lucas County, OH",5.7
+2017-07,"Lucas County, OH",6.0
+2017-08,"Lucas County, OH",6.7
+2017-09,"Lucas County, OH",6.8
+2017-10,"Lucas County, OH",6.7
+2017-11,"Lucas County, OH",5.9
+2017-12,"Lucas County, OH",5.3
+2018-01,"Lucas County, OH",4.9
+2018-02,"Lucas County, OH",5.0
+2018-03,"Lucas County, OH",5.8
+2018-04,"Lucas County, OH",5.6
+2018-05,"Lucas County, OH",5.2
+2018-06,"Lucas County, OH",4.7
+2018-07,"Lucas County, OH",5.1
+2018-08,"Lucas County, OH",5.8
+2018-09,"Lucas County, OH",5.4
+2018-10,"Lucas County, OH",5.3
+2018-11,"Lucas County, OH",4.9
+2018-12,"Lucas County, OH",5.0
+2019-01,"Lucas County, OH",4.9
+2019-02,"Lucas County, OH",5.1
+2019-03,"Lucas County, OH",6.0
+2019-04,"Lucas County, OH",5.0
+2019-05,"Lucas County, OH",4.7
+2019-06,"Lucas County, OH",3.9
+2019-07,"Lucas County, OH",5.5
+2019-08,"Lucas County, OH",4.6
+2019-09,"Lucas County, OH",4.9
+2019-10,"Lucas County, OH",4.6
+2019-11,"Lucas County, OH",4.2
+2019-12,"Lucas County, OH",4.2
+2020-01,"Lucas County, OH",4.1
+2020-02,"Lucas County, OH",4.2
+2020-03,"Lucas County, OH",
+2020-04,"Lucas County, OH",
+2020-05,"Lucas County, OH",
+2020-06,"Lucas County, OH",
+2020-07,"Lucas County, OH",
+2020-08,"Lucas County, OH",
+2020-09,"Lucas County, OH",
+2020-10,"Lucas County, OH",
+2020-11,"Lucas County, OH",
+2020-12,"Lucas County, OH",
+2021-01,"Lucas County, OH",
+2021-02,"Lucas County, OH",
+2011-01,"Mecklenburg County, NC",
+2011-02,"Mecklenburg County, NC",
+2011-03,"Mecklenburg County, NC",10.4
+2011-04,"Mecklenburg County, NC",10.2
+2011-05,"Mecklenburg County, NC",9.8
+2011-06,"Mecklenburg County, NC",9.6
+2011-07,"Mecklenburg County, NC",9.9
+2011-08,"Mecklenburg County, NC",10.6
+2011-09,"Mecklenburg County, NC",10.5
+2011-10,"Mecklenburg County, NC",10.4
+2011-11,"Mecklenburg County, NC",9.8
+2011-12,"Mecklenburg County, NC",9.5
+2012-01,"Mecklenburg County, NC",9.2
+2012-02,"Mecklenburg County, NC",9.1
+2012-03,"Mecklenburg County, NC",9.3
+2012-04,"Mecklenburg County, NC",9.2
+2012-05,"Mecklenburg County, NC",8.7
+2012-06,"Mecklenburg County, NC",8.2
+2012-07,"Mecklenburg County, NC",8.7
+2012-08,"Mecklenburg County, NC",9.2
+2012-09,"Mecklenburg County, NC",9.4
+2012-10,"Mecklenburg County, NC",9.1
+2012-11,"Mecklenburg County, NC",8.3
+2012-12,"Mecklenburg County, NC",8.3
+2013-01,"Mecklenburg County, NC",8.2
+2013-02,"Mecklenburg County, NC",8.4
+2013-03,"Mecklenburg County, NC",8.8
+2013-04,"Mecklenburg County, NC",8.3
+2013-05,"Mecklenburg County, NC",7.8
+2013-06,"Mecklenburg County, NC",7.3
+2013-07,"Mecklenburg County, NC",7.6
+2013-08,"Mecklenburg County, NC",8.1
+2013-09,"Mecklenburg County, NC",8.0
+2013-10,"Mecklenburg County, NC",7.5
+2013-11,"Mecklenburg County, NC",7.0
+2013-12,"Mecklenburg County, NC",6.9
+2014-01,"Mecklenburg County, NC",6.7
+2014-02,"Mecklenburg County, NC",6.2
+2014-03,"Mecklenburg County, NC",6.4
+2014-04,"Mecklenburg County, NC",6.5
+2014-05,"Mecklenburg County, NC",6.3
+2014-06,"Mecklenburg County, NC",5.6
+2014-07,"Mecklenburg County, NC",6.1
+2014-08,"Mecklenburg County, NC",6.2
+2014-09,"Mecklenburg County, NC",6.6
+2014-10,"Mecklenburg County, NC",6.4
+2014-11,"Mecklenburg County, NC",5.7
+2014-12,"Mecklenburg County, NC",5.5
+2015-01,"Mecklenburg County, NC",5.5
+2015-02,"Mecklenburg County, NC",5.0
+2015-03,"Mecklenburg County, NC",5.6
+2015-04,"Mecklenburg County, NC",5.5
+2015-05,"Mecklenburg County, NC",5.2
+2015-06,"Mecklenburg County, NC",5.1
+2015-07,"Mecklenburg County, NC",5.6
+2015-08,"Mecklenburg County, NC",5.7
+2015-09,"Mecklenburg County, NC",5.8
+2015-10,"Mecklenburg County, NC",5.5
+2015-11,"Mecklenburg County, NC",5.1
+2015-12,"Mecklenburg County, NC",5.0
+2016-01,"Mecklenburg County, NC",5.0
+2016-02,"Mecklenburg County, NC",4.7
+2016-03,"Mecklenburg County, NC",4.9
+2016-04,"Mecklenburg County, NC",4.9
+2016-05,"Mecklenburg County, NC",4.7
+2016-06,"Mecklenburg County, NC",4.5
+2016-07,"Mecklenburg County, NC",4.5
+2016-08,"Mecklenburg County, NC",4.9
+2016-09,"Mecklenburg County, NC",5.0
+2016-10,"Mecklenburg County, NC",4.9
+2016-11,"Mecklenburg County, NC",4.8
+2016-12,"Mecklenburg County, NC",4.6
+2017-01,"Mecklenburg County, NC",4.6
+2017-02,"Mecklenburg County, NC",4.5
+2017-03,"Mecklenburg County, NC",4.8
+2017-04,"Mecklenburg County, NC",4.8
+2017-05,"Mecklenburg County, NC",4.3
+2017-06,"Mecklenburg County, NC",4.1
+2017-07,"Mecklenburg County, NC",4.2
+2017-08,"Mecklenburg County, NC",4.3
+2017-09,"Mecklenburg County, NC",4.4
+2017-10,"Mecklenburg County, NC",4.5
+2017-11,"Mecklenburg County, NC",4.0
+2017-12,"Mecklenburg County, NC",4.0
+2018-01,"Mecklenburg County, NC",4.1
+2018-02,"Mecklenburg County, NC",3.8
+2018-03,"Mecklenburg County, NC",4.2
+2018-04,"Mecklenburg County, NC",4.2
+2018-05,"Mecklenburg County, NC",3.9
+2018-06,"Mecklenburg County, NC",3.6
+2018-07,"Mecklenburg County, NC",3.6
+2018-08,"Mecklenburg County, NC",4.1
+2018-09,"Mecklenburg County, NC",4.0
+2018-10,"Mecklenburg County, NC",3.9
+2018-11,"Mecklenburg County, NC",3.4
+2018-12,"Mecklenburg County, NC",3.5
+2019-01,"Mecklenburg County, NC",3.6
+2019-02,"Mecklenburg County, NC",3.6
+2019-03,"Mecklenburg County, NC",4.2
+2019-04,"Mecklenburg County, NC",3.9
+2019-05,"Mecklenburg County, NC",3.7
+2019-06,"Mecklenburg County, NC",3.4
+2019-07,"Mecklenburg County, NC",3.6
+2019-08,"Mecklenburg County, NC",3.9
+2019-09,"Mecklenburg County, NC",4.0
+2019-10,"Mecklenburg County, NC",3.8
+2019-11,"Mecklenburg County, NC",3.3
+2019-12,"Mecklenburg County, NC",3.3
+2020-01,"Mecklenburg County, NC",3.3
+2020-02,"Mecklenburg County, NC",3.1
+2020-03,"Mecklenburg County, NC",
+2020-04,"Mecklenburg County, NC",
+2020-05,"Mecklenburg County, NC",
+2020-06,"Mecklenburg County, NC",
+2020-07,"Mecklenburg County, NC",
+2020-08,"Mecklenburg County, NC",
+2020-09,"Mecklenburg County, NC",
+2020-10,"Mecklenburg County, NC",
+2020-11,"Mecklenburg County, NC",
+2020-12,"Mecklenburg County, NC",
+2021-01,"Mecklenburg County, NC",
+2021-02,"Mecklenburg County, NC",
+2011-01,"Middlesex County, MA",
+2011-02,"Middlesex County, MA",
+2011-03,"Middlesex County, MA",6.7
+2011-04,"Middlesex County, MA",6.3
+2011-05,"Middlesex County, MA",5.9
+2011-06,"Middlesex County, MA",5.8
+2011-07,"Middlesex County, MA",5.8
+2011-08,"Middlesex County, MA",6.4
+2011-09,"Middlesex County, MA",6.2
+2011-10,"Middlesex County, MA",5.8
+2011-11,"Middlesex County, MA",6.0
+2011-12,"Middlesex County, MA",5.4
+2012-01,"Middlesex County, MA",5.2
+2012-02,"Middlesex County, MA",5.2
+2012-03,"Middlesex County, MA",5.8
+2012-04,"Middlesex County, MA",5.6
+2012-05,"Middlesex County, MA",5.2
+2012-06,"Middlesex County, MA",5.1
+2012-07,"Middlesex County, MA",5.2
+2012-08,"Middlesex County, MA",5.7
+2012-09,"Middlesex County, MA",5.8
+2012-10,"Middlesex County, MA",5.4
+2012-11,"Middlesex County, MA",5.5
+2012-12,"Middlesex County, MA",5.3
+2013-01,"Middlesex County, MA",5.1
+2013-02,"Middlesex County, MA",5.3
+2013-03,"Middlesex County, MA",6.0
+2013-04,"Middlesex County, MA",5.6
+2013-05,"Middlesex County, MA",5.4
+2013-06,"Middlesex County, MA",5.3
+2013-07,"Middlesex County, MA",5.6
+2013-08,"Middlesex County, MA",6.1
+2013-09,"Middlesex County, MA",5.9
+2013-10,"Middlesex County, MA",5.5
+2013-11,"Middlesex County, MA",5.5
+2013-12,"Middlesex County, MA",5.3
+2014-01,"Middlesex County, MA",4.9
+2014-02,"Middlesex County, MA",4.7
+2014-03,"Middlesex County, MA",5.3
+2014-04,"Middlesex County, MA",5.1
+2014-05,"Middlesex County, MA",4.9
+2014-06,"Middlesex County, MA",4.5
+2014-07,"Middlesex County, MA",4.7
+2014-08,"Middlesex County, MA",5.0
+2014-09,"Middlesex County, MA",5.1
+2014-10,"Middlesex County, MA",4.7
+2014-11,"Middlesex County, MA",4.7
+2014-12,"Middlesex County, MA",4.2
+2015-01,"Middlesex County, MA",4.1
+2015-02,"Middlesex County, MA",3.8
+2015-03,"Middlesex County, MA",4.5
+2015-04,"Middlesex County, MA",4.2
+2015-05,"Middlesex County, MA",4.0
+2015-06,"Middlesex County, MA",3.7
+2015-07,"Middlesex County, MA",4.1
+2015-08,"Middlesex County, MA",4.3
+2015-09,"Middlesex County, MA",4.2
+2015-10,"Middlesex County, MA",3.8
+2015-11,"Middlesex County, MA",3.9
+2015-12,"Middlesex County, MA",3.5
+2016-01,"Middlesex County, MA",3.4
+2016-02,"Middlesex County, MA",3.3
+2016-03,"Middlesex County, MA",3.7
+2016-04,"Middlesex County, MA",3.6
+2016-05,"Middlesex County, MA",3.4
+2016-06,"Middlesex County, MA",3.0
+2016-07,"Middlesex County, MA",3.1
+2016-08,"Middlesex County, MA",3.4
+2016-09,"Middlesex County, MA",3.4
+2016-10,"Middlesex County, MA",3.0
+2016-11,"Middlesex County, MA",3.1
+2016-12,"Middlesex County, MA",2.8
+2017-01,"Middlesex County, MA",2.7
+2017-02,"Middlesex County, MA",2.7
+2017-03,"Middlesex County, MA",3.4
+2017-04,"Middlesex County, MA",3.3
+2017-05,"Middlesex County, MA",3.1
+2017-06,"Middlesex County, MA",2.8
+2017-07,"Middlesex County, MA",3.1
+2017-08,"Middlesex County, MA",3.4
+2017-09,"Middlesex County, MA",3.4
+2017-10,"Middlesex County, MA",3.2
+2017-11,"Middlesex County, MA",3.0
+2017-12,"Middlesex County, MA",2.7
+2018-01,"Middlesex County, MA",2.7
+2018-02,"Middlesex County, MA",2.6
+2018-03,"Middlesex County, MA",3.2
+2018-04,"Middlesex County, MA",3.1
+2018-05,"Middlesex County, MA",2.9
+2018-06,"Middlesex County, MA",2.6
+2018-07,"Middlesex County, MA",2.7
+2018-08,"Middlesex County, MA",3.1
+2018-09,"Middlesex County, MA",3.1
+2018-10,"Middlesex County, MA",2.7
+2018-11,"Middlesex County, MA",2.6
+2018-12,"Middlesex County, MA",2.3
+2019-01,"Middlesex County, MA",2.2
+2019-02,"Middlesex County, MA",2.2
+2019-03,"Middlesex County, MA",2.9
+2019-04,"Middlesex County, MA",2.6
+2019-05,"Middlesex County, MA",2.5
+2019-06,"Middlesex County, MA",2.2
+2019-07,"Middlesex County, MA",2.4
+2019-08,"Middlesex County, MA",2.6
+2019-09,"Middlesex County, MA",2.6
+2019-10,"Middlesex County, MA",2.3
+2019-11,"Middlesex County, MA",2.2
+2019-12,"Middlesex County, MA",1.9
+2020-01,"Middlesex County, MA",1.8
+2020-02,"Middlesex County, MA",1.8
+2020-03,"Middlesex County, MA",
+2020-04,"Middlesex County, MA",
+2020-05,"Middlesex County, MA",
+2020-06,"Middlesex County, MA",
+2020-07,"Middlesex County, MA",
+2020-08,"Middlesex County, MA",
+2020-09,"Middlesex County, MA",
+2020-10,"Middlesex County, MA",
+2020-11,"Middlesex County, MA",
+2020-12,"Middlesex County, MA",
+2021-01,"Middlesex County, MA",
+2021-02,"Middlesex County, MA",
+2011-01,"Middlesex County, NJ",
+2011-02,"Middlesex County, NJ",
+2011-03,"Middlesex County, NJ",9.0
+2011-04,"Middlesex County, NJ",9.2
+2011-05,"Middlesex County, NJ",8.9
+2011-06,"Middlesex County, NJ",8.5
+2011-07,"Middlesex County, NJ",8.6
+2011-08,"Middlesex County, NJ",9.0
+2011-09,"Middlesex County, NJ",9.2
+2011-10,"Middlesex County, NJ",8.7
+2011-11,"Middlesex County, NJ",8.7
+2011-12,"Middlesex County, NJ",8.5
+2012-01,"Middlesex County, NJ",8.3
+2012-02,"Middlesex County, NJ",8.2
+2012-03,"Middlesex County, NJ",8.7
+2012-04,"Middlesex County, NJ",8.9
+2012-05,"Middlesex County, NJ",8.7
+2012-06,"Middlesex County, NJ",8.6
+2012-07,"Middlesex County, NJ",8.6
+2012-08,"Middlesex County, NJ",9.0
+2012-09,"Middlesex County, NJ",9.4
+2012-10,"Middlesex County, NJ",8.7
+2012-11,"Middlesex County, NJ",8.2
+2012-12,"Middlesex County, NJ",8.2
+2013-01,"Middlesex County, NJ",8.4
+2013-02,"Middlesex County, NJ",7.9
+2013-03,"Middlesex County, NJ",8.6
+2013-04,"Middlesex County, NJ",8.3
+2013-05,"Middlesex County, NJ",7.8
+2013-06,"Middlesex County, NJ",7.4
+2013-07,"Middlesex County, NJ",7.8
+2013-08,"Middlesex County, NJ",8.2
+2013-09,"Middlesex County, NJ",8.1
+2013-10,"Middlesex County, NJ",7.5
+2013-11,"Middlesex County, NJ",7.2
+2013-12,"Middlesex County, NJ",7.1
+2014-01,"Middlesex County, NJ",6.3
+2014-02,"Middlesex County, NJ",6.0
+2014-03,"Middlesex County, NJ",6.7
+2014-04,"Middlesex County, NJ",6.9
+2014-05,"Middlesex County, NJ",6.6
+2014-06,"Middlesex County, NJ",5.6
+2014-07,"Middlesex County, NJ",6.0
+2014-08,"Middlesex County, NJ",6.1
+2014-09,"Middlesex County, NJ",6.7
+2014-10,"Middlesex County, NJ",6.4
+2014-11,"Middlesex County, NJ",5.9
+2014-12,"Middlesex County, NJ",5.7
+2015-01,"Middlesex County, NJ",5.4
+2015-02,"Middlesex County, NJ",5.2
+2015-03,"Middlesex County, NJ",6.1
+2015-04,"Middlesex County, NJ",6.0
+2015-05,"Middlesex County, NJ",5.6
+2015-06,"Middlesex County, NJ",5.1
+2015-07,"Middlesex County, NJ",5.5
+2015-08,"Middlesex County, NJ",5.4
+2015-09,"Middlesex County, NJ",5.7
+2015-10,"Middlesex County, NJ",5.1
+2015-11,"Middlesex County, NJ",4.7
+2015-12,"Middlesex County, NJ",4.5
+2016-01,"Middlesex County, NJ",4.2
+2016-02,"Middlesex County, NJ",4.0
+2016-03,"Middlesex County, NJ",4.5
+2016-04,"Middlesex County, NJ",4.7
+2016-05,"Middlesex County, NJ",4.7
+2016-06,"Middlesex County, NJ",4.4
+2016-07,"Middlesex County, NJ",4.5
+2016-08,"Middlesex County, NJ",4.7
+2016-09,"Middlesex County, NJ",5.0
+2016-10,"Middlesex County, NJ",4.7
+2016-11,"Middlesex County, NJ",4.5
+2016-12,"Middlesex County, NJ",4.2
+2017-01,"Middlesex County, NJ",3.7
+2017-02,"Middlesex County, NJ",3.7
+2017-03,"Middlesex County, NJ",4.3
+2017-04,"Middlesex County, NJ",4.3
+2017-05,"Middlesex County, NJ",3.9
+2017-06,"Middlesex County, NJ",3.8
+2017-07,"Middlesex County, NJ",4.0
+2017-08,"Middlesex County, NJ",4.1
+2017-09,"Middlesex County, NJ",4.7
+2017-10,"Middlesex County, NJ",4.5
+2017-11,"Middlesex County, NJ",4.2
+2017-12,"Middlesex County, NJ",3.9
+2018-01,"Middlesex County, NJ",3.8
+2018-02,"Middlesex County, NJ",3.5
+2018-03,"Middlesex County, NJ",4.2
+2018-04,"Middlesex County, NJ",4.3
+2018-05,"Middlesex County, NJ",3.9
+2018-06,"Middlesex County, NJ",3.4
+2018-07,"Middlesex County, NJ",3.4
+2018-08,"Middlesex County, NJ",3.9
+2018-09,"Middlesex County, NJ",4.2
+2018-10,"Middlesex County, NJ",3.8
+2018-11,"Middlesex County, NJ",3.3
+2018-12,"Middlesex County, NJ",3.1
+2019-01,"Middlesex County, NJ",2.8
+2019-02,"Middlesex County, NJ",2.9
+2019-03,"Middlesex County, NJ",3.7
+2019-04,"Middlesex County, NJ",3.5
+2019-05,"Middlesex County, NJ",3.1
+2019-06,"Middlesex County, NJ",2.4
+2019-07,"Middlesex County, NJ",2.6
+2019-08,"Middlesex County, NJ",2.9
+2019-09,"Middlesex County, NJ",3.5
+2019-10,"Middlesex County, NJ",3.3
+2019-11,"Middlesex County, NJ",3.0
+2019-12,"Middlesex County, NJ",3.0
+2020-01,"Middlesex County, NJ",3.0
+2020-02,"Middlesex County, NJ",3.0
+2020-03,"Middlesex County, NJ",
+2020-04,"Middlesex County, NJ",
+2020-05,"Middlesex County, NJ",
+2020-06,"Middlesex County, NJ",
+2020-07,"Middlesex County, NJ",
+2020-08,"Middlesex County, NJ",
+2020-09,"Middlesex County, NJ",
+2020-10,"Middlesex County, NJ",
+2020-11,"Middlesex County, NJ",
+2020-12,"Middlesex County, NJ",
+2021-01,"Middlesex County, NJ",
+2021-02,"Middlesex County, NJ",
+2011-01,"Montgomery County, MD",
+2011-02,"Montgomery County, MD",
+2011-03,"Montgomery County, MD",5.5
+2011-04,"Montgomery County, MD",5.3
+2011-05,"Montgomery County, MD",5.2
+2011-06,"Montgomery County, MD",5.0
+2011-07,"Montgomery County, MD",5.3
+2011-08,"Montgomery County, MD",5.7
+2011-09,"Montgomery County, MD",5.4
+2011-10,"Montgomery County, MD",5.4
+2011-11,"Montgomery County, MD",5.4
+2011-12,"Montgomery County, MD",5.2
+2012-01,"Montgomery County, MD",4.9
+2012-02,"Montgomery County, MD",4.9
+2012-03,"Montgomery County, MD",5.3
+2012-04,"Montgomery County, MD",5.4
+2012-05,"Montgomery County, MD",5.2
+2012-06,"Montgomery County, MD",4.9
+2012-07,"Montgomery County, MD",5.2
+2012-08,"Montgomery County, MD",5.6
+2012-09,"Montgomery County, MD",5.4
+2012-10,"Montgomery County, MD",5.3
+2012-11,"Montgomery County, MD",5.1
+2012-12,"Montgomery County, MD",5.1
+2013-01,"Montgomery County, MD",4.9
+2013-02,"Montgomery County, MD",4.9
+2013-03,"Montgomery County, MD",5.3
+2013-04,"Montgomery County, MD",5.2
+2013-05,"Montgomery County, MD",5.0
+2013-06,"Montgomery County, MD",4.7
+2013-07,"Montgomery County, MD",5.1
+2013-08,"Montgomery County, MD",5.5
+2013-09,"Montgomery County, MD",5.1
+2013-10,"Montgomery County, MD",4.9
+2013-11,"Montgomery County, MD",4.8
+2013-12,"Montgomery County, MD",5.0
+2014-01,"Montgomery County, MD",4.5
+2014-02,"Montgomery County, MD",4.2
+2014-03,"Montgomery County, MD",4.6
+2014-04,"Montgomery County, MD",4.6
+2014-05,"Montgomery County, MD",4.6
+2014-06,"Montgomery County, MD",4.0
+2014-07,"Montgomery County, MD",4.4
+2014-08,"Montgomery County, MD",4.7
+2014-09,"Montgomery County, MD",4.7
+2014-10,"Montgomery County, MD",4.5
+2014-11,"Montgomery County, MD",4.3
+2014-12,"Montgomery County, MD",4.2
+2015-01,"Montgomery County, MD",4.1
+2015-02,"Montgomery County, MD",3.8
+2015-03,"Montgomery County, MD",4.3
+2015-04,"Montgomery County, MD",4.1
+2015-05,"Montgomery County, MD",4.0
+2015-06,"Montgomery County, MD",3.6
+2015-07,"Montgomery County, MD",4.1
+2015-08,"Montgomery County, MD",4.3
+2015-09,"Montgomery County, MD",4.0
+2015-10,"Montgomery County, MD",3.8
+2015-11,"Montgomery County, MD",3.8
+2015-12,"Montgomery County, MD",3.8
+2016-01,"Montgomery County, MD",3.6
+2016-02,"Montgomery County, MD",3.2
+2016-03,"Montgomery County, MD",3.7
+2016-04,"Montgomery County, MD",3.6
+2016-05,"Montgomery County, MD",3.4
+2016-06,"Montgomery County, MD",3.1
+2016-07,"Montgomery County, MD",3.3
+2016-08,"Montgomery County, MD",3.8
+2016-09,"Montgomery County, MD",3.7
+2016-10,"Montgomery County, MD",3.5
+2016-11,"Montgomery County, MD",3.5
+2016-12,"Montgomery County, MD",3.5
+2017-01,"Montgomery County, MD",3.3
+2017-02,"Montgomery County, MD",3.0
+2017-03,"Montgomery County, MD",3.6
+2017-04,"Montgomery County, MD",3.6
+2017-05,"Montgomery County, MD",3.3
+2017-06,"Montgomery County, MD",3.0
+2017-07,"Montgomery County, MD",3.3
+2017-08,"Montgomery County, MD",3.7
+2017-09,"Montgomery County, MD",3.6
+2017-10,"Montgomery County, MD",3.4
+2017-11,"Montgomery County, MD",3.3
+2017-12,"Montgomery County, MD",3.4
+2018-01,"Montgomery County, MD",3.4
+2018-02,"Montgomery County, MD",3.0
+2018-03,"Montgomery County, MD",3.6
+2018-04,"Montgomery County, MD",3.5
+2018-05,"Montgomery County, MD",3.3
+2018-06,"Montgomery County, MD",2.9
+2018-07,"Montgomery County, MD",3.1
+2018-08,"Montgomery County, MD",3.6
+2018-09,"Montgomery County, MD",3.4
+2018-10,"Montgomery County, MD",3.0
+2018-11,"Montgomery County, MD",3.0
+2018-12,"Montgomery County, MD",3.0
+2019-01,"Montgomery County, MD",2.9
+2019-02,"Montgomery County, MD",2.8
+2019-03,"Montgomery County, MD",3.5
+2019-04,"Montgomery County, MD",3.3
+2019-05,"Montgomery County, MD",3.1
+2019-06,"Montgomery County, MD",2.6
+2019-07,"Montgomery County, MD",2.9
+2019-08,"Montgomery County, MD",3.3
+2019-09,"Montgomery County, MD",3.2
+2019-10,"Montgomery County, MD",2.9
+2019-11,"Montgomery County, MD",2.7
+2019-12,"Montgomery County, MD",2.7
+2020-01,"Montgomery County, MD",2.6
+2020-02,"Montgomery County, MD",2.4
+2020-03,"Montgomery County, MD",
+2020-04,"Montgomery County, MD",
+2020-05,"Montgomery County, MD",
+2020-06,"Montgomery County, MD",
+2020-07,"Montgomery County, MD",
+2020-08,"Montgomery County, MD",
+2020-09,"Montgomery County, MD",
+2020-10,"Montgomery County, MD",
+2020-11,"Montgomery County, MD",
+2020-12,"Montgomery County, MD",
+2021-01,"Montgomery County, MD",
+2021-02,"Montgomery County, MD",
+2011-01,"New Castle County, DE",
+2011-02,"New Castle County, DE",
+2011-03,"New Castle County, DE",8.0
+2011-04,"New Castle County, DE",7.9
+2011-05,"New Castle County, DE",7.5
+2011-06,"New Castle County, DE",7.2
+2011-07,"New Castle County, DE",7.0
+2011-08,"New Castle County, DE",7.7
+2011-09,"New Castle County, DE",7.6
+2011-10,"New Castle County, DE",7.5
+2011-11,"New Castle County, DE",7.2
+2011-12,"New Castle County, DE",6.9
+2012-01,"New Castle County, DE",6.4
+2012-02,"New Castle County, DE",6.3
+2012-03,"New Castle County, DE",7.1
+2012-04,"New Castle County, DE",7.1
+2012-05,"New Castle County, DE",6.9
+2012-06,"New Castle County, DE",6.8
+2012-07,"New Castle County, DE",6.7
+2012-08,"New Castle County, DE",7.5
+2012-09,"New Castle County, DE",7.5
+2012-10,"New Castle County, DE",7.4
+2012-11,"New Castle County, DE",7.1
+2012-12,"New Castle County, DE",6.9
+2013-01,"New Castle County, DE",6.5
+2013-02,"New Castle County, DE",6.5
+2013-03,"New Castle County, DE",7.2
+2013-04,"New Castle County, DE",7.1
+2013-05,"New Castle County, DE",6.8
+2013-06,"New Castle County, DE",6.6
+2013-07,"New Castle County, DE",6.4
+2013-08,"New Castle County, DE",7.1
+2013-09,"New Castle County, DE",6.9
+2013-10,"New Castle County, DE",6.6
+2013-11,"New Castle County, DE",6.3
+2013-12,"New Castle County, DE",6.0
+2014-01,"New Castle County, DE",5.4
+2014-02,"New Castle County, DE",5.3
+2014-03,"New Castle County, DE",6.2
+2014-04,"New Castle County, DE",6.1
+2014-05,"New Castle County, DE",5.8
+2014-06,"New Castle County, DE",5.6
+2014-07,"New Castle County, DE",5.5
+2014-08,"New Castle County, DE",6.1
+2014-09,"New Castle County, DE",6.0
+2014-10,"New Castle County, DE",5.8
+2014-11,"New Castle County, DE",5.4
+2014-12,"New Castle County, DE",5.1
+2015-01,"New Castle County, DE",4.5
+2015-02,"New Castle County, DE",4.3
+2015-03,"New Castle County, DE",5.1
+2015-04,"New Castle County, DE",5.0
+2015-05,"New Castle County, DE",4.7
+2015-06,"New Castle County, DE",4.6
+2015-07,"New Castle County, DE",4.5
+2015-08,"New Castle County, DE",5.2
+2015-09,"New Castle County, DE",5.1
+2015-10,"New Castle County, DE",5.0
+2015-11,"New Castle County, DE",4.7
+2015-12,"New Castle County, DE",4.5
+2016-01,"New Castle County, DE",4.1
+2016-02,"New Castle County, DE",3.9
+2016-03,"New Castle County, DE",4.7
+2016-04,"New Castle County, DE",4.6
+2016-05,"New Castle County, DE",4.4
+2016-06,"New Castle County, DE",4.3
+2016-07,"New Castle County, DE",4.1
+2016-08,"New Castle County, DE",4.9
+2016-09,"New Castle County, DE",4.8
+2016-10,"New Castle County, DE",4.7
+2016-11,"New Castle County, DE",4.5
+2016-12,"New Castle County, DE",4.3
+2017-01,"New Castle County, DE",3.9
+2017-02,"New Castle County, DE",3.8
+2017-03,"New Castle County, DE",4.6
+2017-04,"New Castle County, DE",4.6
+2017-05,"New Castle County, DE",4.5
+2017-06,"New Castle County, DE",4.3
+2017-07,"New Castle County, DE",4.2
+2017-08,"New Castle County, DE",4.9
+2017-09,"New Castle County, DE",4.9
+2017-10,"New Castle County, DE",4.8
+2017-11,"New Castle County, DE",4.4
+2017-12,"New Castle County, DE",4.1
+2018-01,"New Castle County, DE",3.7
+2018-02,"New Castle County, DE",3.5
+2018-03,"New Castle County, DE",4.2
+2018-04,"New Castle County, DE",4.1
+2018-05,"New Castle County, DE",3.8
+2018-06,"New Castle County, DE",3.6
+2018-07,"New Castle County, DE",3.5
+2018-08,"New Castle County, DE",4.2
+2018-09,"New Castle County, DE",4.1
+2018-10,"New Castle County, DE",4.0
+2018-11,"New Castle County, DE",3.6
+2018-12,"New Castle County, DE",3.4
+2019-01,"New Castle County, DE",2.9
+2019-02,"New Castle County, DE",2.8
+2019-03,"New Castle County, DE",3.6
+2019-04,"New Castle County, DE",3.5
+2019-05,"New Castle County, DE",3.4
+2019-06,"New Castle County, DE",3.3
+2019-07,"New Castle County, DE",3.3
+2019-08,"New Castle County, DE",4.1
+2019-09,"New Castle County, DE",4.1
+2019-10,"New Castle County, DE",4.2
+2019-11,"New Castle County, DE",4.0
+2019-12,"New Castle County, DE",3.8
+2020-01,"New Castle County, DE",3.4
+2020-02,"New Castle County, DE",3.3
+2020-03,"New Castle County, DE",
+2020-04,"New Castle County, DE",
+2020-05,"New Castle County, DE",
+2020-06,"New Castle County, DE",
+2020-07,"New Castle County, DE",
+2020-08,"New Castle County, DE",
+2020-09,"New Castle County, DE",
+2020-10,"New Castle County, DE",
+2020-11,"New Castle County, DE",
+2020-12,"New Castle County, DE",
+2021-01,"New Castle County, DE",
+2021-02,"New Castle County, DE",
+2011-01,"New York County, NY",
+2011-01,"New York County, NY",
+2011-02,"New York County, NY",8.2
+2011-02,"New York County, NY",8.2
+2011-03,"New York County, NY",8.0
+2011-03,"New York County, NY",8.0
+2011-04,"New York County, NY",7.4
+2011-04,"New York County, NY",7.4
+2011-05,"New York County, NY",7.1
+2011-05,"New York County, NY",7.1
+2011-06,"New York County, NY",7.4
+2011-06,"New York County, NY",7.4
+2011-07,"New York County, NY",7.8
+2011-07,"New York County, NY",7.8
+2011-08,"New York County, NY",7.8
+2011-08,"New York County, NY",7.8
+2011-09,"New York County, NY",7.9
+2011-09,"New York County, NY",7.9
+2011-10,"New York County, NY",7.9
+2011-10,"New York County, NY",7.9
+2011-11,"New York County, NY",8.2
+2011-11,"New York County, NY",8.2
+2011-12,"New York County, NY",8.0
+2011-12,"New York County, NY",8.0
+2012-01,"New York County, NY",8.1
+2012-01,"New York County, NY",8.1
+2012-02,"New York County, NY",8.7
+2012-02,"New York County, NY",8.7
+2012-03,"New York County, NY",8.7
+2012-03,"New York County, NY",8.7
+2012-04,"New York County, NY",8.3
+2012-04,"New York County, NY",8.3
+2012-05,"New York County, NY",7.6
+2012-05,"New York County, NY",7.6
+2012-06,"New York County, NY",8.0
+2012-06,"New York County, NY",8.0
+2012-07,"New York County, NY",8.4
+2012-07,"New York County, NY",8.4
+2012-08,"New York County, NY",8.4
+2012-08,"New York County, NY",8.4
+2012-09,"New York County, NY",8.1
+2012-09,"New York County, NY",8.1
+2012-10,"New York County, NY",7.5
+2012-10,"New York County, NY",7.5
+2012-11,"New York County, NY",7.8
+2012-11,"New York County, NY",7.8
+2012-12,"New York County, NY",7.2
+2012-12,"New York County, NY",7.2
+2013-01,"New York County, NY",7.6
+2013-01,"New York County, NY",7.6
+2013-02,"New York County, NY",8.6
+2013-02,"New York County, NY",8.6
+2013-03,"New York County, NY",8.1
+2013-03,"New York County, NY",8.1
+2013-04,"New York County, NY",7.4
+2013-04,"New York County, NY",7.4
+2013-05,"New York County, NY",7.0
+2013-05,"New York County, NY",7.0
+2013-06,"New York County, NY",7.4
+2013-06,"New York County, NY",7.4
+2013-07,"New York County, NY",7.8
+2013-07,"New York County, NY",7.8
+2013-08,"New York County, NY",7.8
+2013-08,"New York County, NY",7.8
+2013-09,"New York County, NY",7.7
+2013-09,"New York County, NY",7.7
+2013-10,"New York County, NY",7.4
+2013-10,"New York County, NY",7.4
+2013-11,"New York County, NY",7.6
+2013-11,"New York County, NY",7.6
+2013-12,"New York County, NY",6.9
+2013-12,"New York County, NY",6.9
+2014-01,"New York County, NY",6.5
+2014-01,"New York County, NY",6.5
+2014-02,"New York County, NY",7.0
+2014-02,"New York County, NY",7.0
+2014-03,"New York County, NY",7.1
+2014-03,"New York County, NY",7.1
+2014-04,"New York County, NY",6.8
+2014-04,"New York County, NY",6.8
+2014-05,"New York County, NY",5.8
+2014-05,"New York County, NY",5.8
+2014-06,"New York County, NY",6.2
+2014-06,"New York County, NY",6.2
+2014-07,"New York County, NY",6.2
+2014-07,"New York County, NY",6.2
+2014-08,"New York County, NY",6.4
+2014-08,"New York County, NY",6.4
+2014-09,"New York County, NY",6.2
+2014-09,"New York County, NY",6.2
+2014-10,"New York County, NY",5.6
+2014-10,"New York County, NY",5.6
+2014-11,"New York County, NY",5.6
+2014-11,"New York County, NY",5.6
+2014-12,"New York County, NY",5.5
+2014-12,"New York County, NY",5.5
+2015-01,"New York County, NY",5.2
+2015-01,"New York County, NY",5.2
+2015-02,"New York County, NY",5.8
+2015-02,"New York County, NY",5.8
+2015-03,"New York County, NY",5.6
+2015-03,"New York County, NY",5.6
+2015-04,"New York County, NY",5.1
+2015-04,"New York County, NY",5.1
+2015-05,"New York County, NY",4.8
+2015-05,"New York County, NY",4.8
+2015-06,"New York County, NY",5.0
+2015-06,"New York County, NY",5.0
+2015-07,"New York County, NY",4.8
+2015-07,"New York County, NY",4.8
+2015-08,"New York County, NY",4.9
+2015-08,"New York County, NY",4.9
+2015-09,"New York County, NY",4.7
+2015-09,"New York County, NY",4.7
+2015-10,"New York County, NY",4.3
+2015-10,"New York County, NY",4.3
+2015-11,"New York County, NY",4.5
+2015-11,"New York County, NY",4.5
+2015-12,"New York County, NY",4.5
+2015-12,"New York County, NY",4.5
+2016-01,"New York County, NY",4.4
+2016-01,"New York County, NY",4.4
+2016-02,"New York County, NY",4.9
+2016-02,"New York County, NY",4.9
+2016-03,"New York County, NY",4.8
+2016-03,"New York County, NY",4.8
+2016-04,"New York County, NY",4.7
+2016-04,"New York County, NY",4.7
+2016-05,"New York County, NY",4.2
+2016-05,"New York County, NY",4.2
+2016-06,"New York County, NY",4.1
+2016-06,"New York County, NY",4.1
+2016-07,"New York County, NY",4.5
+2016-07,"New York County, NY",4.5
+2016-08,"New York County, NY",4.9
+2016-08,"New York County, NY",4.9
+2016-09,"New York County, NY",4.9
+2016-09,"New York County, NY",4.9
+2016-10,"New York County, NY",4.8
+2016-10,"New York County, NY",4.8
+2016-11,"New York County, NY",4.7
+2016-11,"New York County, NY",4.7
+2016-12,"New York County, NY",4.2
+2016-12,"New York County, NY",4.2
+2017-01,"New York County, NY",4.0
+2017-01,"New York County, NY",4.0
+2017-02,"New York County, NY",4.6
+2017-02,"New York County, NY",4.6
+2017-03,"New York County, NY",4.5
+2017-03,"New York County, NY",4.5
+2017-04,"New York County, NY",4.0
+2017-04,"New York County, NY",4.0
+2017-05,"New York County, NY",3.8
+2017-05,"New York County, NY",3.8
+2017-06,"New York County, NY",4.0
+2017-06,"New York County, NY",4.0
+2017-07,"New York County, NY",4.1
+2017-07,"New York County, NY",4.1
+2017-08,"New York County, NY",4.4
+2017-08,"New York County, NY",4.4
+2017-09,"New York County, NY",4.6
+2017-09,"New York County, NY",4.6
+2017-10,"New York County, NY",4.1
+2017-10,"New York County, NY",4.1
+2017-11,"New York County, NY",4.0
+2017-11,"New York County, NY",4.0
+2017-12,"New York County, NY",3.7
+2017-12,"New York County, NY",3.7
+2018-01,"New York County, NY",3.6
+2018-01,"New York County, NY",3.6
+2018-02,"New York County, NY",4.1
+2018-02,"New York County, NY",4.1
+2018-03,"New York County, NY",4.2
+2018-03,"New York County, NY",4.2
+2018-04,"New York County, NY",3.9
+2018-04,"New York County, NY",3.9
+2018-05,"New York County, NY",3.5
+2018-05,"New York County, NY",3.5
+2018-06,"New York County, NY",3.3
+2018-06,"New York County, NY",3.3
+2018-07,"New York County, NY",3.8
+2018-07,"New York County, NY",3.8
+2018-08,"New York County, NY",3.8
+2018-08,"New York County, NY",3.8
+2018-09,"New York County, NY",3.8
+2018-09,"New York County, NY",3.8
+2018-10,"New York County, NY",3.5
+2018-10,"New York County, NY",3.5
+2018-11,"New York County, NY",3.6
+2018-11,"New York County, NY",3.6
+2018-12,"New York County, NY",3.4
+2018-12,"New York County, NY",3.4
+2019-01,"New York County, NY",3.7
+2019-01,"New York County, NY",3.7
+2019-02,"New York County, NY",4.4
+2019-02,"New York County, NY",4.4
+2019-03,"New York County, NY",4.0
+2019-03,"New York County, NY",4.0
+2019-04,"New York County, NY",3.8
+2019-04,"New York County, NY",3.8
+2019-05,"New York County, NY",3.3
+2019-05,"New York County, NY",3.3
+2019-06,"New York County, NY",3.4
+2019-06,"New York County, NY",3.4
+2019-07,"New York County, NY",3.5
+2019-07,"New York County, NY",3.5
+2019-08,"New York County, NY",3.7
+2019-08,"New York County, NY",3.7
+2019-09,"New York County, NY",3.6
+2019-09,"New York County, NY",3.6
+2019-10,"New York County, NY",3.1
+2019-10,"New York County, NY",3.1
+2019-11,"New York County, NY",3.3
+2019-11,"New York County, NY",3.3
+2019-12,"New York County, NY",3.0
+2019-12,"New York County, NY",3.0
+2020-01,"New York County, NY",2.8
+2020-01,"New York County, NY",2.8
+2020-02,"New York County, NY",
+2020-02,"New York County, NY",
+2020-03,"New York County, NY",
+2020-03,"New York County, NY",
+2020-04,"New York County, NY",
+2020-04,"New York County, NY",
+2020-05,"New York County, NY",
+2020-05,"New York County, NY",
+2020-06,"New York County, NY",
+2020-06,"New York County, NY",
+2020-07,"New York County, NY",
+2020-07,"New York County, NY",
+2020-08,"New York County, NY",
+2020-08,"New York County, NY",
+2020-09,"New York County, NY",
+2020-09,"New York County, NY",
+2020-10,"New York County, NY",
+2020-10,"New York County, NY",
+2020-11,"New York County, NY",
+2020-11,"New York County, NY",
+2020-12,"New York County, NY",
+2020-12,"New York County, NY",
+2021-01,"New York County, NY",
+2021-01,"New York County, NY",
+2021-02,"New York County, NY",
+2021-02,"New York County, NY",
+2011-01,"Niagara County, NY",
+2011-02,"Niagara County, NY",
+2011-03,"Niagara County, NY",10.6
+2011-04,"Niagara County, NY",10.4
+2011-05,"Niagara County, NY",9.9
+2011-06,"Niagara County, NY",8.9
+2011-07,"Niagara County, NY",8.6
+2011-08,"Niagara County, NY",8.7
+2011-09,"Niagara County, NY",9.1
+2011-10,"Niagara County, NY",8.8
+2011-11,"Niagara County, NY",8.5
+2011-12,"Niagara County, NY",8.3
+2012-01,"Niagara County, NY",8.6
+2012-02,"Niagara County, NY",9.3
+2012-03,"Niagara County, NY",10.4
+2012-04,"Niagara County, NY",10.6
+2012-05,"Niagara County, NY",10.1
+2012-06,"Niagara County, NY",9.3
+2012-07,"Niagara County, NY",9.0
+2012-08,"Niagara County, NY",9.2
+2012-09,"Niagara County, NY",9.6
+2012-10,"Niagara County, NY",9.1
+2012-11,"Niagara County, NY",8.7
+2012-12,"Niagara County, NY",8.5
+2013-01,"Niagara County, NY",8.4
+2013-02,"Niagara County, NY",9.1
+2013-03,"Niagara County, NY",10.5
+2013-04,"Niagara County, NY",10.2
+2013-05,"Niagara County, NY",9.4
+2013-06,"Niagara County, NY",8.5
+2013-07,"Niagara County, NY",8.0
+2013-08,"Niagara County, NY",8.3
+2013-09,"Niagara County, NY",8.5
+2013-10,"Niagara County, NY",7.9
+2013-11,"Niagara County, NY",7.6
+2013-12,"Niagara County, NY",7.5
+2014-01,"Niagara County, NY",7.6
+2014-02,"Niagara County, NY",7.7
+2014-03,"Niagara County, NY",8.6
+2014-04,"Niagara County, NY",8.8
+2014-05,"Niagara County, NY",8.2
+2014-06,"Niagara County, NY",6.9
+2014-07,"Niagara County, NY",6.5
+2014-08,"Niagara County, NY",6.5
+2014-09,"Niagara County, NY",7.0
+2014-10,"Niagara County, NY",6.7
+2014-11,"Niagara County, NY",6.1
+2014-12,"Niagara County, NY",5.9
+2015-01,"Niagara County, NY",6.5
+2015-02,"Niagara County, NY",6.6
+2015-03,"Niagara County, NY",7.7
+2015-04,"Niagara County, NY",7.7
+2015-05,"Niagara County, NY",7.1
+2015-06,"Niagara County, NY",6.2
+2015-07,"Niagara County, NY",5.9
+2015-08,"Niagara County, NY",5.7
+2015-09,"Niagara County, NY",6.1
+2015-10,"Niagara County, NY",5.7
+2015-11,"Niagara County, NY",5.2
+2015-12,"Niagara County, NY",5.1
+2016-01,"Niagara County, NY",5.4
+2016-02,"Niagara County, NY",5.9
+2016-03,"Niagara County, NY",6.6
+2016-04,"Niagara County, NY",6.8
+2016-05,"Niagara County, NY",6.5
+2016-06,"Niagara County, NY",5.8
+2016-07,"Niagara County, NY",5.0
+2016-08,"Niagara County, NY",5.1
+2016-09,"Niagara County, NY",5.5
+2016-10,"Niagara County, NY",5.6
+2016-11,"Niagara County, NY",5.4
+2016-12,"Niagara County, NY",5.5
+2017-01,"Niagara County, NY",5.5
+2017-02,"Niagara County, NY",6.4
+2017-03,"Niagara County, NY",7.6
+2017-04,"Niagara County, NY",7.7
+2017-05,"Niagara County, NY",6.8
+2017-06,"Niagara County, NY",6.0
+2017-07,"Niagara County, NY",5.7
+2017-08,"Niagara County, NY",5.6
+2017-09,"Niagara County, NY",6.0
+2017-10,"Niagara County, NY",6.1
+2017-11,"Niagara County, NY",5.3
+2017-12,"Niagara County, NY",5.2
+2018-01,"Niagara County, NY",5.7
+2018-02,"Niagara County, NY",6.4
+2018-03,"Niagara County, NY",7.3
+2018-04,"Niagara County, NY",7.3
+2018-05,"Niagara County, NY",6.5
+2018-06,"Niagara County, NY",5.5
+2018-07,"Niagara County, NY",4.6
+2018-08,"Niagara County, NY",4.7
+2018-09,"Niagara County, NY",4.9
+2018-10,"Niagara County, NY",4.6
+2018-11,"Niagara County, NY",4.0
+2018-12,"Niagara County, NY",3.9
+2019-01,"Niagara County, NY",4.2
+2019-02,"Niagara County, NY",5.2
+2019-03,"Niagara County, NY",6.2
+2019-04,"Niagara County, NY",6.0
+2019-05,"Niagara County, NY",5.5
+2019-06,"Niagara County, NY",4.5
+2019-07,"Niagara County, NY",4.2
+2019-08,"Niagara County, NY",4.4
+2019-09,"Niagara County, NY",4.9
+2019-10,"Niagara County, NY",4.9
+2019-11,"Niagara County, NY",4.2
+2019-12,"Niagara County, NY",4.4
+2020-01,"Niagara County, NY",4.7
+2020-02,"Niagara County, NY",5.6
+2020-03,"Niagara County, NY",
+2020-04,"Niagara County, NY",
+2020-05,"Niagara County, NY",
+2020-06,"Niagara County, NY",
+2020-07,"Niagara County, NY",
+2020-08,"Niagara County, NY",
+2020-09,"Niagara County, NY",
+2020-10,"Niagara County, NY",
+2020-11,"Niagara County, NY",
+2020-12,"Niagara County, NY",
+2021-01,"Niagara County, NY",
+2021-02,"Niagara County, NY",
+2011-01,"Oakland County, MI",
+2011-02,"Oakland County, MI",
+2011-03,"Oakland County, MI",10.3
+2011-04,"Oakland County, MI",10.0
+2011-05,"Oakland County, MI",10.0
+2011-06,"Oakland County, MI",9.1
+2011-07,"Oakland County, MI",9.7
+2011-08,"Oakland County, MI",10.5
+2011-09,"Oakland County, MI",10.8
+2011-10,"Oakland County, MI",10.1
+2011-11,"Oakland County, MI",9.4
+2011-12,"Oakland County, MI",8.9
+2012-01,"Oakland County, MI",7.6
+2012-02,"Oakland County, MI",7.9
+2012-03,"Oakland County, MI",8.4
+2012-04,"Oakland County, MI",8.3
+2012-05,"Oakland County, MI",8.3
+2012-06,"Oakland County, MI",7.3
+2012-07,"Oakland County, MI",8.2
+2012-08,"Oakland County, MI",9.1
+2012-09,"Oakland County, MI",9.7
+2012-10,"Oakland County, MI",8.9
+2012-11,"Oakland County, MI",7.8
+2012-12,"Oakland County, MI",8.0
+2013-01,"Oakland County, MI",7.1
+2013-02,"Oakland County, MI",7.7
+2013-03,"Oakland County, MI",8.5
+2013-04,"Oakland County, MI",7.9
+2013-05,"Oakland County, MI",7.7
+2013-06,"Oakland County, MI",6.9
+2013-07,"Oakland County, MI",7.6
+2013-08,"Oakland County, MI",8.6
+2013-09,"Oakland County, MI",8.9
+2013-10,"Oakland County, MI",8.3
+2013-11,"Oakland County, MI",7.7
+2013-12,"Oakland County, MI",7.7
+2014-01,"Oakland County, MI",7.0
+2014-02,"Oakland County, MI",6.6
+2014-03,"Oakland County, MI",7.0
+2014-04,"Oakland County, MI",7.2
+2014-05,"Oakland County, MI",7.1
+2014-06,"Oakland County, MI",6.0
+2014-07,"Oakland County, MI",6.6
+2014-08,"Oakland County, MI",7.0
+2014-09,"Oakland County, MI",7.5
+2014-10,"Oakland County, MI",6.9
+2014-11,"Oakland County, MI",6.2
+2014-12,"Oakland County, MI",6.0
+2015-01,"Oakland County, MI",5.2
+2015-02,"Oakland County, MI",4.8
+2015-03,"Oakland County, MI",5.4
+2015-04,"Oakland County, MI",4.9
+2015-05,"Oakland County, MI",5.0
+2015-06,"Oakland County, MI",4.3
+2015-07,"Oakland County, MI",4.9
+2015-08,"Oakland County, MI",5.1
+2015-09,"Oakland County, MI",5.5
+2015-10,"Oakland County, MI",4.8
+2015-11,"Oakland County, MI",4.3
+2015-12,"Oakland County, MI",4.3
+2016-01,"Oakland County, MI",3.8
+2016-02,"Oakland County, MI",3.7
+2016-03,"Oakland County, MI",4.1
+2016-04,"Oakland County, MI",4.0
+2016-05,"Oakland County, MI",4.3
+2016-06,"Oakland County, MI",3.7
+2016-07,"Oakland County, MI",3.7
+2016-08,"Oakland County, MI",4.4
+2016-09,"Oakland County, MI",4.8
+2016-10,"Oakland County, MI",4.7
+2016-11,"Oakland County, MI",4.4
+2016-12,"Oakland County, MI",4.3
+2017-01,"Oakland County, MI",3.8
+2017-02,"Oakland County, MI",3.6
+2017-03,"Oakland County, MI",4.3
+2017-04,"Oakland County, MI",3.9
+2017-05,"Oakland County, MI",3.5
+2017-06,"Oakland County, MI",2.7
+2017-07,"Oakland County, MI",2.8
+2017-08,"Oakland County, MI",3.3
+2017-09,"Oakland County, MI",4.0
+2017-10,"Oakland County, MI",4.1
+2017-11,"Oakland County, MI",3.8
+2017-12,"Oakland County, MI",3.6
+2018-01,"Oakland County, MI",3.3
+2018-02,"Oakland County, MI",3.4
+2018-03,"Oakland County, MI",3.8
+2018-04,"Oakland County, MI",3.6
+2018-05,"Oakland County, MI",3.5
+2018-06,"Oakland County, MI",2.9
+2018-07,"Oakland County, MI",2.8
+2018-08,"Oakland County, MI",3.5
+2018-09,"Oakland County, MI",3.8
+2018-10,"Oakland County, MI",3.5
+2018-11,"Oakland County, MI",3.2
+2018-12,"Oakland County, MI",3.3
+2019-01,"Oakland County, MI",2.9
+2019-02,"Oakland County, MI",3.2
+2019-03,"Oakland County, MI",3.8
+2019-04,"Oakland County, MI",3.5
+2019-05,"Oakland County, MI",3.7
+2019-06,"Oakland County, MI",3.0
+2019-07,"Oakland County, MI",3.1
+2019-08,"Oakland County, MI",3.6
+2019-09,"Oakland County, MI",4.2
+2019-10,"Oakland County, MI",3.9
+2019-11,"Oakland County, MI",3.3
+2019-12,"Oakland County, MI",3.2
+2020-01,"Oakland County, MI",2.8
+2020-02,"Oakland County, MI",2.9
+2020-03,"Oakland County, MI",
+2020-04,"Oakland County, MI",
+2020-05,"Oakland County, MI",
+2020-06,"Oakland County, MI",
+2020-07,"Oakland County, MI",
+2020-08,"Oakland County, MI",
+2020-09,"Oakland County, MI",
+2020-10,"Oakland County, MI",
+2020-11,"Oakland County, MI",
+2020-12,"Oakland County, MI",
+2021-01,"Oakland County, MI",
+2021-02,"Oakland County, MI",
+2011-01,"Philadelphia County/city, PA",
+2011-02,"Philadelphia County/city, PA",
+2011-03,"Philadelphia County/city, PA",10.9
+2011-04,"Philadelphia County/city, PA",10.4
+2011-05,"Philadelphia County/city, PA",10.2
+2011-06,"Philadelphia County/city, PA",9.6
+2011-07,"Philadelphia County/city, PA",10.4
+2011-08,"Philadelphia County/city, PA",11.2
+2011-09,"Philadelphia County/city, PA",11.7
+2011-10,"Philadelphia County/city, PA",11.5
+2011-11,"Philadelphia County/city, PA",11.0
+2011-12,"Philadelphia County/city, PA",10.8
+2012-01,"Philadelphia County/city, PA",10.3
+2012-02,"Philadelphia County/city, PA",10.2
+2012-03,"Philadelphia County/city, PA",11.1
+2012-04,"Philadelphia County/city, PA",10.9
+2012-05,"Philadelphia County/city, PA",10.7
+2012-06,"Philadelphia County/city, PA",9.8
+2012-07,"Philadelphia County/city, PA",10.8
+2012-08,"Philadelphia County/city, PA",11.3
+2012-09,"Philadelphia County/city, PA",12.0
+2012-10,"Philadelphia County/city, PA",11.7
+2012-11,"Philadelphia County/city, PA",10.8
+2012-12,"Philadelphia County/city, PA",10.9
+2013-01,"Philadelphia County/city, PA",10.2
+2013-02,"Philadelphia County/city, PA",10.5
+2013-03,"Philadelphia County/city, PA",11.7
+2013-04,"Philadelphia County/city, PA",11.1
+2013-05,"Philadelphia County/city, PA",10.5
+2013-06,"Philadelphia County/city, PA",9.7
+2013-07,"Philadelphia County/city, PA",10.4
+2013-08,"Philadelphia County/city, PA",10.7
+2013-09,"Philadelphia County/city, PA",11.0
+2013-10,"Philadelphia County/city, PA",10.8
+2013-11,"Philadelphia County/city, PA",9.9
+2013-12,"Philadelphia County/city, PA",10.0
+2014-01,"Philadelphia County/city, PA",9.1
+2014-02,"Philadelphia County/city, PA",8.5
+2014-03,"Philadelphia County/city, PA",9.1
+2014-04,"Philadelphia County/city, PA",9.1
+2014-05,"Philadelphia County/city, PA",8.8
+2014-06,"Philadelphia County/city, PA",7.7
+2014-07,"Philadelphia County/city, PA",8.4
+2014-08,"Philadelphia County/city, PA",8.4
+2014-09,"Philadelphia County/city, PA",8.9
+2014-10,"Philadelphia County/city, PA",8.5
+2014-11,"Philadelphia County/city, PA",7.4
+2014-12,"Philadelphia County/city, PA",7.3
+2015-01,"Philadelphia County/city, PA",6.9
+2015-02,"Philadelphia County/city, PA",6.7
+2015-03,"Philadelphia County/city, PA",7.6
+2015-04,"Philadelphia County/city, PA",7.4
+2015-05,"Philadelphia County/city, PA",7.1
+2015-06,"Philadelphia County/city, PA",6.7
+2015-07,"Philadelphia County/city, PA",7.6
+2015-08,"Philadelphia County/city, PA",7.5
+2015-09,"Philadelphia County/city, PA",8.0
+2015-10,"Philadelphia County/city, PA",7.4
+2015-11,"Philadelphia County/city, PA",6.8
+2015-12,"Philadelphia County/city, PA",6.7
+2016-01,"Philadelphia County/city, PA",6.4
+2016-02,"Philadelphia County/city, PA",6.1
+2016-03,"Philadelphia County/city, PA",6.7
+2016-04,"Philadelphia County/city, PA",6.8
+2016-05,"Philadelphia County/city, PA",6.8
+2016-06,"Philadelphia County/city, PA",6.5
+2016-07,"Philadelphia County/city, PA",6.7
+2016-08,"Philadelphia County/city, PA",7.1
+2016-09,"Philadelphia County/city, PA",7.5
+2016-10,"Philadelphia County/city, PA",7.4
+2016-11,"Philadelphia County/city, PA",6.8
+2016-12,"Philadelphia County/city, PA",6.7
+2017-01,"Philadelphia County/city, PA",6.1
+2017-02,"Philadelphia County/city, PA",5.8
+2017-03,"Philadelphia County/city, PA",6.5
+2017-04,"Philadelphia County/city, PA",6.6
+2017-05,"Philadelphia County/city, PA",6.1
+2017-06,"Philadelphia County/city, PA",5.7
+2017-07,"Philadelphia County/city, PA",6.2
+2017-08,"Philadelphia County/city, PA",6.4
+2017-09,"Philadelphia County/city, PA",6.8
+2017-10,"Philadelphia County/city, PA",6.8
+2017-11,"Philadelphia County/city, PA",6.0
+2017-12,"Philadelphia County/city, PA",5.9
+2018-01,"Philadelphia County/city, PA",5.8
+2018-02,"Philadelphia County/city, PA",5.5
+2018-03,"Philadelphia County/city, PA",5.9
+2018-04,"Philadelphia County/city, PA",6.0
+2018-05,"Philadelphia County/city, PA",5.6
+2018-06,"Philadelphia County/city, PA",5.1
+2018-07,"Philadelphia County/city, PA",5.3
+2018-08,"Philadelphia County/city, PA",5.9
+2018-09,"Philadelphia County/city, PA",6.2
+2018-10,"Philadelphia County/city, PA",6.1
+2018-11,"Philadelphia County/city, PA",5.2
+2018-12,"Philadelphia County/city, PA",5.1
+2019-01,"Philadelphia County/city, PA",4.7
+2019-02,"Philadelphia County/city, PA",4.8
+2019-03,"Philadelphia County/city, PA",5.7
+2019-04,"Philadelphia County/city, PA",5.2
+2019-05,"Philadelphia County/city, PA",5.2
+2019-06,"Philadelphia County/city, PA",4.5
+2019-07,"Philadelphia County/city, PA",5.2
+2019-08,"Philadelphia County/city, PA",5.7
+2019-09,"Philadelphia County/city, PA",6.3
+2019-10,"Philadelphia County/city, PA",6.4
+2019-11,"Philadelphia County/city, PA",5.6
+2019-12,"Philadelphia County/city, PA",5.8
+2020-01,"Philadelphia County/city, PA",5.6
+2020-02,"Philadelphia County/city, PA",5.4
+2020-03,"Philadelphia County/city, PA",
+2020-04,"Philadelphia County/city, PA",
+2020-05,"Philadelphia County/city, PA",
+2020-06,"Philadelphia County/city, PA",
+2020-07,"Philadelphia County/city, PA",
+2020-08,"Philadelphia County/city, PA",
+2020-09,"Philadelphia County/city, PA",
+2020-10,"Philadelphia County/city, PA",
+2020-11,"Philadelphia County/city, PA",
+2020-12,"Philadelphia County/city, PA",
+2021-01,"Philadelphia County/city, PA",
+2021-02,"Philadelphia County/city, PA",
+2011-01,"Pierce County, WA",
+2011-02,"Pierce County, WA",
+2011-03,"Pierce County, WA",10.9
+2011-04,"Pierce County, WA",11.1
+2011-05,"Pierce County, WA",10.5
+2011-06,"Pierce County, WA",10.1
+2011-07,"Pierce County, WA",10.3
+2011-08,"Pierce County, WA",10.1
+2011-09,"Pierce County, WA",10.0
+2011-10,"Pierce County, WA",10.0
+2011-11,"Pierce County, WA",9.7
+2011-12,"Pierce County, WA",9.6
+2012-01,"Pierce County, WA",9.4
+2012-02,"Pierce County, WA",9.7
+2012-03,"Pierce County, WA",10.3
+2012-04,"Pierce County, WA",10.4
+2012-05,"Pierce County, WA",9.9
+2012-06,"Pierce County, WA",9.3
+2012-07,"Pierce County, WA",9.5
+2012-08,"Pierce County, WA",9.4
+2012-09,"Pierce County, WA",9.5
+2012-10,"Pierce County, WA",9.2
+2012-11,"Pierce County, WA",8.6
+2012-12,"Pierce County, WA",8.5
+2013-01,"Pierce County, WA",8.3
+2013-02,"Pierce County, WA",8.8
+2013-03,"Pierce County, WA",9.7
+2013-04,"Pierce County, WA",9.5
+2013-05,"Pierce County, WA",8.9
+2013-06,"Pierce County, WA",8.5
+2013-07,"Pierce County, WA",8.5
+2013-08,"Pierce County, WA",8.4
+2013-09,"Pierce County, WA",8.1
+2013-10,"Pierce County, WA",8.0
+2013-11,"Pierce County, WA",7.6
+2013-12,"Pierce County, WA",7.9
+2014-01,"Pierce County, WA",7.4
+2014-02,"Pierce County, WA",7.5
+2014-03,"Pierce County, WA",8.0
+2014-04,"Pierce County, WA",8.1
+2014-05,"Pierce County, WA",7.7
+2014-06,"Pierce County, WA",6.8
+2014-07,"Pierce County, WA",7.0
+2014-08,"Pierce County, WA",6.7
+2014-09,"Pierce County, WA",6.8
+2014-10,"Pierce County, WA",6.8
+2014-11,"Pierce County, WA",6.4
+2014-12,"Pierce County, WA",6.5
+2015-01,"Pierce County, WA",6.7
+2015-02,"Pierce County, WA",6.7
+2015-03,"Pierce County, WA",7.3
+2015-04,"Pierce County, WA",7.3
+2015-05,"Pierce County, WA",6.9
+2015-06,"Pierce County, WA",6.7
+2015-07,"Pierce County, WA",6.6
+2015-08,"Pierce County, WA",6.6
+2015-09,"Pierce County, WA",6.3
+2015-10,"Pierce County, WA",6.4
+2015-11,"Pierce County, WA",5.9
+2015-12,"Pierce County, WA",6.0
+2016-01,"Pierce County, WA",6.3
+2016-02,"Pierce County, WA",6.3
+2016-03,"Pierce County, WA",6.8
+2016-04,"Pierce County, WA",6.9
+2016-05,"Pierce County, WA",6.6
+2016-06,"Pierce County, WA",6.4
+2016-07,"Pierce County, WA",5.9
+2016-08,"Pierce County, WA",6.1
+2016-09,"Pierce County, WA",5.9
+2016-10,"Pierce County, WA",5.9
+2016-11,"Pierce County, WA",5.5
+2016-12,"Pierce County, WA",5.4
+2017-01,"Pierce County, WA",5.4
+2017-02,"Pierce County, WA",5.5
+2017-03,"Pierce County, WA",6.0
+2017-04,"Pierce County, WA",6.2
+2017-05,"Pierce County, WA",5.8
+2017-06,"Pierce County, WA",5.5
+2017-07,"Pierce County, WA",5.3
+2017-08,"Pierce County, WA",5.4
+2017-09,"Pierce County, WA",5.3
+2017-10,"Pierce County, WA",5.5
+2017-11,"Pierce County, WA",4.9
+2017-12,"Pierce County, WA",4.9
+2018-01,"Pierce County, WA",5.2
+2018-02,"Pierce County, WA",5.4
+2018-03,"Pierce County, WA",6.0
+2018-04,"Pierce County, WA",6.2
+2018-05,"Pierce County, WA",5.7
+2018-06,"Pierce County, WA",5.4
+2018-07,"Pierce County, WA",5.0
+2018-08,"Pierce County, WA",5.3
+2018-09,"Pierce County, WA",5.0
+2018-10,"Pierce County, WA",5.2
+2018-11,"Pierce County, WA",4.7
+2018-12,"Pierce County, WA",4.8
+2019-01,"Pierce County, WA",5.1
+2019-02,"Pierce County, WA",5.4
+2019-03,"Pierce County, WA",6.1
+2019-04,"Pierce County, WA",6.1
+2019-05,"Pierce County, WA",5.6
+2019-06,"Pierce County, WA",5.3
+2019-07,"Pierce County, WA",5.1
+2019-08,"Pierce County, WA",5.3
+2019-09,"Pierce County, WA",5.0
+2019-10,"Pierce County, WA",5.1
+2019-11,"Pierce County, WA",4.4
+2019-12,"Pierce County, WA",4.5
+2020-01,"Pierce County, WA",4.7
+2020-02,"Pierce County, WA",4.6
+2020-03,"Pierce County, WA",
+2020-04,"Pierce County, WA",
+2020-05,"Pierce County, WA",
+2020-06,"Pierce County, WA",
+2020-07,"Pierce County, WA",
+2020-08,"Pierce County, WA",
+2020-09,"Pierce County, WA",
+2020-10,"Pierce County, WA",
+2020-11,"Pierce County, WA",
+2020-12,"Pierce County, WA",
+2021-01,"Pierce County, WA",
+2021-02,"Pierce County, WA",
+2011-01,"Pinellas County, FL",
+2011-02,"Pinellas County, FL",
+2011-03,"Pinellas County, FL",10.7
+2011-04,"Pinellas County, FL",10.4
+2011-05,"Pinellas County, FL",10.0
+2011-06,"Pinellas County, FL",9.6
+2011-07,"Pinellas County, FL",9.7
+2011-08,"Pinellas County, FL",10.1
+2011-09,"Pinellas County, FL",10.1
+2011-10,"Pinellas County, FL",9.8
+2011-11,"Pinellas County, FL",9.4
+2011-12,"Pinellas County, FL",9.1
+2012-01,"Pinellas County, FL",8.8
+2012-02,"Pinellas County, FL",8.7
+2012-03,"Pinellas County, FL",8.8
+2012-04,"Pinellas County, FL",8.4
+2012-05,"Pinellas County, FL",8.1
+2012-06,"Pinellas County, FL",7.8
+2012-07,"Pinellas County, FL",7.9
+2012-08,"Pinellas County, FL",8.3
+2012-09,"Pinellas County, FL",8.4
+2012-10,"Pinellas County, FL",8.1
+2012-11,"Pinellas County, FL",7.6
+2012-12,"Pinellas County, FL",7.5
+2013-01,"Pinellas County, FL",7.3
+2013-02,"Pinellas County, FL",7.3
+2013-03,"Pinellas County, FL",7.8
+2013-04,"Pinellas County, FL",7.1
+2013-05,"Pinellas County, FL",6.7
+2013-06,"Pinellas County, FL",6.5
+2013-07,"Pinellas County, FL",6.6
+2013-08,"Pinellas County, FL",7.0
+2013-09,"Pinellas County, FL",6.8
+2013-10,"Pinellas County, FL",6.6
+2013-11,"Pinellas County, FL",6.4
+2013-12,"Pinellas County, FL",6.3
+2014-01,"Pinellas County, FL",6.1
+2014-02,"Pinellas County, FL",5.8
+2014-03,"Pinellas County, FL",6.3
+2014-04,"Pinellas County, FL",6.1
+2014-05,"Pinellas County, FL",6.0
+2014-06,"Pinellas County, FL",5.5
+2014-07,"Pinellas County, FL",5.8
+2014-08,"Pinellas County, FL",5.8
+2014-09,"Pinellas County, FL",6.0
+2014-10,"Pinellas County, FL",5.9
+2014-11,"Pinellas County, FL",5.6
+2014-12,"Pinellas County, FL",5.5
+2015-01,"Pinellas County, FL",5.5
+2015-02,"Pinellas County, FL",5.2
+2015-03,"Pinellas County, FL",5.6
+2015-04,"Pinellas County, FL",5.2
+2015-05,"Pinellas County, FL",5.0
+2015-06,"Pinellas County, FL",4.9
+2015-07,"Pinellas County, FL",5.0
+2015-08,"Pinellas County, FL",5.0
+2015-09,"Pinellas County, FL",5.1
+2015-10,"Pinellas County, FL",5.0
+2015-11,"Pinellas County, FL",4.8
+2015-12,"Pinellas County, FL",4.7
+2016-01,"Pinellas County, FL",4.6
+2016-02,"Pinellas County, FL",4.5
+2016-03,"Pinellas County, FL",4.6
+2016-04,"Pinellas County, FL",4.4
+2016-05,"Pinellas County, FL",4.3
+2016-06,"Pinellas County, FL",4.1
+2016-07,"Pinellas County, FL",4.1
+2016-08,"Pinellas County, FL",4.4
+2016-09,"Pinellas County, FL",4.5
+2016-10,"Pinellas County, FL",4.4
+2016-11,"Pinellas County, FL",4.4
+2016-12,"Pinellas County, FL",4.3
+2017-01,"Pinellas County, FL",4.2
+2017-02,"Pinellas County, FL",4.1
+2017-03,"Pinellas County, FL",4.5
+2017-04,"Pinellas County, FL",4.1
+2017-05,"Pinellas County, FL",3.8
+2017-06,"Pinellas County, FL",3.7
+2017-07,"Pinellas County, FL",3.8
+2017-08,"Pinellas County, FL",4.0
+2017-09,"Pinellas County, FL",4.0
+2017-10,"Pinellas County, FL",4.0
+2017-11,"Pinellas County, FL",3.7
+2017-12,"Pinellas County, FL",3.6
+2018-01,"Pinellas County, FL",3.6
+2018-02,"Pinellas County, FL",3.5
+2018-03,"Pinellas County, FL",3.9
+2018-04,"Pinellas County, FL",3.6
+2018-05,"Pinellas County, FL",3.4
+2018-06,"Pinellas County, FL",3.2
+2018-07,"Pinellas County, FL",3.2
+2018-08,"Pinellas County, FL",3.6
+2018-09,"Pinellas County, FL",3.4
+2018-10,"Pinellas County, FL",3.4
+2018-11,"Pinellas County, FL",3.1
+2018-12,"Pinellas County, FL",3.1
+2019-01,"Pinellas County, FL",3.2
+2019-02,"Pinellas County, FL",3.2
+2019-03,"Pinellas County, FL",3.6
+2019-04,"Pinellas County, FL",3.2
+2019-05,"Pinellas County, FL",3.1
+2019-06,"Pinellas County, FL",2.8
+2019-07,"Pinellas County, FL",2.9
+2019-08,"Pinellas County, FL",3.2
+2019-09,"Pinellas County, FL",3.1
+2019-10,"Pinellas County, FL",3.1
+2019-11,"Pinellas County, FL",2.7
+2019-12,"Pinellas County, FL",2.7
+2020-01,"Pinellas County, FL",2.7
+2020-02,"Pinellas County, FL",2.5
+2020-03,"Pinellas County, FL",
+2020-04,"Pinellas County, FL",
+2020-05,"Pinellas County, FL",
+2020-06,"Pinellas County, FL",
+2020-07,"Pinellas County, FL",
+2020-08,"Pinellas County, FL",
+2020-09,"Pinellas County, FL",
+2020-10,"Pinellas County, FL",
+2020-11,"Pinellas County, FL",
+2020-12,"Pinellas County, FL",
+2021-01,"Pinellas County, FL",
+2021-02,"Pinellas County, FL",
+2011-01,"San Diego County, CA",
+2011-02,"San Diego County, CA",
+2011-03,"San Diego County, CA",10.8
+2011-04,"San Diego County, CA",10.5
+2011-05,"San Diego County, CA",10.4
+2011-06,"San Diego County, CA",10.0
+2011-07,"San Diego County, CA",10.0
+2011-08,"San Diego County, CA",10.7
+2011-09,"San Diego County, CA",10.9
+2011-10,"San Diego County, CA",10.6
+2011-11,"San Diego County, CA",10.3
+2011-12,"San Diego County, CA",10.2
+2012-01,"San Diego County, CA",9.8
+2012-02,"San Diego County, CA",9.5
+2012-03,"San Diego County, CA",9.8
+2012-04,"San Diego County, CA",9.7
+2012-05,"San Diego County, CA",9.6
+2012-06,"San Diego County, CA",8.9
+2012-07,"San Diego County, CA",8.9
+2012-08,"San Diego County, CA",9.5
+2012-09,"San Diego County, CA",9.7
+2012-10,"San Diego County, CA",9.3
+2012-11,"San Diego County, CA",8.6
+2012-12,"San Diego County, CA",8.7
+2013-01,"San Diego County, CA",8.4
+2013-02,"San Diego County, CA",8.2
+2013-03,"San Diego County, CA",8.8
+2013-04,"San Diego County, CA",8.3
+2013-05,"San Diego County, CA",8.0
+2013-06,"San Diego County, CA",7.5
+2013-07,"San Diego County, CA",7.5
+2013-08,"San Diego County, CA",8.2
+2013-09,"San Diego County, CA",8.3
+2013-10,"San Diego County, CA",8.0
+2013-11,"San Diego County, CA",7.6
+2013-12,"San Diego County, CA",7.7
+2014-01,"San Diego County, CA",7.2
+2014-02,"San Diego County, CA",6.8
+2014-03,"San Diego County, CA",7.1
+2014-04,"San Diego County, CA",7.1
+2014-05,"San Diego County, CA",7.0
+2014-06,"San Diego County, CA",6.2
+2014-07,"San Diego County, CA",6.2
+2014-08,"San Diego County, CA",6.5
+2014-09,"San Diego County, CA",6.9
+2014-10,"San Diego County, CA",6.6
+2014-11,"San Diego County, CA",6.1
+2014-12,"San Diego County, CA",6.0
+2015-01,"San Diego County, CA",5.9
+2015-02,"San Diego County, CA",5.4
+2015-03,"San Diego County, CA",5.9
+2015-04,"San Diego County, CA",5.5
+2015-05,"San Diego County, CA",5.4
+2015-06,"San Diego County, CA",5.0
+2015-07,"San Diego County, CA",5.1
+2015-08,"San Diego County, CA",5.3
+2015-09,"San Diego County, CA",5.6
+2015-10,"San Diego County, CA",5.2
+2015-11,"San Diego County, CA",4.9
+2015-12,"San Diego County, CA",5.0
+2016-01,"San Diego County, CA",4.9
+2016-02,"San Diego County, CA",4.7
+2016-03,"San Diego County, CA",4.9
+2016-04,"San Diego County, CA",4.8
+2016-05,"San Diego County, CA",4.9
+2016-06,"San Diego County, CA",4.6
+2016-07,"San Diego County, CA",4.3
+2016-08,"San Diego County, CA",5.0
+2016-09,"San Diego County, CA",5.1
+2016-10,"San Diego County, CA",5.0
+2016-11,"San Diego County, CA",4.7
+2016-12,"San Diego County, CA",4.7
+2017-01,"San Diego County, CA",4.4
+2017-02,"San Diego County, CA",4.2
+2017-03,"San Diego County, CA",4.7
+2017-04,"San Diego County, CA",4.4
+2017-05,"San Diego County, CA",4.2
+2017-06,"San Diego County, CA",3.8
+2017-07,"San Diego County, CA",3.7
+2017-08,"San Diego County, CA",4.2
+2017-09,"San Diego County, CA",4.4
+2017-10,"San Diego County, CA",4.3
+2017-11,"San Diego County, CA",3.8
+2017-12,"San Diego County, CA",3.7
+2018-01,"San Diego County, CA",3.6
+2018-02,"San Diego County, CA",3.4
+2018-03,"San Diego County, CA",3.7
+2018-04,"San Diego County, CA",3.5
+2018-05,"San Diego County, CA",3.4
+2018-06,"San Diego County, CA",3.1
+2018-07,"San Diego County, CA",2.9
+2018-08,"San Diego County, CA",3.6
+2018-09,"San Diego County, CA",3.7
+2018-10,"San Diego County, CA",3.6
+2018-11,"San Diego County, CA",3.2
+2018-12,"San Diego County, CA",3.3
+2019-01,"San Diego County, CA",3.3
+2019-02,"San Diego County, CA",3.3
+2019-03,"San Diego County, CA",3.8
+2019-04,"San Diego County, CA",3.4
+2019-05,"San Diego County, CA",3.5
+2019-06,"San Diego County, CA",2.9
+2019-07,"San Diego County, CA",2.8
+2019-08,"San Diego County, CA",3.3
+2019-09,"San Diego County, CA",3.6
+2019-10,"San Diego County, CA",3.4
+2019-11,"San Diego County, CA",2.9
+2019-12,"San Diego County, CA",3.0
+2020-01,"San Diego County, CA",2.9
+2020-02,"San Diego County, CA",2.8
+2020-03,"San Diego County, CA",
+2020-04,"San Diego County, CA",
+2020-05,"San Diego County, CA",
+2020-06,"San Diego County, CA",
+2020-07,"San Diego County, CA",
+2020-08,"San Diego County, CA",
+2020-09,"San Diego County, CA",
+2020-10,"San Diego County, CA",
+2020-11,"San Diego County, CA",
+2020-12,"San Diego County, CA",
+2021-01,"San Diego County, CA",
+2021-02,"San Diego County, CA",
+2011-01,"San Francisco County/city, CA",
+2011-02,"San Francisco County/city, CA",
+2011-03,"San Francisco County/city, CA",8.9
+2011-04,"San Francisco County/city, CA",8.5
+2011-05,"San Francisco County/city, CA",8.4
+2011-06,"San Francisco County/city, CA",7.9
+2011-07,"San Francisco County/city, CA",7.8
+2011-08,"San Francisco County/city, CA",8.4
+2011-09,"San Francisco County/city, CA",8.3
+2011-10,"San Francisco County/city, CA",8.2
+2011-11,"San Francisco County/city, CA",7.8
+2011-12,"San Francisco County/city, CA",7.7
+2012-01,"San Francisco County/city, CA",7.5
+2012-02,"San Francisco County/city, CA",7.2
+2012-03,"San Francisco County/city, CA",7.6
+2012-04,"San Francisco County/city, CA",7.4
+2012-05,"San Francisco County/city, CA",7.3
+2012-06,"San Francisco County/city, CA",6.8
+2012-07,"San Francisco County/city, CA",6.7
+2012-08,"San Francisco County/city, CA",7.1
+2012-09,"San Francisco County/city, CA",7.2
+2012-10,"San Francisco County/city, CA",6.9
+2012-11,"San Francisco County/city, CA",6.3
+2012-12,"San Francisco County/city, CA",6.2
+2013-01,"San Francisco County/city, CA",6.0
+2013-02,"San Francisco County/city, CA",5.9
+2013-03,"San Francisco County/city, CA",6.4
+2013-04,"San Francisco County/city, CA",5.9
+2013-05,"San Francisco County/city, CA",5.7
+2013-06,"San Francisco County/city, CA",5.2
+2013-07,"San Francisco County/city, CA",5.3
+2013-08,"San Francisco County/city, CA",5.8
+2013-09,"San Francisco County/city, CA",5.7
+2013-10,"San Francisco County/city, CA",5.5
+2013-11,"San Francisco County/city, CA",5.2
+2013-12,"San Francisco County/city, CA",5.2
+2014-01,"San Francisco County/city, CA",4.9
+2014-02,"San Francisco County/city, CA",4.6
+2014-03,"San Francisco County/city, CA",4.9
+2014-04,"San Francisco County/city, CA",4.9
+2014-05,"San Francisco County/city, CA",4.8
+2014-06,"San Francisco County/city, CA",4.2
+2014-07,"San Francisco County/city, CA",4.2
+2014-08,"San Francisco County/city, CA",4.4
+2014-09,"San Francisco County/city, CA",4.7
+2014-10,"San Francisco County/city, CA",4.5
+2014-11,"San Francisco County/city, CA",4.1
+2014-12,"San Francisco County/city, CA",4.0
+2015-01,"San Francisco County/city, CA",4.0
+2015-02,"San Francisco County/city, CA",3.6
+2015-03,"San Francisco County/city, CA",4.1
+2015-04,"San Francisco County/city, CA",3.9
+2015-05,"San Francisco County/city, CA",3.8
+2015-06,"San Francisco County/city, CA",3.5
+2015-07,"San Francisco County/city, CA",3.6
+2015-08,"San Francisco County/city, CA",3.8
+2015-09,"San Francisco County/city, CA",3.9
+2015-10,"San Francisco County/city, CA",3.6
+2015-11,"San Francisco County/city, CA",3.4
+2015-12,"San Francisco County/city, CA",3.5
+2016-01,"San Francisco County/city, CA",3.4
+2016-02,"San Francisco County/city, CA",3.3
+2016-03,"San Francisco County/city, CA",3.4
+2016-04,"San Francisco County/city, CA",3.3
+2016-05,"San Francisco County/city, CA",3.4
+2016-06,"San Francisco County/city, CA",3.2
+2016-07,"San Francisco County/city, CA",3.0
+2016-08,"San Francisco County/city, CA",3.4
+2016-09,"San Francisco County/city, CA",3.5
+2016-10,"San Francisco County/city, CA",3.4
+2016-11,"San Francisco County/city, CA",3.3
+2016-12,"San Francisco County/city, CA",3.3
+2017-01,"San Francisco County/city, CA",3.1
+2017-02,"San Francisco County/city, CA",3.0
+2017-03,"San Francisco County/city, CA",3.4
+2017-04,"San Francisco County/city, CA",3.1
+2017-05,"San Francisco County/city, CA",3.0
+2017-06,"San Francisco County/city, CA",2.8
+2017-07,"San Francisco County/city, CA",2.8
+2017-08,"San Francisco County/city, CA",3.1
+2017-09,"San Francisco County/city, CA",3.2
+2017-10,"San Francisco County/city, CA",3.2
+2017-11,"San Francisco County/city, CA",2.7
+2017-12,"San Francisco County/city, CA",2.7
+2018-01,"San Francisco County/city, CA",2.6
+2018-02,"San Francisco County/city, CA",2.5
+2018-03,"San Francisco County/city, CA",2.7
+2018-04,"San Francisco County/city, CA",2.6
+2018-05,"San Francisco County/city, CA",2.5
+2018-06,"San Francisco County/city, CA",2.2
+2018-07,"San Francisco County/city, CA",2.1
+2018-08,"San Francisco County/city, CA",2.6
+2018-09,"San Francisco County/city, CA",2.6
+2018-10,"San Francisco County/city, CA",2.5
+2018-11,"San Francisco County/city, CA",2.3
+2018-12,"San Francisco County/city, CA",2.3
+2019-01,"San Francisco County/city, CA",2.2
+2019-02,"San Francisco County/city, CA",2.2
+2019-03,"San Francisco County/city, CA",2.6
+2019-04,"San Francisco County/city, CA",2.4
+2019-05,"San Francisco County/city, CA",2.4
+2019-06,"San Francisco County/city, CA",2.0
+2019-07,"San Francisco County/city, CA",1.9
+2019-08,"San Francisco County/city, CA",2.3
+2019-09,"San Francisco County/city, CA",2.4
+2019-10,"San Francisco County/city, CA",2.3
+2019-11,"San Francisco County/city, CA",1.9
+2019-12,"San Francisco County/city, CA",2.0
+2020-01,"San Francisco County/city, CA",2.0
+2020-02,"San Francisco County/city, CA",1.9
+2020-03,"San Francisco County/city, CA",
+2020-04,"San Francisco County/city, CA",
+2020-05,"San Francisco County/city, CA",
+2020-06,"San Francisco County/city, CA",
+2020-07,"San Francisco County/city, CA",
+2020-08,"San Francisco County/city, CA",
+2020-09,"San Francisco County/city, CA",
+2020-10,"San Francisco County/city, CA",
+2020-11,"San Francisco County/city, CA",
+2020-12,"San Francisco County/city, CA",
+2021-01,"San Francisco County/city, CA",
+2021-02,"San Francisco County/city, CA",
+2011-01,"Santa Barbara County, CA",
+2011-02,"Santa Barbara County, CA",
+2011-03,"Santa Barbara County, CA",10.7
+2011-04,"Santa Barbara County, CA",10.3
+2011-05,"Santa Barbara County, CA",10.1
+2011-06,"Santa Barbara County, CA",9.0
+2011-07,"Santa Barbara County, CA",8.5
+2011-08,"Santa Barbara County, CA",9.3
+2011-09,"Santa Barbara County, CA",9.4
+2011-10,"Santa Barbara County, CA",9.1
+2011-11,"Santa Barbara County, CA",9.0
+2011-12,"Santa Barbara County, CA",9.1
+2012-01,"Santa Barbara County, CA",8.9
+2012-02,"Santa Barbara County, CA",9.3
+2012-03,"Santa Barbara County, CA",9.7
+2012-04,"Santa Barbara County, CA",9.5
+2012-05,"Santa Barbara County, CA",9.2
+2012-06,"Santa Barbara County, CA",8.2
+2012-07,"Santa Barbara County, CA",7.8
+2012-08,"Santa Barbara County, CA",8.4
+2012-09,"Santa Barbara County, CA",8.5
+2012-10,"Santa Barbara County, CA",8.1
+2012-11,"Santa Barbara County, CA",7.5
+2012-12,"Santa Barbara County, CA",7.7
+2013-01,"Santa Barbara County, CA",7.7
+2013-02,"Santa Barbara County, CA",8.2
+2013-03,"Santa Barbara County, CA",8.9
+2013-04,"Santa Barbara County, CA",8.3
+2013-05,"Santa Barbara County, CA",7.8
+2013-06,"Santa Barbara County, CA",6.7
+2013-07,"Santa Barbara County, CA",6.4
+2013-08,"Santa Barbara County, CA",7.2
+2013-09,"Santa Barbara County, CA",7.4
+2013-10,"Santa Barbara County, CA",7.0
+2013-11,"Santa Barbara County, CA",6.6
+2013-12,"Santa Barbara County, CA",6.8
+2014-01,"Santa Barbara County, CA",6.7
+2014-02,"Santa Barbara County, CA",6.8
+2014-03,"Santa Barbara County, CA",7.4
+2014-04,"Santa Barbara County, CA",7.3
+2014-05,"Santa Barbara County, CA",6.8
+2014-06,"Santa Barbara County, CA",5.5
+2014-07,"Santa Barbara County, CA",5.4
+2014-08,"Santa Barbara County, CA",5.8
+2014-09,"Santa Barbara County, CA",6.2
+2014-10,"Santa Barbara County, CA",6.0
+2014-11,"Santa Barbara County, CA",5.6
+2014-12,"Santa Barbara County, CA",5.6
+2015-01,"Santa Barbara County, CA",5.9
+2015-02,"Santa Barbara County, CA",6.0
+2015-03,"Santa Barbara County, CA",6.6
+2015-04,"Santa Barbara County, CA",6.2
+2015-05,"Santa Barbara County, CA",5.6
+2015-06,"Santa Barbara County, CA",4.9
+2015-07,"Santa Barbara County, CA",4.7
+2015-08,"Santa Barbara County, CA",5.0
+2015-09,"Santa Barbara County, CA",5.2
+2015-10,"Santa Barbara County, CA",4.9
+2015-11,"Santa Barbara County, CA",4.5
+2015-12,"Santa Barbara County, CA",4.9
+2016-01,"Santa Barbara County, CA",5.3
+2016-02,"Santa Barbara County, CA",5.6
+2016-03,"Santa Barbara County, CA",6.1
+2016-04,"Santa Barbara County, CA",5.8
+2016-05,"Santa Barbara County, CA",5.6
+2016-06,"Santa Barbara County, CA",4.7
+2016-07,"Santa Barbara County, CA",4.2
+2016-08,"Santa Barbara County, CA",4.9
+2016-09,"Santa Barbara County, CA",5.0
+2016-10,"Santa Barbara County, CA",4.8
+2016-11,"Santa Barbara County, CA",4.6
+2016-12,"Santa Barbara County, CA",4.7
+2017-01,"Santa Barbara County, CA",4.8
+2017-02,"Santa Barbara County, CA",5.6
+2017-03,"Santa Barbara County, CA",6.2
+2017-04,"Santa Barbara County, CA",5.9
+2017-05,"Santa Barbara County, CA",5.3
+2017-06,"Santa Barbara County, CA",4.2
+2017-07,"Santa Barbara County, CA",3.8
+2017-08,"Santa Barbara County, CA",4.3
+2017-09,"Santa Barbara County, CA",4.5
+2017-10,"Santa Barbara County, CA",4.3
+2017-11,"Santa Barbara County, CA",3.8
+2017-12,"Santa Barbara County, CA",3.8
+2018-01,"Santa Barbara County, CA",4.0
+2018-02,"Santa Barbara County, CA",4.4
+2018-03,"Santa Barbara County, CA",5.3
+2018-04,"Santa Barbara County, CA",4.9
+2018-05,"Santa Barbara County, CA",4.7
+2018-06,"Santa Barbara County, CA",3.8
+2018-07,"Santa Barbara County, CA",3.1
+2018-08,"Santa Barbara County, CA",3.9
+2018-09,"Santa Barbara County, CA",3.9
+2018-10,"Santa Barbara County, CA",3.7
+2018-11,"Santa Barbara County, CA",3.3
+2018-12,"Santa Barbara County, CA",3.4
+2019-01,"Santa Barbara County, CA",3.5
+2019-02,"Santa Barbara County, CA",4.2
+2019-03,"Santa Barbara County, CA",5.3
+2019-04,"Santa Barbara County, CA",4.8
+2019-05,"Santa Barbara County, CA",4.7
+2019-06,"Santa Barbara County, CA",3.4
+2019-07,"Santa Barbara County, CA",2.9
+2019-08,"Santa Barbara County, CA",3.4
+2019-09,"Santa Barbara County, CA",3.6
+2019-10,"Santa Barbara County, CA",3.4
+2019-11,"Santa Barbara County, CA",3.0
+2019-12,"Santa Barbara County, CA",3.1
+2020-01,"Santa Barbara County, CA",3.2
+2020-02,"Santa Barbara County, CA",3.6
+2020-03,"Santa Barbara County, CA",
+2020-04,"Santa Barbara County, CA",
+2020-05,"Santa Barbara County, CA",
+2020-06,"Santa Barbara County, CA",
+2020-07,"Santa Barbara County, CA",
+2020-08,"Santa Barbara County, CA",
+2020-09,"Santa Barbara County, CA",
+2020-10,"Santa Barbara County, CA",
+2020-11,"Santa Barbara County, CA",
+2020-12,"Santa Barbara County, CA",
+2021-01,"Santa Barbara County, CA",
+2021-02,"Santa Barbara County, CA",
+2011-01,"Washtenaw County, MI",
+2011-02,"Washtenaw County, MI",
+2011-03,"Washtenaw County, MI",7.0
+2011-04,"Washtenaw County, MI",6.7
+2011-05,"Washtenaw County, MI",7.0
+2011-06,"Washtenaw County, MI",6.4
+2011-07,"Washtenaw County, MI",7.1
+2011-08,"Washtenaw County, MI",8.0
+2011-09,"Washtenaw County, MI",8.4
+2011-10,"Washtenaw County, MI",7.3
+2011-11,"Washtenaw County, MI",6.8
+2011-12,"Washtenaw County, MI",6.2
+2012-01,"Washtenaw County, MI",5.5
+2012-02,"Washtenaw County, MI",5.6
+2012-03,"Washtenaw County, MI",5.9
+2012-04,"Washtenaw County, MI",5.9
+2012-05,"Washtenaw County, MI",6.0
+2012-06,"Washtenaw County, MI",5.4
+2012-07,"Washtenaw County, MI",6.3
+2012-08,"Washtenaw County, MI",6.9
+2012-09,"Washtenaw County, MI",7.6
+2012-10,"Washtenaw County, MI",6.4
+2012-11,"Washtenaw County, MI",5.4
+2012-12,"Washtenaw County, MI",5.4
+2013-01,"Washtenaw County, MI",4.8
+2013-02,"Washtenaw County, MI",5.4
+2013-03,"Washtenaw County, MI",5.9
+2013-04,"Washtenaw County, MI",5.7
+2013-05,"Washtenaw County, MI",5.6
+2013-06,"Washtenaw County, MI",5.2
+2013-07,"Washtenaw County, MI",6.1
+2013-08,"Washtenaw County, MI",6.9
+2013-09,"Washtenaw County, MI",7.4
+2013-10,"Washtenaw County, MI",6.3
+2013-11,"Washtenaw County, MI",5.6
+2013-12,"Washtenaw County, MI",5.5
+2014-01,"Washtenaw County, MI",5.0
+2014-02,"Washtenaw County, MI",4.8
+2014-03,"Washtenaw County, MI",5.1
+2014-04,"Washtenaw County, MI",5.3
+2014-05,"Washtenaw County, MI",5.2
+2014-06,"Washtenaw County, MI",4.7
+2014-07,"Washtenaw County, MI",5.3
+2014-08,"Washtenaw County, MI",5.5
+2014-09,"Washtenaw County, MI",6.2
+2014-10,"Washtenaw County, MI",5.1
+2014-11,"Washtenaw County, MI",4.7
+2014-12,"Washtenaw County, MI",4.2
+2015-01,"Washtenaw County, MI",3.8
+2015-02,"Washtenaw County, MI",3.5
+2015-03,"Washtenaw County, MI",4.1
+2015-04,"Washtenaw County, MI",3.8
+2015-05,"Washtenaw County, MI",3.7
+2015-06,"Washtenaw County, MI",3.5
+2015-07,"Washtenaw County, MI",4.2
+2015-08,"Washtenaw County, MI",4.5
+2015-09,"Washtenaw County, MI",4.8
+2015-10,"Washtenaw County, MI",3.8
+2015-11,"Washtenaw County, MI",3.4
+2015-12,"Washtenaw County, MI",3.4
+2016-01,"Washtenaw County, MI",3.0
+2016-02,"Washtenaw County, MI",2.9
+2016-03,"Washtenaw County, MI",3.3
+2016-04,"Washtenaw County, MI",3.3
+2016-05,"Washtenaw County, MI",3.5
+2016-06,"Washtenaw County, MI",3.2
+2016-07,"Washtenaw County, MI",3.5
+2016-08,"Washtenaw County, MI",4.2
+2016-09,"Washtenaw County, MI",4.8
+2016-10,"Washtenaw County, MI",4.2
+2016-11,"Washtenaw County, MI",3.9
+2016-12,"Washtenaw County, MI",3.8
+2017-01,"Washtenaw County, MI",3.2
+2017-02,"Washtenaw County, MI",3.0
+2017-03,"Washtenaw County, MI",3.6
+2017-04,"Washtenaw County, MI",3.6
+2017-05,"Washtenaw County, MI",3.1
+2017-06,"Washtenaw County, MI",2.7
+2017-07,"Washtenaw County, MI",3.2
+2017-08,"Washtenaw County, MI",3.9
+2017-09,"Washtenaw County, MI",4.9
+2017-10,"Washtenaw County, MI",4.1
+2017-11,"Washtenaw County, MI",3.8
+2017-12,"Washtenaw County, MI",3.2
+2018-01,"Washtenaw County, MI",3.0
+2018-02,"Washtenaw County, MI",2.8
+2018-03,"Washtenaw County, MI",3.4
+2018-04,"Washtenaw County, MI",3.3
+2018-05,"Washtenaw County, MI",3.0
+2018-06,"Washtenaw County, MI",2.6
+2018-07,"Washtenaw County, MI",2.9
+2018-08,"Washtenaw County, MI",3.6
+2018-09,"Washtenaw County, MI",4.0
+2018-10,"Washtenaw County, MI",3.3
+2018-11,"Washtenaw County, MI",2.9
+2018-12,"Washtenaw County, MI",2.8
+2019-01,"Washtenaw County, MI",2.5
+2019-02,"Washtenaw County, MI",2.7
+2019-03,"Washtenaw County, MI",3.1
+2019-04,"Washtenaw County, MI",3.0
+2019-05,"Washtenaw County, MI",3.1
+2019-06,"Washtenaw County, MI",2.6
+2019-07,"Washtenaw County, MI",2.8
+2019-08,"Washtenaw County, MI",3.4
+2019-09,"Washtenaw County, MI",4.2
+2019-10,"Washtenaw County, MI",3.2
+2019-11,"Washtenaw County, MI",2.7
+2019-12,"Washtenaw County, MI",2.4
+2020-01,"Washtenaw County, MI",2.2
+2020-02,"Washtenaw County, MI",2.1
+2020-03,"Washtenaw County, MI",
+2020-04,"Washtenaw County, MI",
+2020-05,"Washtenaw County, MI",
+2020-06,"Washtenaw County, MI",
+2020-07,"Washtenaw County, MI",
+2020-08,"Washtenaw County, MI",
+2020-09,"Washtenaw County, MI",
+2020-10,"Washtenaw County, MI",
+2020-11,"Washtenaw County, MI",
+2020-12,"Washtenaw County, MI",
+2021-01,"Washtenaw County, MI",
+2021-02,"Washtenaw County, MI",
+2011-01,"Westchester County, NY",
+2011-02,"Westchester County, NY",
+2011-03,"Westchester County, NY",7.8
+2011-04,"Westchester County, NY",7.6
+2011-05,"Westchester County, NY",7.1
+2011-06,"Westchester County, NY",6.6
+2011-07,"Westchester County, NY",6.7
+2011-08,"Westchester County, NY",7.0
+2011-09,"Westchester County, NY",7.2
+2011-10,"Westchester County, NY",7.1
+2011-11,"Westchester County, NY",7.2
+2011-12,"Westchester County, NY",6.9
+2012-01,"Westchester County, NY",6.8
+2012-02,"Westchester County, NY",7.0
+2012-03,"Westchester County, NY",7.8
+2012-04,"Westchester County, NY",7.8
+2012-05,"Westchester County, NY",7.4
+2012-06,"Westchester County, NY",6.9
+2012-07,"Westchester County, NY",7.2
+2012-08,"Westchester County, NY",7.5
+2012-09,"Westchester County, NY",7.8
+2012-10,"Westchester County, NY",7.4
+2012-11,"Westchester County, NY",7.1
+2012-12,"Westchester County, NY",6.8
+2013-01,"Westchester County, NY",6.6
+2013-02,"Westchester County, NY",6.7
+2013-03,"Westchester County, NY",7.6
+2013-04,"Westchester County, NY",7.3
+2013-05,"Westchester County, NY",6.5
+2013-06,"Westchester County, NY",5.9
+2013-07,"Westchester County, NY",6.2
+2013-08,"Westchester County, NY",6.4
+2013-09,"Westchester County, NY",6.4
+2013-10,"Westchester County, NY",6.2
+2013-11,"Westchester County, NY",6.0
+2013-12,"Westchester County, NY",5.8
+2014-01,"Westchester County, NY",5.4
+2014-02,"Westchester County, NY",5.2
+2014-03,"Westchester County, NY",5.9
+2014-04,"Westchester County, NY",6.1
+2014-05,"Westchester County, NY",5.5
+2014-06,"Westchester County, NY",4.6
+2014-07,"Westchester County, NY",5.0
+2014-08,"Westchester County, NY",5.0
+2014-09,"Westchester County, NY",5.4
+2014-10,"Westchester County, NY",5.3
+2014-11,"Westchester County, NY",4.9
+2014-12,"Westchester County, NY",4.7
+2015-01,"Westchester County, NY",4.7
+2015-02,"Westchester County, NY",4.4
+2015-03,"Westchester County, NY",5.2
+2015-04,"Westchester County, NY",5.2
+2015-05,"Westchester County, NY",4.7
+2015-06,"Westchester County, NY",4.4
+2015-07,"Westchester County, NY",4.6
+2015-08,"Westchester County, NY",4.6
+2015-09,"Westchester County, NY",4.8
+2015-10,"Westchester County, NY",4.5
+2015-11,"Westchester County, NY",4.3
+2015-12,"Westchester County, NY",4.1
+2016-01,"Westchester County, NY",4.0
+2016-02,"Westchester County, NY",4.0
+2016-03,"Westchester County, NY",4.4
+2016-04,"Westchester County, NY",4.6
+2016-05,"Westchester County, NY",4.3
+2016-06,"Westchester County, NY",4.0
+2016-07,"Westchester County, NY",3.8
+2016-08,"Westchester County, NY",4.2
+2016-09,"Westchester County, NY",4.5
+2016-10,"Westchester County, NY",4.5
+2016-11,"Westchester County, NY",4.5
+2016-12,"Westchester County, NY",4.4
+2017-01,"Westchester County, NY",4.1
+2017-02,"Westchester County, NY",4.2
+2017-03,"Westchester County, NY",4.8
+2017-04,"Westchester County, NY",5.0
+2017-05,"Westchester County, NY",4.4
+2017-06,"Westchester County, NY",4.2
+2017-07,"Westchester County, NY",4.3
+2017-08,"Westchester County, NY",4.5
+2017-09,"Westchester County, NY",4.7
+2017-10,"Westchester County, NY",4.8
+2017-11,"Westchester County, NY",4.5
+2017-12,"Westchester County, NY",4.3
+2018-01,"Westchester County, NY",4.3
+2018-02,"Westchester County, NY",4.3
+2018-03,"Westchester County, NY",4.7
+2018-04,"Westchester County, NY",4.9
+2018-05,"Westchester County, NY",4.3
+2018-06,"Westchester County, NY",3.8
+2018-07,"Westchester County, NY",3.6
+2018-08,"Westchester County, NY",3.9
+2018-09,"Westchester County, NY",4.0
+2018-10,"Westchester County, NY",3.9
+2018-11,"Westchester County, NY",3.5
+2018-12,"Westchester County, NY",3.4
+2019-01,"Westchester County, NY",3.2
+2019-02,"Westchester County, NY",3.5
+2019-03,"Westchester County, NY",4.1
+2019-04,"Westchester County, NY",4.1
+2019-05,"Westchester County, NY",3.7
+2019-06,"Westchester County, NY",3.3
+2019-07,"Westchester County, NY",3.4
+2019-08,"Westchester County, NY",3.7
+2019-09,"Westchester County, NY",4.0
+2019-10,"Westchester County, NY",4.1
+2019-11,"Westchester County, NY",3.7
+2019-12,"Westchester County, NY",3.7
+2020-01,"Westchester County, NY",3.6
+2020-02,"Westchester County, NY",3.8
+2020-03,"Westchester County, NY",
+2020-04,"Westchester County, NY",
+2020-05,"Westchester County, NY",
+2020-06,"Westchester County, NY",
+2020-07,"Westchester County, NY",
+2020-08,"Westchester County, NY",
+2020-09,"Westchester County, NY",
+2020-10,"Westchester County, NY",
+2020-11,"Westchester County, NY",
+2020-12,"Westchester County, NY",
+2021-01,"Westchester County, NY",
+2021-02,"Westchester County, NY",

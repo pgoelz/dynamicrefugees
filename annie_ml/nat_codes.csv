@@ -1,0 +1,274 @@
+,nationality code,nationality name,continent
+0,af,afghanistan,asia
+1,al,albania,europe
+2,ag,algeria,africa
+3,aq,american samoa,north america
+4,an,andorra,europe
+5,ao,angola,africa
+6,av,anguilla,south america
+7,ay,antarctica,south america
+8,ac,antigua,south america
+9,ar,argentina,south america
+10,am,armenia,europe
+11,at,ashmore and cartier islands,oceania
+12,as,australia,oceania
+13,au,austria,europe
+14,aj,azerbaijan,asia
+15,bf,bahamas,north america
+16,ba,bahrain,middle east
+17,fq,baker island,oceania
+18,bg,bangladesh,asia
+19,bb,barbados,north america
+20,bs,bassas da india,europe
+21,bo,belarus,europe
+22,be,belgium,europe
+23,bh,belize,north america
+24,bn,benin,africa
+25,bd,bermuda,north america
+26,bt,bhutan,asia
+27,bl,bolivia,south america
+28,bk,bosnia and herzegovina,europe
+29,bc,botswana,africa
+30,bv,bouvert island,europe
+31,br,brazil,south america
+32,io,british indian ocean territory,oceania
+33,vi,british virgin islands,north america
+34,bx,brunei,asia
+35,bu,bulgaria,europe
+36,uv,burkina faso (uvolta),africa
+37,bm,burma,asia
+38,by,burundi,africa
+39,cv,cabo verde,africa
+40,cb,cambodia,asia
+41,cm,cameroon,africa
+42,ca,canada,north america
+43,cj,cayman islands,north america
+44,ct,central african republic,africa
+45,cd,chad,africa
+46,ci,chile,south america
+47,ch,china,asia
+48,kt,christmas island,asia
+49,ip,clipperton island,oceania
+50,ck,cocos (keeling) islands,
+51,co,colombia,south america
+52,cn,comoro islands,africa
+53,cf,congo,africa
+54,cw,cook islands,oceania
+55,cr,coral sea islands,oceania
+56,cs,costa rica,north america
+57,hr,croatia,europe
+58,cu,cuba,north america
+59,cy,cyprus,europe
+60,cz,czech republic,europe
+61,cg,dem. rep. congo,africa
+62,da,denmark,europe
+63,dj,djibouti,africa
+64,do,dominica,north america
+65,dr,dominican republic,north america
+66,ec,ecuador,south america
+67,eg,egypt,africa
+68,es,el salvador,north america
+69,ek,equatorial guinea,africa
+70,er,eritrea,africa
+71,en,estonia,europe
+72,et,ethiopia,africa
+73,eu,europa island,africa
+74,fa,falkland islands (islas malvinas),south america
+75,fo,faroe islands,europe
+76,fj,fiji ,oceania
+77,fi,finland,europe
+78,fr,france,europe
+79,fg,french guiana,south america
+80,fp,french polynesia,oceania
+81,fs,french southern and antarctic lands,oceania
+82,gb,gabon,africa
+83,ga,gambia,africa
+84,gz,gaza strip,middle east
+85,gg,georgia,europe
+86,gm,germany,europe
+87,ge,germany (east),europe
+88,gh,ghana,africa
+89,gi,gibraltar,europe
+90,go,glorioso islands,oceania
+91,gr,greece,europe
+92,gl,greenland,europe
+93,gj,grenada,europe
+94,gp,guadeloupe,north america
+95,gq,guam,oceania
+96,gt,guatemala,north america
+97,gk,guernsey,europe
+98,gv,guinea,africa
+99,pu,guinea - bissau,africa
+100,gy,guyana,south america
+101,ha,haiti,north america
+102,hm,heard islands and mcdonald islands,oceania
+103,ho,honduras,north america
+104,hk,hong kong,asia
+105,hq,howland island,oceania
+106,hu,hungary,europe
+107,ic,iceland,europe
+108,in,india,asia
+109,id,indonesia,asia
+110,ir,iran,middle east
+111,iz,iraq,middle east
+112,iy,"iraq - saudi arabia, neutral zone",middle east
+113,ei,ireland,europe
+114,is,israel,middle east
+115,it,italy,europe
+116,iv,ivory coast,africa
+117,jm,jamaica,north america
+118,jn,jan mayen,europe
+119,ja,japan (also ryukyu islands - north),asia
+120,dq,jarvis island,oceania
+121,je,jersey,europe
+122,jq,johnston atoll,oceania
+123,jo,jordan,middle east
+124,ju,juan de nova island,oceania
+125,kz,kazakhstan,asia
+126,ke,kenya,africa
+127,kq,kingman reef,oceania
+128,kr,kiribati,oceania
+129,kn,"korea, north",asia
+130,ks,"korea, republic of south",asia
+131,ku,kuwait,middle east
+132,kg,kyrgyzstan,asia
+133,la,laos,asia
+134,lg,latvia,europe
+135,le,lebanon,middle east
+136,lt,lesotho,africa
+137,li,liberia,africa
+138,ly,libya,africa
+139,ls,liechtenstein,europe
+140,lh,lithuania,europe
+141,lu,luxembourg,europe
+142,mc,macau,asia
+143,mk,macedonia,europe
+144,ma,madagascar (malagasy republic),africa
+145,mi,malawi,africa
+146,my,malaysia,asia
+147,mv,maldives,asia
+148,ml,mali,africa
+149,mt,malta,europe
+150,im,"man, isle of",europe
+151,mb,martinique,north america
+152,mr,mauritania,africa
+153,mp,mauritius,africa
+154,mf,mayotte,oceania
+155,mx,mexico,north america
+156,mq,midway islands,europe
+157,md,moldova,europe
+158,mn,monaco,europe
+159,mg,mongolia,asia
+160,mw,montenegro,europe
+161,mh,montserrat,europe
+162,mo,morocco,africa
+163,mz,mozambique,africa
+164,wa,namibia,africa
+165,nr,nauru,oceania
+166,bq,navassa island,north america
+167,np,nepal,asia
+168,nl,netherlands,europe
+169,,netherlands antilles,north america
+170,nc,new caledonia,oceania
+171,nz,new zealand,oceania
+172,nu,nicaragua,north america
+173,ng,niger,africa
+174,ni,nigeria,africa
+175,ne,niue,oceania
+176,nf,norfolk island,oceania
+177,cq,northern mariana islands,oceania
+178,no,norway,europe
+179,mu,oman,middle east
+180,pk,pakistan,asia
+181,pi,pakistan - islamabad,asia
+182,pn,palestine,middle east
+183,ps,palestine,middle east
+184,lq,palmyra atoll,oceania
+185,pm,panama,north america
+186,pp,papua new guinea,asia
+187,pf,paracel islands,oceania
+188,pa,paraguay,south america
+189,pe,peru,south america
+190,rp,philippines,asia
+191,pc,pitcairn islands,oceania
+192,pl,poland,europe
+193,po,portugal,europe
+194,rq,puerto rico,north america
+195,qa,qatar,middle east
+196,ss,republic of south sudan,africa
+197,re,reunion,africa
+198,rm,roma,europe
+199,ro,romania,europe
+200,rs,russia,asia
+201,rw,rwanda,africa
+202,sm,san marino,europe
+203,tp,sao tome and principe,africa
+204,sa,saudi arabia,middle east
+205,sg,senegal,africa
+206,sr,serbia,europe
+207,se,seychelles,africa
+208,sl,sierra leone,africa
+209,sn,singapore,asia
+210,lo,slovakia,europe
+211,si,slovenia,europe
+212,bp,solomon islands,oceania
+213,so,somalia,africa
+214,sf,south africa,africa
+215,sp,spain,europe
+216,pg,spratly islands,oceania
+217,ce,sri lanka (ceylon),asia
+218,sc,st. christopher and nevis,oceania
+219,sh,st. helena,south america
+220,st,st. lucia,north america
+221,sb,st. pierre and miquelon,north america
+222,vc,st. vincent and the grenadines,north america
+223,su,sudan,africa
+224,ns,suriname,south america
+225,sv,svalbard,europe
+226,wz,swaziland,africa
+227,sw,sweden,europe
+228,sz,switzerland,europe
+229,sy,syria,middle east
+230,tw,taiwan,asia
+231,ti,tajikistan,asia
+232,tz,tanzania,africa
+233,th,thailand,asia
+234,tb,tibet,asia
+235,to,togo,africa
+236,tl,tokelau,oceania
+237,tn,tonga,oceania
+238,td,trinidad and tobago,north america
+239,te,tromelin island,asia
+240,nq,trust territory of the pacific islands,oceania
+241,ts,tunisia,africa
+242,tu,turkey,asia
+243,tx,turkmenistan,asia
+244,tk,turks and caicos islands,oceania
+245,tv,tuvalu,oceania
+246,ug,uganda,africa
+247,up,ukraine,europe
+248,ur,union of soviet socialist republics,asia
+249,tc,united arab emirates,middle east
+250,uk,united kingdom,europe
+251,us,united states of america,north america
+252,uu,unknown,
+253,zz,unknown,
+254,uy,uruguay,south america
+255,uz,uzbekistan,asia
+256,nh,vanuatu,oceania
+257,vt,vatican city,europe
+258,ve,venezuela,south america
+259,vm,vietnam,asia
+260,vq,virgin islands,north america
+261,wq,wake island,oceania
+262,wf,wallis and futuna,oceania
+263,we,west bank,middle east
+264,gw,west germany (discontinued 10/2/90),
+265,wi,western sahara,africa
+266,ws,western samoa,oceania
+267,ym,yemen,middle east
+268,ys,yemen (aden),middle east
+269,ye,yemen (sanaa),middle east
+270,yo,yugoslavia,europe
+271,za,zambia,africa
+272,zi,zimbabwe,africa
